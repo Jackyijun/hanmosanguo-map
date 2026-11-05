@@ -123,7 +123,9 @@ def compute_snaps(base):
     cost, passable = T.cost_raster(G, land, lake, elev, relief, ranges, rivers)
     print(f"   代价栅格 {G.W}×{G.H}，{time.time() - t0:.1f}s")
     seedlab_land, dist = T.partition(G, cost, passable, SEEDS)
-    seedlab = T.warp(G, T.extend_into_water(G, seedlab_land, land, passable))
+    river_d = G.dist_deg(G.burn_lines([l for _, lines in rivers for l in lines]))
+    hold = np.clip((river_d - C.WARP_RIVER_HOLD[0]) / C.WARP_RIVER_HOLD[1], 0, 1)
+    seedlab = T.warp(G, T.extend_into_water(G, seedlab_land, land, passable), hold)
     print(f"   多源最短路完成，{time.time() - t0:.1f}s")
 
     cache, cov_cache = {}, {}
@@ -156,7 +158,7 @@ def compute_snaps(base):
         zkey = {}
         for i, s in enumerate(SEEDS):
             k = own[i]
-            if not k or UNITS[UK[k]]["kind"] == "tribe": continue
+            if not k or UNITS[UK[k]]["kind"] in ("tribe", "waste"): continue
             zh = zhou_of(s, y, k)
             if not zh: continue
             polk = r["pol"][k]

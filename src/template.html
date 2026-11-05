@@ -315,6 +315,7 @@
   const GEO = __GEO__;
   const DATA = __DATA__;
   const UNITS = DATA.units, SEEDS = DATA.seeds, ITEMS = DATA.items, SNAPS = GEO.snaps;
+  const tribal = u => UNITS[u].kind === "tribe" || UNITS[u].kind === "waste";   // 部族与弃地：淡填色、虚线、不计政权
   const UK = Object.fromEntries(UNITS.map((u, i) => [u.k, i]));
 
   /* ---------------- 工具 ---------------- */
@@ -520,7 +521,7 @@
     if (!zhenMode) for (const p of sn.multi) fills.push([p, sn.p[p], sn.lp[p]]);
     for (const [u, rings, lab] of fills) {
       const k = keyOf("u", u), on = isOn(k);
-      const tribe = UNITS[u].kind === "tribe";
+      const tribe = tribal(u);
       const isZhen = sn.pol[u] !== undefined && sn.pol[u] !== u;
       lTerr.append(el("path", {
         d: ringsD(rings), class: "terr", "data-k": k, "fill-rule": "evenodd", "vector-effect": "non-scaling-stroke", "stroke-linejoin": "round",
@@ -536,7 +537,7 @@
       else if (sn.z[p]) outlines.push([p, sn.z[p]]);
     }
     for (const [p, rings] of outlines) {
-      if (UNITS[p].kind === "tribe") continue;
+      if (tribal(p)) continue;
       lPolB.append(el("path", { d: ringsD(rings), fill: "none", stroke: "var(--ink)", "stroke-width": zhenMode && sn.multi.has(p) ? 1.9 : 1.1, "stroke-opacity": zhenMode && sn.multi.has(p) ? .85 : .45, "vector-effect": "non-scaling-stroke", "stroke-linejoin": "round", "pointer-events": "none" }));
     }
     // 州界（随节点）
@@ -874,7 +875,7 @@
     lProv.setAttribute("display", layerOn.prov ? "inline" : "none");
     lBorder.setAttribute("display", layerOn.border ? "inline" : "none");
     drawInsetRect(); drawScale();
-    const np = sn.pols.filter(p => UNITS[p].kind !== "tribe").length;
+    const np = sn.pols.filter(p => !tribal(p)).length;
     const nz = sn.units.filter(u => sn.pol[u] !== u && !UNITS[u].x).length;
     document.getElementById("count").textContent = `${YY} 年 · ${np} 个政权${nz ? " · " + nz + " 路诸侯" : ""} · 视野内 ${nShown} 处`;
   }
@@ -918,8 +919,8 @@
   }
 
   /* ---------------- 说明文字 ---------------- */
-  const KIND_TXT = { state: "政权", zhen: "诸侯", tribe: "部族", sub: "属部" };
-  function unitKindAt(u, sn) { if (!sn.pol.hasOwnProperty(u)) return UNITS[u].kind; return sn.pol[u] !== u ? (UNITS[u].x ? "sub" : "zhen") : UNITS[u].kind === "tribe" ? "tribe" : "state"; }
+  const KIND_TXT = { state: "政权", zhen: "诸侯", tribe: "部族", waste: "弃地", sub: "属部" };
+  function unitKindAt(u, sn) { if (!sn.pol.hasOwnProperty(u)) return UNITS[u].kind; return sn.pol[u] !== u ? (UNITS[u].x ? "sub" : "zhen") : tribal(u) ? UNITS[u].kind : "state"; }
   function presentIn(u) { return SNAPS.map((sn, j) => (sn.pol.hasOwnProperty(u) || sn.pols.includes(u)) ? j : -1).filter(j => j >= 0); }
   function unitSeeds(u, sn) { return (sn.multi.has(u) ? sn.polSeeds(u) : (sn.seedsOf[u] || [])).filter(s => SEEDS[s].t !== "r"); }
   function seatName(u, sn) {
@@ -1178,7 +1179,7 @@
   }
   function legendUnits(sn) {
     if (cmode !== "zhen") return polOrder(sn);
-    const tribe = u => UNITS[u].kind === "tribe" ? 1 : 0;
+    const tribe = u => tribal(u) ? 1 : 0;
     return sn.units.slice().sort((a, b) => tribe(a) - tribe(b) || unitSeeds(b, sn).length - unitSeeds(a, sn).length);
   }
   function buildLegendStates() {
@@ -1187,7 +1188,7 @@
     document.getElementById("legsub").textContent = cmode === "zhen" ? "本期诸侯与政权（按实际控制）" : "本期政权（按名义所属）";
     for (const p of legendUnits(sn)) {
       const b = document.createElement("button");
-      const tribe = UNITS[p].kind === "tribe";
+      const tribe = tribal(p);
       b.innerHTML = `<span class="sq${tribe ? " tribe" : ""}" style="--k:${uVar(p)}"></span><span class="t">${esc(sn.labOf(p))}</span>`;
       b.title = sn.labOf(p);
       b.addEventListener("click", () => select(keyOf("u", p), false));
@@ -1265,7 +1266,7 @@
     index.replaceChildren();
     const sn = SNAPS[si], YY = sn.y;
     let total = 0;
-    const urow = u => { const k = keyOf("u", u), f = info(k, "row"); const tribe = UNITS[u].kind === "tribe"; return rowEl(k, uVar(u), f.old, f.mod, f.meta, f.note, f.chain, false, `<span class="sq${tribe ? " tribe" : ""}" style="--k:${uVar(u)}"></span>`); };
+    const urow = u => { const k = keyOf("u", u), f = info(k, "row"); const tribe = tribal(u); return rowEl(k, uVar(u), f.old, f.mod, f.meta, f.note, f.chain, false, `<span class="sq${tribe ? " tribe" : ""}" style="--k:${uVar(u)}"></span>`); };
     // 政权
     total += group("pol", "政权", `${YY} 年`, "var(--ink-2)", polOrder(sn).filter(p => match(keyOf("u", p))).map(urow));
     // 藩镇

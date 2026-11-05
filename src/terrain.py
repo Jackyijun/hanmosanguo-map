@@ -252,15 +252,18 @@ def extend_into_water(G, lab, land, passable):
     return out
 
 
-def warp(G, lab):
+def warp(G, lab, hold=None):
     """平原上两点之间的分界是一条直的中垂线；给整张归属栅格加一层平滑的位移场，
-    让所有分界都带上河曲一样的小弯。位移远小于平滑尺度，不会撕裂或折叠。"""
+    让所有分界都带上河曲一样的小弯。位移远小于平滑尺度，不会撕裂或折叠。
+    hold：0—1 的系数栅格，界河两侧位移逐渐减为 0，沿江、河、淮、汉的分界不会被推离河道。"""
     rng = np.random.default_rng(C.NOISE_SEED + 7)
     dr = np.zeros((G.H, G.W)); dc = np.zeros((G.H, G.W))
     for sigma, amp in C.WARP:
         for d in (dr, dc):
             n = ndimage.gaussian_filter(rng.standard_normal((G.H, G.W)), sigma, mode="wrap")
             d += amp * n / n.std()
+    if hold is not None:
+        dr *= hold; dc *= hold
     rr, cc = np.mgrid[0:G.H, 0:G.W].astype(float)
     return ndimage.map_coordinates(lab, [rr + dr, cc + dc], order=0, mode="nearest").astype(lab.dtype)
 

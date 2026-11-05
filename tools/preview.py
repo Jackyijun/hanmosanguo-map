@@ -43,7 +43,7 @@ def main():
         for poly in geo["land"]:
             for r in poly[:1]: ax.add_patch(MP(dec(r), closed=True, fc="#ECEBE3", ec="#999", lw=.3))
         for u, rings in sn["z"].items():
-            u = int(u); tribe = units[u]["kind"] == "tribe"
+            u = int(u); tribe = units[u]["kind"] in ("tribe", "waste")
             for r in rings:
                 ax.add_patch(MP(dec(r), closed=True, fc=cols[u], alpha=.35 if tribe else .62, ec="#333", lw=.4, ls="--" if tribe else "-"))
         for p, rings in sn["p"].items():
