@@ -1,0 +1,1579 @@
+{
+ "河南尹": {
+  "n": {
+   "洛阳": "Luoyang"
+  },
+  "jn": {
+   "河南尹": "Henan Yin"
+  },
+  "mod": "east of Luoyang, Henan (Han–Wei Luoyang city site)",
+  "note": "Capital of the Eastern Han, Cao Wei and Western Jin. In 190 Dong Zhuo burned the palaces and drove the people west, so that \"within two hundred li not a soul was left\"; Cao Pi made it his capital again in 220."
+ },
+ "河内郡": {
+  "n": {
+   "怀": "Huai"
+  },
+  "jn": {
+   "河内郡": "Henei Commandery"
+  },
+  "mod": "southwest of Wuzhi, Henan",
+  "note": "Seat at Huai. With the Taihang Mountains to the north and the Yellow River to the south, it was the gateway between Hebei and Luoyang, and the ancestral home of the Sima family."
+ },
+ "河东郡": {
+  "n": {
+   "安邑": "Anyi"
+  },
+  "jn": {
+   "河东郡": "Hedong Commandery"
+  },
+  "mod": "northwest of Xia County, Shanxi (Yuwang City)",
+  "note": "Seat at Anyi. Site of the salt lake; Emperor Xian stayed at Anyi on his journey east in 195."
+ },
+ "弘农郡": {
+  "n": {
+   "弘农": "Hongnong"
+  },
+  "jn": {
+   "弘农郡": "Hongnong Commandery"
+  },
+  "mod": "northeast of Lingbao, Henan",
+  "note": "Seat at Hongnong, the old city of the Qin Hangu Pass. The route between Guanzhong and Luoyang."
+ },
+ "京兆尹": {
+  "n": {
+   "长安": "Chang'an"
+  },
+  "jn": {
+   "京兆尹": "Jingzhao Yin",
+   "京兆郡": "Jingzhao Commandery"
+  },
+  "mod": "northwest of Xi'an, Shaanxi (Han Chang'an city site)",
+  "note": "The old capital of the Western Han. From 190 to 195 Emperor Xian lived here as the captive of Dong Zhuo and then Li Jue."
+ },
+ "左冯翊": {
+  "n": {
+   "左冯翊": "Zuo Pingyi",
+   "冯翊郡": "Pingyi Commandery"
+  },
+  "mod": "Gaoling District, Xi'an, Shaanxi"
+ },
+ "右扶风": {
+  "n": {
+   "右扶风": "You Fufeng",
+   "扶风郡": "Fufeng Commandery"
+  },
+  "mod": "southeast of Xingping, Shaanxi",
+  "note": "Seat at Huaili. Ma Teng was once based at Huaili."
+ },
+ "陕县": {
+  "n": {
+   "陕县": "Shan County"
+  },
+  "mod": "Shanzhou District, Sanmenxia, Henan",
+  "note": "Dong Zhuo's officer Niu Fu was stationed here; in 195 Emperor Xian crossed the Yellow River from here by night."
+ },
+ "华阴": {
+  "n": {
+   "华阴": "Huayin"
+  },
+  "mod": "Huayin, Shaanxi",
+  "note": "Duan Wei, one of the Guanzhong generals, was stationed here and supplied Emperor Xian on his journey east."
+ },
+ "郿县": {
+  "n": {
+   "郿县": "Mei County"
+  },
+  "mod": "east of Mei County, Shaanxi",
+  "note": "Dong Zhuo built Mei Fort, called the \"Fort of Ten Thousand Years\", with grain enough for thirty years; it was confiscated after his death in 192."
+ },
+ "陈仓": {
+  "n": {
+   "陈仓": "Chencang"
+  },
+  "mod": "east of Chencang District, Baoji, Shaanxi",
+  "note": "The western gate of Guanzhong. In winter 228 Hao Zhao held Chencang with a thousand-odd men for more than twenty days, and Zhuge Liang could not take it."
+ },
+ "雍县": {
+  "n": {
+   "雍县": "Yong County"
+  },
+  "mod": "Fengxiang District, Baoji, Shaanxi"
+ },
+ "临晋": {
+  "n": {
+   "临晋": "Linjin"
+  },
+  "mod": "east of Dali, Shaanxi",
+  "note": "West bank of Pujin Ford. In 211 Cao Cao's army crossed the Yellow River westward at Puban Ford to get behind Ma Chao and Han Sui."
+ },
+ "夏阳": {
+  "n": {
+   "夏阳": "Xiayang"
+  },
+  "mod": "south of Hancheng, Shaanxi"
+ },
+ "蒲坂": {
+  "n": {
+   "蒲坂": "Puban"
+  },
+  "mod": "southwest of Yongji, Shanxi",
+  "note": "East bank of Pujin Ford."
+ },
+ "平阳": {
+  "n": {
+   "平阳": "Pingyang"
+  },
+  "mod": "southwest of Linfen, Shanxi",
+  "note": "Yufuluo's band of Southern Xiongnu was once based here; Wei split Pingyang Commandery off from Hedong."
+ },
+ "野王": {
+  "n": {
+   "野王": "Yewang"
+  },
+  "mod": "Qinyang, Henan"
+ },
+ "温县": {
+  "n": {
+   "温县": "Wen County"
+  },
+  "mod": "west of Wen County, Henan",
+  "note": "Home town of Sima Yi."
+ },
+ "朝歌": {
+  "n": {
+   "朝歌": "Zhaoge"
+  },
+  "mod": "Qi County, Henan"
+ },
+ "荥阳": {
+  "n": {
+   "荥阳": "Xingyang"
+  },
+  "mod": "northeast of Xingyang, Henan (Guxing Town)",
+  "note": "Site of the Ao Granary and the Honggou Canal. In 190 Cao Cao, pursuing Dong Zhuo, was defeated on the Bian River at Xingyang."
+ },
+ "梁县": {
+  "n": {
+   "梁县": "Liang County"
+  },
+  "mod": "southwest of Ruzhou, Henan"
+ },
+ "颍川郡": {
+  "n": {
+   "阳翟": "Yangzhai"
+  },
+  "jn": {
+   "颍川郡": "Yingchuan Commandery"
+  },
+  "mod": "Yuzhou, Henan",
+  "note": "Seat at Yangzhai. A gathering place of famous scholars in the late Han: Xun Yu, Xun You, Guo Jia, Zhong Yao and Chen Qun were all from Yingchuan."
+ },
+ "汝南郡": {
+  "n": {
+   "平舆": "Pingyu"
+  },
+  "jn": {
+   "汝南郡": "Runan Commandery"
+  },
+  "mod": "north of Pingyu, Henan",
+  "note": "A large commandery, second only to Nanyang in population; ancestral home of the Yuan family (Yuan Shao and Yuan Shu were from Ruyang in Runan)."
+ },
+ "梁国": {
+  "n": {
+   "睢阳": "Suiyang"
+  },
+  "jn": {
+   "梁国": "Liang Kingdom"
+  },
+  "mod": "south of Suiyang District, Shangqiu, Henan",
+  "note": "Seat at Suiyang."
+ },
+ "沛国": {
+  "n": {
+   "沛国": "Pei Kingdom"
+  },
+  "mod": "northwest of Huaibei, Anhui",
+  "note": "Seat at Xiang County. Cao Cao and Hua Tuo were from Qiao in Pei Kingdom."
+ },
+ "陈国": {
+  "n": {
+   "陈": "Chen"
+  },
+  "jn": {
+   "陈国": "Chen Kingdom"
+  },
+  "mod": "Huaiyang District, Zhoukou, Henan",
+  "note": "Liu Chong, King of Chen, protected his kingdom with strong crossbows, until Yuan Shu had him killed in 197."
+ },
+ "鲁国": {
+  "n": {
+   "鲁": "Lu"
+  },
+  "jn": {
+   "鲁国": "Lu Kingdom"
+  },
+  "mod": "Qufu, Shandong",
+  "note": "Home of Confucius; Kong Rong was his twentieth-generation descendant."
+ },
+ "许": {
+  "n": {
+   "许": "Xu",
+   "许县": "Xu County",
+   "许昌": "Xuchang"
+  },
+  "mod": "Zhangpan Town, Jian'an District, Xuchang, Henan (site of the Han–Wei capital at Xu)",
+  "note": "In 196 Cao Cao brought Emperor Xian here to make Xu his capital, \"serving the Son of Heaven to command those who do not submit\", and set up military farms around Xu. Cao Pi renamed it Xuchang, one of the Five Capitals of Wei."
+ },
+ "长社": {
+  "n": {
+   "长社": "Changshe"
+  },
+  "mod": "northeast of Changge, Henan"
+ },
+ "襄城": {
+  "n": {
+   "襄城": "Xiangcheng"
+  },
+  "mod": "Xiangcheng, Henan"
+ },
+ "汝阴": {
+  "n": {
+   "汝阴": "Ruyin"
+  },
+  "mod": "Fuyang, Anhui"
+ },
+ "弋阳": {
+  "n": {
+   "弋阳": "Yiyang"
+  },
+  "mod": "west of Huangchuan, Henan",
+  "note": "Wei set up Yiyang Commandery here, facing Wu's Jiangxia across the Dabie Mountains."
+ },
+ "项县": {
+  "n": {
+   "项县": "Xiang County"
+  },
+  "mod": "Shenqiu, Henan",
+  "note": "In 255 Guanqiu Jian and Wen Qin rose in Huainan and advanced to hold Xiang County."
+ },
+ "谯": {
+  "n": {
+   "谯": "Qiao"
+  },
+  "mod": "Bozhou, Anhui",
+  "note": "Home town of Cao Cao and one of the Five Capitals of Wei. On his southern campaigns after taking the throne Cao Pi often stayed here."
+ },
+ "小沛": {
+  "n": {
+   "小沛": "Xiaopei"
+  },
+  "mod": "Pei County, Jiangsu",
+  "note": "That is, Pei County. Liu Bei was based here twice; in 196 Lü Bu mediated between Liu Bei and Yuan Shu here by \"shooting an arrow at the halberd by the camp gate\"."
+ },
+ "魏郡": {
+  "n": {
+   "邺": "Ye"
+  },
+  "jn": {
+   "魏郡": "Wei Commandery"
+  },
+  "mod": "southwest of Linzhang, Hebei (Ye city site)",
+  "note": "Seat at Ye. Base of Yuan Shao and then Cao Cao; Cao Cao built the three terraces of the Bronze Sparrow, the Golden Tiger and the Ice Well. It became the capital of the state of Wei in 213 and later one of the Five Capitals of Wei."
+ },
+ "巨鹿郡": {
+  "n": {
+   "巨鹿郡": "Julu Commandery"
+  },
+  "mod": "southwest of Ningjin, Hebei",
+  "note": "Seat at Yingtao. Zhang Jue and his brothers rose in Julu, where the Way of Great Peace began."
+ },
+ "常山国": {
+  "n": {
+   "常山国": "Changshan Kingdom"
+  },
+  "mod": "northwest of Yuanshi, Hebei"
+ },
+ "中山国": {
+  "n": {
+   "中山国": "Zhongshan Kingdom"
+  },
+  "mod": "Dingzhou, Hebei"
+ },
+ "安平国": {
+  "n": {
+   "信都": "Xindu"
+  },
+  "jn": {
+   "安平国": "Anping Kingdom"
+  },
+  "mod": "Jizhou District, Hengshui, Hebei",
+  "note": "Seat at Xindu."
+ },
+ "河间国": {
+  "n": {
+   "河间国": "Hejian Kingdom"
+  },
+  "mod": "southeast of Xian County, Hebei",
+  "note": "Seat at Lecheng."
+ },
+ "清河国": {
+  "n": {
+   "清河国": "Qinghe Kingdom"
+  },
+  "mod": "northeast of Linqing, Shandong",
+  "note": "Seat at Ganling; it was once renamed Ganling Kingdom."
+ },
+ "赵国": {
+  "n": {
+   "邯郸": "Handan"
+  },
+  "jn": {
+   "赵国": "Zhao Kingdom"
+  },
+  "mod": "Handan, Hebei"
+ },
+ "勃海郡": {
+  "n": {
+   "南皮": "Nanpi"
+  },
+  "jn": {
+   "勃海郡": "Bohai Commandery"
+  },
+  "mod": "northeast of Nanpi, Hebei",
+  "note": "Seat at Nanpi. Yuan Shao began his rise as Administrator of Bohai; in 205 Cao Cao beheaded Yuan Tan at Nanpi."
+ },
+ "黎阳": {
+  "n": {
+   "黎阳": "Liyang"
+  },
+  "mod": "northeast of Xun County, Henan",
+  "note": "A key ford on the north bank of the Yellow River, facing Baima Ford on the south bank."
+ },
+ "广宗": {
+  "n": {
+   "广宗": "Guangzong"
+  },
+  "mod": "east of Wei County, Hebei",
+  "note": "After his rising Zhang Jue held Guangzong and died of illness here in 184; his brother Zhang Liang was defeated here."
+ },
+ "下曲阳": {
+  "n": {
+   "下曲阳": "Xiaquyang"
+  },
+  "mod": "west of Jinzhou, Hebei"
+ },
+ "真定": {
+  "n": {
+   "真定": "Zhending"
+  },
+  "mod": "south of Zhengding, Hebei",
+  "note": "Home town of Zhao Yun."
+ },
+ "易京": {
+  "n": {
+   "易京": "Yijing"
+  },
+  "mod": "northwest of Xiong County, Hebei",
+  "note": "Gongsun Zan built this stronghold on the Yi River to defend himself, with towers ten zhang high and three million hu of stored grain; in 199 Yuan Shao tunnelled in and took it."
+ },
+ "陈留郡": {
+  "n": {
+   "陈留": "Chenliu"
+  },
+  "jn": {
+   "陈留郡": "Chenliu Commandery"
+  },
+  "mod": "Chenliu Town, Xiangfu District, Kaifeng, Henan",
+  "note": "Zhang Miao was Administrator of Chenliu; in 189 Cao Cao spent his family fortune to raise troops at Jiwu in Chenliu."
+ },
+ "东郡": {
+  "n": {
+   "濮阳": "Puyang"
+  },
+  "jn": {
+   "东郡": "Dong Commandery"
+  },
+  "mod": "southwest of Puyang, Henan",
+  "note": "Seat at Puyang. Cao Cao became Administrator of Dong Commandery in 191, governing from Dongwuyang; Lü Bu held Puyang in 194."
+ },
+ "东平国": {
+  "n": {
+   "东平国": "Dongping Kingdom"
+  },
+  "mod": "southeast of Dongping, Shandong",
+  "note": "Seat at Wuyan."
+ },
+ "任城国": {
+  "n": {
+   "任城国": "Rencheng Kingdom"
+  },
+  "mod": "Jining, Shandong"
+ },
+ "泰山郡": {
+  "n": {
+   "泰山郡": "Taishan Commandery"
+  },
+  "mod": "east of Tai'an, Shandong",
+  "note": "Seat at Fenggao."
+ },
+ "济北国": {
+  "n": {
+   "济北国": "Jibei Kingdom"
+  },
+  "mod": "southwest of Changqing District, Jinan, Shandong",
+  "note": "Seat at Lu County. Bao Xin, Chancellor of Jibei, was the first to back Cao Cao."
+ },
+ "山阳郡": {
+  "n": {
+   "昌邑": "Changyi"
+  },
+  "jn": {
+   "山阳郡": "Shanyang Commandery"
+  },
+  "mod": "southeast of Juye, Shandong",
+  "note": "Seat at Changyi, also the seat of the Inspector of Yan Province."
+ },
+ "济阴郡": {
+  "n": {
+   "定陶": "Dingtao"
+  },
+  "jn": {
+   "济阴郡": "Jiyin Commandery"
+  },
+  "mod": "northwest of Dingtao District, Heze, Shandong",
+  "note": "Seat at Dingtao."
+ },
+ "东武阳": {
+  "n": {
+   "东武阳": "Dongwuyang"
+  },
+  "mod": "south of Shen County, Shandong",
+  "note": "Cao Cao governed from here as Administrator of Dong Commandery in 191."
+ },
+ "白马": {
+  "n": {
+   "白马": "Baima"
+  },
+  "mod": "east of Hua County, Henan"
+ },
+ "酸枣": {
+  "n": {
+   "酸枣": "Suanzao"
+  },
+  "mod": "southwest of Yanjin, Henan",
+  "note": "In 190, when the provinces and commanderies east of the passes rose against Dong Zhuo, Liu Dai, Zhang Miao, Qiao Mao, Yuan Yi, Bao Xin and others camped here, feasting every day and not daring to advance."
+ },
+ "鄄城": {
+  "n": {
+   "鄄城": "Juancheng"
+  },
+  "mod": "north of Juancheng, Shandong",
+  "note": "Cao Cao's seat in Yan Province. When Lü Bu made a surprise attack on Yan Province in 194 and its commanderies and counties all rebelled, only the three cities of Juancheng, Fan and Dong'e were held by Xun Yu and Cheng Yu."
+ },
+ "东阿": {
+  "n": {
+   "东阿": "Dong'e"
+  },
+  "mod": "Acheng Town, northeast of Yanggu, Shandong",
+  "note": "Cheng Yu held Dong'e. Cao Zhi was later made King of Dong'e and was buried on Mount Yu."
+ },
+ "东海郡": {
+  "n": {
+   "郯": "Tan"
+  },
+  "jn": {
+   "东海郡": "Donghai Commandery"
+  },
+  "mod": "north of Tancheng, Shandong",
+  "note": "Seat at Tan, the seat of Xu Province under Tao Qian."
+ },
+ "琅邪国": {
+  "n": {
+   "琅邪国": "Langya Kingdom"
+  },
+  "mod": "north of Linyi, Shandong",
+  "note": "Seat at Kaiyang. Zhuge Liang was from Yangdu in Langya; Zang Ba held the Langya and Donghai area."
+ },
+ "彭城国": {
+  "n": {
+   "彭城": "Pengcheng"
+  },
+  "jn": {
+   "彭城国": "Pengcheng Kingdom"
+  },
+  "mod": "Xuzhou, Jiangsu",
+  "note": "In 193 Cao Cao attacked Tao Qian and took Pengcheng, and \"the Si River ceased to flow\"."
+ },
+ "广陵郡": {
+  "n": {
+   "广陵": "Guangling"
+  },
+  "jn": {
+   "广陵郡": "Guangling Commandery"
+  },
+  "mod": "Yangzhou, Jiangsu",
+  "note": "Chen Deng was Administrator of Guangling; in the Three Kingdoms it was abandoned land between Wei and Wu, and in 225 Cao Pi came to the Yangtze here."
+ },
+ "下邳国": {
+  "n": {
+   "下邳": "Xiapi"
+  },
+  "jn": {
+   "下邳国": "Xiapi Kingdom"
+  },
+  "mod": "northwest of Suining, Jiangsu (Gupi Town)",
+  "note": "Seat of Xu Province in the late Han. Lü Bu seized it in 196; in 198 Cao Cao flooded the city with the Yi and Si rivers and captured Lü Bu at the White Gate Tower."
+ },
+ "淮阴": {
+  "n": {
+   "淮阴": "Huaiyin"
+  },
+  "mod": "southwest of Huaiyin District, Huai'an, Jiangsu"
+ },
+ "盱眙": {
+  "n": {
+   "盱眙": "Xuyi"
+  },
+  "mod": "northeast of Xuyi, Jiangsu",
+  "note": "In 196 Liu Bei faced Yuan Shu at Xuyi and Huaiyin."
+ },
+ "莒": {
+  "n": {
+   "莒": "Ju"
+  },
+  "mod": "Ju County, Shandong",
+  "note": "Wei set up Chengyang Commandery here."
+ },
+ "济南国": {
+  "n": {
+   "济南国": "Jinan Kingdom"
+  },
+  "mod": "west of Zhangqiu District, Jinan, Shandong",
+  "note": "Seat at Dongpingling. Cao Cao was once Chancellor of Jinan, where he banned improper cults."
+ },
+ "平原郡": {
+  "n": {
+   "平原": "Pingyuan"
+  },
+  "jn": {
+   "平原郡": "Pingyuan Commandery"
+  },
+  "mod": "south of Pingyuan, Shandong",
+  "note": "Liu Bei was once Chancellor of Pingyuan (191–194)."
+ },
+ "乐安国": {
+  "n": {
+   "乐安国": "Le'an Kingdom"
+  },
+  "mod": "southeast of Gaoqing, Shandong",
+  "note": "Seat at Linji."
+ },
+ "北海国": {
+  "n": {
+   "北海国": "Beihai Kingdom"
+  },
+  "mod": "southeast of Shouguang, Shandong",
+  "note": "Seat at Ju County. Kong Rong was Chancellor of Beihai for six years until Yuan Tan defeated him in 196."
+ },
+ "东莱郡": {
+  "n": {
+   "东莱郡": "Donglai Commandery"
+  },
+  "mod": "east of Longkou, Shandong",
+  "note": "Seat at Huang County. Taishi Ci was from Huang in Donglai."
+ },
+ "齐国": {
+  "n": {
+   "临淄": "Linzi"
+  },
+  "jn": {
+   "齐国": "Qi Kingdom"
+  },
+  "mod": "Linzi District, Zibo, Shandong",
+  "note": "Seat at Linzi, also the seat of the Inspector of Qing Province."
+ },
+ "不其": {
+  "n": {
+   "不其": "Fuji"
+  },
+  "mod": "Chengyang District, Qingdao, Shandong",
+  "note": "Zheng Xuan once took refuge here from the turmoil and taught on the mountain at Fuji."
+ },
+ "南阳郡": {
+  "n": {
+   "宛": "Wan"
+  },
+  "jn": {
+   "南阳郡": "Nanyang Commandery"
+  },
+  "mod": "Nanyang, Henan",
+  "note": "Seat at Wan. The most populous commandery of the Eastern Han and home of Emperor Guangwu, known as the \"Southern Capital\". Yuan Shu held it from 190 to 193, and Zhang Xiu held Wan and Rang from 196 to 199."
+ },
+ "南郡": {
+  "n": {
+   "江陵": "Jiangling"
+  },
+  "jn": {
+   "南郡": "Nan Commandery"
+  },
+  "mod": "Jingzhou District, Jingzhou, Hubei",
+  "note": "Seat at Jiangling. The key stronghold of the middle Yangtze: Zhou Yu took it after Red Cliffs, it was later lent to Liu Bei and held by Guan Yu, and in 219 Lü Meng seized it by crossing the river \"in white\"."
+ },
+ "江夏郡": {
+  "n": {
+   "江夏郡": "Jiangxia Commandery"
+  },
+  "mod": "west of Xinzhou District, Wuhan, Hubei",
+  "note": "Seat at Xiling. Huang Zu held Jiangxia, and Sun Quan only broke him on his third campaign (208); after Red Cliffs Wei and Wu held its northern and southern parts."
+ },
+ "零陵郡": {
+  "n": {
+   "零陵郡": "Lingling Commandery"
+  },
+  "mod": "Yongzhou, Hunan",
+  "note": "Seat at Quanling."
+ },
+ "桂阳郡": {
+  "n": {
+   "桂阳郡": "Guiyang Commandery"
+  },
+  "mod": "Chenzhou, Hunan",
+  "note": "Seat at Chen."
+ },
+ "武陵郡": {
+  "n": {
+   "武陵郡": "Wuling Commandery"
+  },
+  "mod": "Changde, Hunan",
+  "note": "Seat at Linyuan. Home of the Wuxi tribes."
+ },
+ "长沙郡": {
+  "n": {
+   "临湘": "Linxiang"
+  },
+  "jn": {
+   "长沙郡": "Changsha Commandery"
+  },
+  "mod": "Changsha, Hunan",
+  "note": "Seat at Linxiang. Sun Jian raised his troops as Administrator of Changsha; Zhang Zhongjing is said to have been Administrator of Changsha too."
+ },
+ "襄阳": {
+  "n": {
+   "襄阳": "Xiangyang"
+  },
+  "mod": "Xiangcheng District, Xiangyang, Hubei",
+  "note": "Liu Biao moved the seat of Jing Province here; he treated scholars with courtesy, and many from the north came to join him. It faces Fancheng across the Han River, and after 208 was Cao Wei's key southern stronghold."
+ },
+ "新野": {
+  "n": {
+   "新野": "Xinye"
+  },
+  "mod": "Xinye, Henan",
+  "note": "Liu Bei was based at Xinye while serving Liu Biao (201–208)."
+ },
+ "穰": {
+  "n": {
+   "穰": "Rang"
+  },
+  "mod": "Dengzhou, Henan",
+  "note": "Zhang Xiu was based at Rang; Cao Cao besieged it in 198."
+ },
+ "鲁阳": {
+  "n": {
+   "鲁阳": "Luyang"
+  },
+  "mod": "Lushan, Henan",
+  "note": "In 190 Yuan Shu was based at Luyang and sent Sun Jian north as his vanguard against Dong Zhuo."
+ },
+ "南乡": {
+  "n": {
+   "南乡": "Nanxiang"
+  },
+  "mod": "southeast of Xichuan, Henan",
+  "note": "Wei set up Nanxiang Commandery here."
+ },
+ "上庸": {
+  "n": {
+   "上庸": "Shangyong"
+  },
+  "mod": "southwest of Zhushan, Hubei",
+  "note": "The brothers Shen Dan and Shen Yi held Shangyong and Xicheng, which together with Fangling were called the \"Three Eastern Commanderies\"."
+ },
+ "房陵": {
+  "n": {
+   "房陵": "Fangling"
+  },
+  "mod": "Fang County, Hubei",
+  "note": "Wei combined the Three Eastern Commanderies into Xincheng Commandery with Meng Da as Administrator; when Meng Da plotted rebellion in 227, Sima Yi reached Shangyong in eight days and beheaded him."
+ },
+ "西城": {
+  "n": {
+   "西城": "Xicheng"
+  },
+  "mod": "Ankang, Shaanxi",
+  "note": "Wei turned Xicheng into Weixing Commandery."
+ },
+ "夷陵": {
+  "n": {
+   "夷陵": "Yiling",
+   "西陵": "Xiling"
+  },
+  "mod": "Yichang, Hubei",
+  "note": "The eastern mouth of the Three Gorges. Wu renamed it Xiling, and Lu Xun and then Lu Kang held it; in 272 Bu Chan surrendered the city to Jin."
+ },
+ "秭归": {
+  "n": {
+   "秭归": "Zigui"
+  },
+  "mod": "Zigui, Hubei"
+ },
+ "公安": {
+  "n": {
+   "公安": "Gong'an",
+   "油江口": "Youjiangkou"
+  },
+  "mod": "northwest of Gong'an, Hubei",
+  "note": "Originally called Youjiangkou; in 209 Liu Bei, as Governor of Jing Province, set up his camp here and renamed it Gong'an. In 219 Sun Quan moved in and made it his base."
+ },
+ "夏口": {
+  "n": {
+   "夏口": "Xiakou"
+  },
+  "mod": "Wuhan, Hubei",
+  "note": "Where the Han River enters the Yangtze. Before Red Cliffs Liu Qi and Liu Bei fell back here; Wu built the city of Xiakou."
+ },
+ "武昌": {
+  "n": {
+   "武昌": "Wuchang",
+   "鄂县": "E County"
+  },
+  "mod": "Ezhou, Hubei",
+  "note": "Originally E County. In 221 Sun Quan moved here from Gong'an and renamed it Wuchang; it was the Wu capital until 229, and Sun Hao briefly moved the capital here again in 265."
+ },
+ "石阳": {
+  "n": {
+   "石阳": "Shiyang"
+  },
+  "mod": "west of Huangpi District, Wuhan, Hubei",
+  "note": "Seat of the Wei commandery of Jiangxia, held for decades by Wen Pin."
+ },
+ "安陆": {
+  "n": {
+   "安陆": "Anlu"
+  },
+  "mod": "Anlu, Hubei"
+ },
+ "巴丘": {
+  "n": {
+   "巴丘": "Baqiu"
+  },
+  "mod": "Yueyang, Hunan",
+  "note": "Zhou Yu died at Baqiu in 210; Lu Su was once based here."
+ },
+ "陆口": {
+  "n": {
+   "陆口": "Lukou"
+  },
+  "mod": "southwest of Jiayu, Hubei",
+  "note": "Where the Lu River enters the Yangtze. Lu Su and then Lü Meng were based at Lukou, facing Guan Yu."
+ },
+ "益阳": {
+  "n": {
+   "益阳": "Yiyang"
+  },
+  "mod": "Yiyang, Hunan",
+  "note": "In 215 Lu Su and Guan Yu met here, \"each with a single blade\"."
+ },
+ "九江郡": {
+  "n": {
+   "阴陵": "Yinling"
+  },
+  "jn": {
+   "九江郡": "Jiujiang Commandery",
+   "淮南郡": "Huainan Commandery"
+  },
+  "mod": "northwest of Dingyuan, Anhui",
+  "note": "Under the Eastern Han its seat was at Yinling; in the late Han the seats of the Inspector of Yang Province and of the commandery moved to Shouchun. Wei renamed it Huainan Commandery."
+ },
+ "丹阳郡": {
+  "n": {
+   "宛陵": "Wanling"
+  },
+  "jn": {
+   "丹阳郡": "Danyang Commandery"
+  },
+  "mod": "Xuancheng, Anhui",
+  "note": "Seat at Wanling. Danyang troops were famed for their toughness; many Shanyue lived within it."
+ },
+ "庐江郡": {
+  "n": {
+   "舒": "Shu"
+  },
+  "jn": {
+   "庐江郡": "Lujiang Commandery"
+  },
+  "mod": "southwest of Lujiang, Anhui",
+  "note": "Seat at Shu. Zhou Yu was from Shu in Lujiang. After Cao Cao moved the people in 213, \"the land west of the river was emptied, and south of Hefei only Wancheng remained\"; from then on Wu's Lujiang Commandery was governed from Wan and Wei's from around Lu'an, and Shu became abandoned land between the two states."
+ },
+ "会稽郡": {
+  "n": {
+   "山阴": "Shanyin"
+  },
+  "jn": {
+   "会稽郡": "Kuaiji Commandery"
+  },
+  "mod": "Shaoxing, Zhejiang",
+  "note": "Seat at Shanyin. Wang Lang was Administrator of Kuaiji until Sun Ce defeated him in 196."
+ },
+ "吴郡": {
+  "n": {
+   "吴": "Wu"
+  },
+  "jn": {
+   "吴郡": "Wu Commandery"
+  },
+  "mod": "Suzhou, Jiangsu",
+  "note": "Seat at Wu. Where the Sun family began; when Sun Quan succeeded in 200 he governed from Wu."
+ },
+ "豫章郡": {
+  "n": {
+   "南昌": "Nanchang"
+  },
+  "jn": {
+   "豫章郡": "Yuzhang Commandery"
+  },
+  "mod": "Nanchang, Jiangxi",
+  "note": "Seat at Nanchang. Liu Yao fled to Yuzhang after his defeat; in 199 the Administrator Hua Xin surrendered the commandery to Sun Ce."
+ },
+ "寿春": {
+  "n": {
+   "寿春": "Shouchun"
+  },
+  "mod": "Shou County, Anhui",
+  "note": "Seat of the Inspector of Yang Province in the late Han. Yuan Shu proclaimed himself emperor here in 197; it was Cao Wei's key stronghold in Huainan, and the \"Three Rebellions in Huainan\" of Wang Ling, Guanqiu Jian and Zhuge Dan all began here."
+ },
+ "合肥": {
+  "n": {
+   "合肥": "Hefei"
+  },
+  "mod": "Hefei, Anhui",
+  "note": "In 200 Liu Fu rode alone into the empty city of Hefei and made it the provincial seat. In 215 Zhang Liao routed Sun Quan at Xiaoyao Ford; in 230 Man Chong built Hefei New City thirty li to the northwest."
+ },
+ "历阳": {
+  "n": {
+   "历阳": "Liyang"
+  },
+  "mod": "He County, Anhui",
+  "note": "Across the Yangtze from Niuzhu. Sun Ce crossed the river from Liyang in 194–195. After Cao Cao moved the people in 213 it became abandoned land between Wei and Wu."
+ },
+ "居巢": {
+  "n": {
+   "居巢": "Juchao"
+  },
+  "mod": "Chaohu, Anhui",
+  "note": "Zhou Yu was once Chief of Juchao. After Cao Cao moved the people in 213 it became abandoned land between Wei and Wu."
+ },
+ "皖": {
+  "n": {
+   "皖": "Wan"
+  },
+  "mod": "Qianshan, Anhui",
+  "note": "In 199 Sun Ce defeated Liu Xun and took Wan, and with it the two Qiao sisters; in 214 Lü Meng took it back from Cao Wei."
+ },
+ "六安": {
+  "n": {
+   "六安": "Lu'an"
+  },
+  "mod": "Lu'an, Anhui",
+  "note": "It passed to Cao Cao after Liu Fu took Hefei in 200; after Wancheng fell to Wu in 214, the seat of Wei's Lujiang Commandery moved north to around here."
+ },
+ "建业": {
+  "n": {
+   "建业": "Jianye",
+   "秣陵": "Moling"
+  },
+  "mod": "Nanjing, Jiangsu",
+  "note": "Originally called Moling. In 211 Sun Quan moved his seat here from Jingkou, and the next year built Stone City and renamed the place Jianye; it was the Wu capital from 229."
+ },
+ "京口": {
+  "n": {
+   "京口": "Jingkou"
+  },
+  "mod": "Zhenjiang, Jiangsu",
+  "note": "Sun Quan's seat from 208 to 211, also called Jingcheng; Liu Bei came here to see Sun Quan and \"ask to be given command of Jing Province\"."
+ },
+ "曲阿": {
+  "n": {
+   "曲阿": "Qu'e"
+  },
+  "mod": "Danyang, Jiangsu",
+  "note": "Seat of Liu Yao, Inspector of Yang Province (194–195)."
+ },
+ "钱唐": {
+  "n": {
+   "钱唐": "Qiantang"
+  },
+  "mod": "Hangzhou, Zhejiang"
+ },
+ "富春": {
+  "n": {
+   "富春": "Fuchun"
+  },
+  "mod": "Fuyang District, Hangzhou, Zhejiang",
+  "note": "Home town of Sun Jian, Sun Ce and Sun Quan."
+ },
+ "章安": {
+  "n": {
+   "章安": "Zhang'an"
+  },
+  "mod": "northwest of Jiaojiang District, Taizhou, Zhejiang",
+  "note": "Wu split off the eastern part of Kuaiji as Linhai Commandery with its seat at Zhang'an (257). In 230 Sun Quan sent Wei Wen and Zhuge Zhi across the sea in search of Yizhou; they are said to have sailed from around here."
+ },
+ "东冶": {
+  "n": {
+   "东冶": "Dongye"
+  },
+  "mod": "Fuzhou, Fujian",
+  "note": "Seat of the Chief Commandant of Southern Kuaiji; Wang Lang fled here after his defeat in 196."
+ },
+ "建安": {
+  "n": {
+   "建安": "Jian'an"
+  },
+  "mod": "Jian'ou, Fujian",
+  "note": "Wu split off the southern part of Kuaiji as Jian'an Commandery (260)."
+ },
+ "柴桑": {
+  "n": {
+   "柴桑": "Chaisang"
+  },
+  "mod": "southwest of Jiujiang, Jiangxi",
+  "note": "In 208 Sun Quan waited at Chaisang to see how things went; Zhuge Liang came to see him here, and they settled on the alliance with Liu Bei against Cao Cao."
+ },
+ "庐陵": {
+  "n": {
+   "庐陵": "Luling"
+  },
+  "mod": "Ji'an, Jiangxi",
+  "note": "Sun Ce split Luling Commandery off from Yuzhang."
+ },
+ "汉中郡": {
+  "n": {
+   "南郑": "Nanzheng"
+  },
+  "jn": {
+   "汉中郡": "Hanzhong Commandery"
+  },
+  "mod": "Hanzhong, Shaanxi",
+  "note": "Seat at Nanzheng. Zhang Lu held it for thirty years through the Way of the Five Pecks of Rice; he surrendered to Cao Cao in 215, Liu Bei took it in 219, and from then on it was the base for Shu Han's northern campaigns."
+ },
+ "巴郡": {
+  "n": {
+   "江州": "Jiangzhou"
+  },
+  "jn": {
+   "巴郡": "Ba Commandery"
+  },
+  "mod": "Yuzhong District, Chongqing",
+  "note": "Seat at Jiangzhou."
+ },
+ "广汉郡": {
+  "n": {
+   "雒": "Luo"
+  },
+  "jn": {
+   "广汉郡": "Guanghan Commandery"
+  },
+  "mod": "north of Guanghan, Sichuan",
+  "note": "Seat at Luo. Liu Zhang's son Liu Xun held Luocheng for a year, and Pang Tong was killed by a stray arrow beneath its walls."
+ },
+ "蜀郡": {
+  "n": {
+   "成都": "Chengdu"
+  },
+  "jn": {
+   "蜀郡": "Shu Commandery"
+  },
+  "mod": "Chengdu, Sichuan",
+  "note": "Seat at Chengdu. Liu Yan and his son Liu Zhang held Shu for more than twenty years; it was the Shu Han capital from 221 to 263."
+ },
+ "犍为郡": {
+  "n": {
+   "犍为郡": "Qianwei Commandery"
+  },
+  "mod": "east of Pengshan District, Meishan, Sichuan",
+  "note": "Seat at Wuyang."
+ },
+ "牂牁郡": {
+  "n": {
+   "牂牁郡": "Zangke Commandery"
+  },
+  "mod": "Fuquan area, Guizhou (location disputed)",
+  "note": "Seat at Gujulan. In 223 the commandery's Assistant Zhu Bao joined Yong Kai's revolt."
+ },
+ "越巂郡": {
+  "n": {
+   "越巂郡": "Yuexi Commandery"
+  },
+  "mod": "southeast of Xichang, Sichuan",
+  "note": "Seat at Qiongdu. Gao Ding, king of the Yi, rebelled in 223; Zhuge Liang marched against him in person and beheaded him in 225."
+ },
+ "益州郡": {
+  "n": {
+   "益州郡": "Yizhou Commandery",
+   "建宁郡": "Jianning Commandery"
+  },
+  "mod": "east of Jinning District, Kunming, Yunnan",
+  "note": "Seat at Dianchi. In 223 Yong Kai, of a powerful local clan, killed the Administrator and went over to Wu; after pacifying it Zhuge Liang renamed it Jianning Commandery and moved the seat to Wei County."
+ },
+ "永昌郡": {
+  "n": {
+   "永昌郡": "Yongchang Commandery"
+  },
+  "mod": "northeast of Baoshan, Yunnan",
+  "note": "Seat at Buwei. The Eastern Han created it from the lands of the Ailao kingdom, which had submitted; during Yong Kai's revolt the commandery officers Lü Kai and Wang Kang closed its borders and held out."
+ },
+ "阴平": {
+  "n": {
+   "阴平": "Yinping"
+  },
+  "mod": "northwest of Wen County, Gansu",
+  "note": "Seat of the Chief Commandant of the Guanghan Dependent State at Yinping Dao under the Eastern Han; Yinping Commandery in the Three Kingdoms. In 263 Deng Ai crossed more than 700 li of uninhabited country from here to slip into Shu."
+ },
+ "汉嘉": {
+  "n": {
+   "汉嘉": "Hanjia"
+  },
+  "mod": "Lushan, Sichuan",
+  "note": "Seat of the Chief Commandant of the Shu Dependent State under the Eastern Han; Shu Han made it Hanjia Commandery."
+ },
+ "朱提": {
+  "n": {
+   "朱提": "Zhushi"
+  },
+  "mod": "Zhaotong, Yunnan",
+  "note": "Seat of the Chief Commandant of the Qianwei Dependent State under the Eastern Han; Shu Han made it Zhushi Commandery."
+ },
+ "涪": {
+  "n": {
+   "涪": "Fu"
+  },
+  "mod": "east of Mianyang, Sichuan",
+  "note": "In 211 Liu Zhang met Liu Bei at Fu and they feasted for more than a hundred days; later it was the northern gateway to Chengdu."
+ },
+ "绵竹": {
+  "n": {
+   "绵竹": "Mianzhu"
+  },
+  "mod": "north of Deyang, Sichuan",
+  "note": "Liu Yan's first seat as Governor of Yi Province (188–194). In 263 Zhuge Zhan and his son Zhuge Shang died fighting at Mianzhu."
+ },
+ "梓潼": {
+  "n": {
+   "梓潼": "Zitong"
+  },
+  "mod": "Zitong, Sichuan"
+ },
+ "葭萌": {
+  "n": {
+   "葭萌": "Jiameng",
+   "汉寿": "Hanshou"
+  },
+  "mod": "Zhaohua District, Guangyuan, Sichuan",
+  "note": "After entering Shu Liu Bei was based at Jiameng to hold off Zhang Lu to the north, and in 212 turned south from here to attack Liu Zhang; Shu Han renamed it Hanshou."
+ },
+ "阆中": {
+  "n": {
+   "阆中": "Langzhong"
+  },
+  "mod": "Langzhong, Sichuan",
+  "note": "Zhang Fei held Langzhong as Administrator of Baxi, and was killed here by his own officers in 221."
+ },
+ "宕渠": {
+  "n": {
+   "宕渠": "Dangqu"
+  },
+  "mod": "northeast of Qu County, Sichuan",
+  "note": "Home of the Cong people (Banshun tribes)."
+ },
+ "鱼复": {
+  "n": {
+   "鱼复": "Yufu",
+   "永安": "Yong'an"
+  },
+  "mod": "east of Fengjie, Chongqing (Baidi City)",
+  "note": "Liu Bei fell back here after his defeat at Yiling and renamed it Yong'an; in 223, in the Yong'an Palace, he entrusted his heir to Zhuge Liang."
+ },
+ "味县": {
+  "n": {
+   "味县": "Wei County"
+  },
+  "mod": "Qujing, Yunnan",
+  "note": "Seat of Shu Han's Area Commander of Laixiang and of Jianning Commandery, with authority over the seven commanderies of Nanzhong."
+ },
+ "云南": {
+  "n": {
+   "云南": "Yunnan"
+  },
+  "mod": "southeast of Xiangyun, Yunnan",
+  "note": "After his southern campaign Zhuge Liang split Yunnan Commandery off from Jianning and Yongchang."
+ },
+ "陇西郡": {
+  "n": {
+   "狄道": "Didao"
+  },
+  "jn": {
+   "陇西郡": "Longxi Commandery"
+  },
+  "mod": "Lintao, Gansu",
+  "note": "Seat at Didao."
+ },
+ "汉阳郡": {
+  "n": {
+   "冀": "Ji"
+  },
+  "jn": {
+   "汉阳郡": "Hanyang Commandery",
+   "天水郡": "Tianshui Commandery"
+  },
+  "mod": "east of Gangu, Gansu",
+  "note": "Seat at Ji, also the seat of the Inspector of Liang Province. In 213 Ma Chao besieged Ji for eight months and killed the Inspector Wei Kang; Jiang Wei was from Ji in Tianshui."
+ },
+ "武都郡": {
+  "n": {
+   "下辨": "Xiabian"
+  },
+  "jn": {
+   "武都郡": "Wudu Commandery"
+  },
+  "mod": "west of Cheng County, Gansu",
+  "note": "Seat at Xiabian. Home of the Di; in 229 Zhuge Liang sent Chen Shi to take Wudu and Yinping."
+ },
+ "金城郡": {
+  "n": {
+   "金城郡": "Jincheng Commandery"
+  },
+  "mod": "northwest of Yongjing, Gansu",
+  "note": "Seat at Yanya. Han Sui was from Jincheng and held Liang Province for more than thirty years."
+ },
+ "安定郡": {
+  "n": {
+   "安定郡": "Anding Commandery"
+  },
+  "mod": "south of Zhenyuan, Gansu",
+  "note": "Seat at Linjing."
+ },
+ "北地郡": {
+  "n": {
+   "北地郡": "Beidi Commandery"
+  },
+  "mod": "southwest of Wuzhong, Ningxia",
+  "note": "Under the Eastern Han its seat was at Fuping; after the Qiang risings its commandery and counties were moved inland, and in the late Han and early Wei it was governed from within Pingyi, its original lands left to the Qiang and Hu."
+ },
+ "武威郡": {
+  "n": {
+   "姑臧": "Guzang"
+  },
+  "jn": {
+   "武威郡": "Wuwei Commandery"
+  },
+  "mod": "Wuwei, Gansu",
+  "note": "Seat at Guzang, also the seat of the Wei Inspector of Liang Province."
+ },
+ "张掖郡": {
+  "n": {
+   "张掖郡": "Zhangye Commandery"
+  },
+  "mod": "northwest of Zhangye, Gansu",
+  "note": "Seat at Lude."
+ },
+ "酒泉郡": {
+  "n": {
+   "酒泉郡": "Jiuquan Commandery"
+  },
+  "mod": "Jiuquan, Gansu",
+  "note": "Seat at Lufu."
+ },
+ "敦煌郡": {
+  "n": {
+   "敦煌郡": "Dunhuang Commandery"
+  },
+  "mod": "west of Dunhuang, Gansu",
+  "note": "The gateway west through the Yang and Yumen passes."
+ },
+ "张掖属国": {
+  "n": {
+   "张掖属国": "Zhangye Dependent State"
+  },
+  "mod": "area southeast of Zhangye, Gansu (location disputed)"
+ },
+ "居延属国": {
+  "n": {
+   "居延属国": "Juyan Dependent State"
+  },
+  "mod": "southeast of Ejin Banner, Inner Mongolia",
+  "note": "Seat of the Chief Commandant of the Eastern Han Zhangye Juyan Dependent State, at Juyan."
+ },
+ "西平": {
+  "n": {
+   "西平": "Xiping"
+  },
+  "mod": "Xining, Qinghai",
+  "note": "Xiping Commandery was split off from Jincheng in the late Han."
+ },
+ "枹罕": {
+  "n": {
+   "枹罕": "Fuhan"
+  },
+  "mod": "northeast of Linxia, Gansu",
+  "note": "In 184 Song Jian styled himself \"King of the River's Source who Pacifies Han\" here and held it for thirty years, until Xiahou Yuan destroyed him in 214."
+ },
+ "襄武": {
+  "n": {
+   "襄武": "Xiangwu"
+  },
+  "mod": "Longxi, Gansu",
+  "note": "Seat of the Wei commandery of Longxi."
+ },
+ "上邽": {
+  "n": {
+   "上邽": "Shanggui"
+  },
+  "mod": "Tianshui, Gansu",
+  "note": "In 231 Zhuge Liang came out by Mount Qi and harvested the wheat at Shanggui."
+ },
+ "上党郡": {
+  "n": {
+   "上党郡": "Shangdang Commandery"
+  },
+  "mod": "west of Zhangzi, Shanxi",
+  "note": "Seat at Zhangzi."
+ },
+ "太原郡": {
+  "n": {
+   "晋阳": "Jinyang"
+  },
+  "jn": {
+   "太原郡": "Taiyuan Commandery"
+  },
+  "mod": "Jinyuan District, Taiyuan, Shanxi",
+  "note": "Seat at Jinyang, also the seat of the Inspector of Bing Province."
+ },
+ "上郡": {
+  "n": {
+   "上郡": "Shang Commandery"
+  },
+  "mod": "southeast of Yulin, Shaanxi",
+  "note": "Seat at Fushi."
+ },
+ "西河郡": {
+  "n": {
+   "西河郡": "Xihe Commandery"
+  },
+  "mod": "Lishi District, Lüliang, Shanxi",
+  "note": "The Eastern Han moved its seat to Lishi in 140. The court of the Southern Xiongnu lay here."
+ },
+ "五原郡": {
+  "n": {
+   "五原郡": "Wuyuan Commandery"
+  },
+  "mod": "west of Baotou, Inner Mongolia",
+  "note": "Seat at Jiuyuan. Lü Bu was from Jiuyuan in Wuyuan."
+ },
+ "云中郡": {
+  "n": {
+   "云中郡": "Yunzhong Commandery"
+  },
+  "mod": "northeast of Togtoh, Inner Mongolia"
+ },
+ "定襄郡": {
+  "n": {
+   "定襄郡": "Dingxiang Commandery"
+  },
+  "mod": "southeast of Youyu, Shanxi",
+  "note": "Seat at Shanwu."
+ },
+ "雁门郡": {
+  "n": {
+   "雁门郡": "Yanmen Commandery"
+  },
+  "mod": "southeast of Shuocheng District, Shuozhou, Shanxi",
+  "note": "Seat at Yinguan. Zhang Liao was from Mayi in Yanmen."
+ },
+ "朔方郡": {
+  "n": {
+   "朔方郡": "Shuofang Commandery"
+  },
+  "mod": "north of Dengkou, Inner Mongolia",
+  "note": "Seat at Linrong."
+ },
+ "美稷": {
+  "n": {
+   "美稷": "Meiji"
+  },
+  "mod": "northwest of Jungar Banner, Inner Mongolia",
+  "note": "Court of the Southern Xiongnu Chanyu. In 216 Cao Cao divided the Southern Xiongnu into five divisions settled across the commanderies of Bing Province."
+ },
+ "平城": {
+  "n": {
+   "平城": "Pingcheng"
+  },
+  "mod": "Datong, Shanxi"
+ },
+ "涿郡": {
+  "n": {
+   "涿": "Zhuo"
+  },
+  "jn": {
+   "涿郡": "Zhuo Commandery"
+  },
+  "mod": "Zhuozhou, Hebei",
+  "note": "Home of Liu Bei and Zhang Fei."
+ },
+ "广阳郡": {
+  "n": {
+   "蓟": "Ji"
+  },
+  "jn": {
+   "广阳郡": "Guangyang Commandery"
+  },
+  "mod": "southwest Beijing",
+  "note": "Seat at Ji, also the seat of the Inspector (Governor) of You Province."
+ },
+ "代郡": {
+  "n": {
+   "代郡": "Dai Commandery"
+  },
+  "mod": "southwest of Yanggao, Shanxi",
+  "note": "Seat at Gaoliu."
+ },
+ "上谷郡": {
+  "n": {
+   "上谷郡": "Shanggu Commandery"
+  },
+  "mod": "southeast of Huailai, Hebei",
+  "note": "Seat at Juyang."
+ },
+ "渔阳郡": {
+  "n": {
+   "渔阳郡": "Yuyang Commandery"
+  },
+  "mod": "southwest of Miyun, Beijing"
+ },
+ "右北平郡": {
+  "n": {
+   "右北平郡": "Youbeiping Commandery"
+  },
+  "mod": "east of Fengrun District, Tangshan, Hebei",
+  "note": "Seat at Tuyin."
+ },
+ "辽西郡": {
+  "n": {
+   "辽西郡": "Liaoxi Commandery"
+  },
+  "mod": "west of Yi County, Liaoning (or in northeastern Hebei)",
+  "note": "Seat at Yangle."
+ },
+ "辽东郡": {
+  "n": {
+   "襄平": "Xiangping"
+  },
+  "jn": {
+   "辽东郡": "Liaodong Commandery"
+  },
+  "mod": "Liaoyang, Liaoning",
+  "note": "Seat at Xiangping. Four rulers in three generations of the Gongsun family, Du, Kang, Gong and Yuan, held it for nearly fifty years; in 238 Sima Yi took the city and massacred its people."
+ },
+ "玄菟郡": {
+  "n": {
+   "玄菟郡": "Xuantu Commandery"
+  },
+  "mod": "Fushun area, Liaoning"
+ },
+ "乐浪郡": {
+  "n": {
+   "乐浪郡": "Lelang Commandery"
+  },
+  "mod": "south of Pyongyang, North Korea (Lelang earthen fortress)",
+  "note": "Seat at Chaoxian County."
+ },
+ "辽东属国": {
+  "n": {
+   "辽东属国": "Liaodong Dependent State"
+  },
+  "mod": "Beizhen area, Liaoning (location disputed)",
+  "note": "Seat at Changliao."
+ },
+ "无终": {
+  "n": {
+   "无终": "Wuzhong"
+  },
+  "mod": "Jizhou District, Tianjin",
+  "note": "In 207 Cao Cao stopped here on his northern campaign against the Wuhuan and, following Tian Chou's plan, went out through Lulong Fort."
+ },
+ "令支": {
+  "n": {
+   "令支": "Lingzhi"
+  },
+  "mod": "west of Qian'an, Hebei",
+  "note": "Gongsun Zan was from Lingzhi in Liaoxi."
+ },
+ "柳城": {
+  "n": {
+   "柳城": "Liucheng"
+  },
+  "mod": "south of Chaoyang, Liaoning",
+  "note": "Court of Tadun, king of the Liaoxi Wuhuan. In 207 Cao Cao crushed the Wuhuan at White Wolf Mountain, advanced to Liucheng and moved the remaining Wuhuan into the interior; Liucheng was afterwards Cao Wei's frontier in Liaoxi. Late in the Three Kingdoms period the Murong Xianbei accepted Wei titles and moved into the area around Jicheng in Liaoxi; in 341 Murong Huang of the Former Yan built Longcheng north of Liucheng."
+ },
+ "带方": {
+  "n": {
+   "带方": "Daifang"
+  },
+  "mod": "Sariwon area, North Hwanghae, North Korea",
+  "note": "Around 204 Gongsun Kang split off the southern part of Lelang as Daifang Commandery; in 239 Himiko, queen of Wa, sent envoys through here to Wei."
+ },
+ "南海郡": {
+  "n": {
+   "番禺": "Panyu"
+  },
+  "jn": {
+   "南海郡": "Nanhai Commandery"
+  },
+  "mod": "Guangzhou, Guangdong",
+  "note": "Seat at Panyu. In 226 Wu split Guang Province off from Jiao Province, with its seat at Panyu."
+ },
+ "苍梧郡": {
+  "n": {
+   "广信": "Guangxin"
+  },
+  "jn": {
+   "苍梧郡": "Cangwu Commandery"
+  },
+  "mod": "Wuzhou, Guangxi",
+  "note": "Seat at Guangxin. After the Jiaozhi Circuit became Jiao Province in 203 it was the provincial seat, until Bu Zhi moved the seat to Panyu in 217. When the Administrator Shi Huang died, Liu Biao sent Wu Ju to replace him; Wu Ju was beheaded by Bu Zhi around 210."
+ },
+ "郁林郡": {
+  "n": {
+   "郁林郡": "Yulin Commandery"
+  },
+  "mod": "Guigang, Guangxi",
+  "note": "Seat at Bushan. The histories do not say who held it before 210; the map assigns it to the Inspector of Jiao Province for 190–204 and to Shi Xie (overseer of the seven commanderies) for 207–208."
+ },
+ "合浦郡": {
+  "n": {
+   "合浦郡": "Hepu Commandery"
+  },
+  "mod": "northeast of Hepu, Guangxi"
+ },
+ "交趾郡": {
+  "n": {
+   "龙编": "Longbian"
+  },
+  "jn": {
+   "交趾郡": "Jiaozhi Commandery"
+  },
+  "mod": "Bắc Ninh, Vietnam",
+  "note": "Seat at Longbian. Shi Xie was Administrator of Jiaozhi for forty years while his brothers held several other commanderies of Jiao Province; in 263 the commandery officer Lü Xing rebelled against Wu and went over to Wei."
+ },
+ "九真郡": {
+  "n": {
+   "九真郡": "Jiuzhen Commandery"
+  },
+  "mod": "Thanh Hóa, Vietnam",
+  "note": "Seat at Xupu."
+ },
+ "日南郡": {
+  "n": {
+   "日南郡": "Rinan Commandery"
+  },
+  "mod": "Quảng Trị area, Vietnam",
+  "note": "Seat at Xijuan. The southernmost commandery of the Eastern Han."
+ },
+ "象林": {
+  "n": {
+   "象林": "Xianglin"
+  },
+  "mod": "Hội An area, Đà Nẵng, Vietnam",
+  "note": "The southernmost county of Rinan Commandery. In 192 Ou Lian, a local man, killed the county magistrate and made himself king: the beginning of the kingdom of Linyi (Champa)."
+ },
+ "它乾城": {
+  "n": {
+   "它乾城": "Tuoqian City"
+  },
+  "mod": "southwest of Xinhe, Xinjiang",
+  "note": "Seat of the Eastern Han Protector-General of the Western Regions. Ban Chao lived here as Protector-General from 91."
+ },
+ "龟兹": {
+  "n": {
+   "龟兹": "Kucha"
+  },
+  "mod": "Kuqa, Xinjiang"
+ },
+ "疏勒": {
+  "n": {
+   "疏勒": "Kashgar"
+  },
+  "mod": "Kashgar, Xinjiang",
+  "note": "Ban Chao's base for his campaigns in the Western Regions."
+ },
+ "于阗": {
+  "n": {
+   "于阗": "Khotan"
+  },
+  "mod": "Hotan, Xinjiang"
+ },
+ "莎车": {
+  "n": {
+   "莎车": "Yarkand"
+  },
+  "mod": "Yarkant (Shache), Xinjiang"
+ },
+ "鄯善": {
+  "n": {
+   "鄯善": "Shanshan"
+  },
+  "mod": "Ruoqiang (Charkhlik), Xinjiang",
+  "note": "That is, the kingdom of Loulan, with its capital at Wuni City."
+ },
+ "楼兰": {
+  "n": {
+   "楼兰": "Loulan"
+  },
+  "mod": "northwest of Lop Nur, Ruoqiang, Xinjiang (site LA)",
+  "note": "Seat of the Wei–Jin Chief Clerk of the Western Regions; a great many Wei–Jin wooden slips and documents have been found here."
+ },
+ "焉耆": {
+  "n": {
+   "焉耆": "Karasahr"
+  },
+  "mod": "Yanqi, Xinjiang",
+  "note": "In 94 Ban Chao raised troops from the states of the Western Regions and subdued Karasahr, and the fifty-odd states of the Western Regions all sent hostages and submitted."
+ },
+ "交河": {
+  "n": {
+   "交河": "Jiaohe"
+  },
+  "mod": "west of Turpan, Xinjiang",
+  "note": "Seat of the king of Nearer Jushi."
+ },
+ "高昌壁": {
+  "n": {
+   "高昌壁": "Gaochang Fort"
+  },
+  "mod": "southeast of Turpan, Xinjiang",
+  "note": "Garrison of the Wu-Ji Colonel, kept on under Wei and Jin."
+ },
+ "伊吾": {
+  "n": {
+   "伊吾": "Yiwu"
+  },
+  "mod": "Hami, Xinjiang",
+  "note": "A site of Eastern Han military farms, fought over again and again by the Northern Xiongnu and the Han."
+ },
+ "车师后部": {
+  "n": {
+   "车师后部": "Further Jushi"
+  },
+  "mod": "south of Jimsar, Xinjiang"
+ }
+}

@@ -1,0 +1,2366 @@
+{
+ "river:丽水": {
+  "old": "Irrawaddy",
+  "mod": "Irrawaddy"
+ },
+ "river:汾水": {
+  "old": "Fen River",
+  "mod": "Fen River"
+ },
+ "river:弓卢水": {
+  "old": "Gonglu River",
+  "mod": "Kherlen River"
+ },
+ "river:中江": {
+  "old": "Zhong River",
+  "mod": "Tuo River"
+ },
+ "river:图们江": {
+  "old": "Tumen River",
+  "mod": "Tumen River"
+ },
+ "river:怒江": {
+  "old": "Nu River",
+  "mod": "Nu River (Salween)"
+ },
+ "river:犁牛河": {
+  "old": "Drichu",
+  "mod": "Tongtian River (upper Yangtze)"
+ },
+ "river:剑河": {
+  "old": "Jian River",
+  "mod": "Little Yenisei"
+ },
+ "river:牂牁江": {
+  "old": "Zangke River",
+  "mod": "Hongshui River"
+ },
+ "river:郁水": {
+  "old": "Yu River",
+  "mod": "Xi and Xun rivers"
+ },
+ "river:泸水": {
+  "old": "Lu River",
+  "mod": "Jinsha River",
+  "note": "On his southern campaign in 225 Zhuge Liang \"crossed the Lu in the 5th month and went deep into the barren lands\"."
+ },
+ "river:江（长江）": {
+  "old": "Jiang (Yangtze)",
+  "mod": "Yangtze",
+  "note": "The natural moat between north and south in the Three Kingdoms; Cao Pi of Wei, looking out over it, sighed that \"Heaven surely set it here to divide north from south\". Red Cliffs, Yiling, Ruxu and other battles were all fought on or beside the river."
+ },
+ "river:葱岭河": {
+  "old": "Congling River",
+  "mod": "Yarkand River"
+ },
+ "river:辽水": {
+  "old": "Liao River",
+  "mod": "Liao River",
+  "note": "In 238 Sima Yi crossed the Liao River, feinted at Liaosui and made straight for Xiangping."
+ },
+ "river:沅水": {
+  "old": "Yuan River",
+  "mod": "Yuan River"
+ },
+ "river:沔水（汉水）": {
+  "old": "Mian River (Han River)",
+  "mod": "Han River",
+  "note": "Its upper course runs through Hanzhong and its middle course past Xiangyang and Fancheng, entering the Yangtze at Xiakou. In the autumn rains of 219 the Han River flooded, and Guan Yu drowned Yu Jin's seven armies."
+ },
+ "river:赣水（豫章水）": {
+  "old": "Gan River (Yuzhang River)",
+  "mod": "Gan River"
+ },
+ "river:娑陵水": {
+  "old": "Suoling River",
+  "mod": "Selenge River"
+ },
+ "river:曳咥河": {
+  "old": "Yexi River",
+  "mod": "Irtysh"
+ },
+ "river:叶榆水": {
+  "old": "Yeyu River",
+  "mod": "Red River"
+ },
+ "river:沫水": {
+  "old": "Mo River",
+  "mod": "Dadu River"
+ },
+ "river:饶乐水": {
+  "old": "Raole River",
+  "mod": "Xar Moron"
+ },
+ "river:孔雀河": {
+  "old": "Kongque River",
+  "mod": "Kongque River"
+ },
+ "river:北河": {
+  "old": "Bei River",
+  "mod": "Tarim River"
+ },
+ "river:粟末水": {
+  "old": "Sumo River",
+  "mod": "Songhua River"
+ },
+ "river:汶江": {
+  "old": "Wen River",
+  "mod": "Min River (Sichuan)"
+ },
+ "river:兰仓水": {
+  "old": "Lancang River",
+  "mod": "Lancang (upper Mekong)"
+ },
+ "river:伊列水": {
+  "old": "Ili River",
+  "mod": "Ili River"
+ },
+ "river:㶟水": {
+  "old": "Lei River",
+  "mod": "Sanggan River"
+ },
+ "river:臧河": {
+  "old": "Zang River",
+  "mod": "Yarlung Tsangpo"
+ },
+ "river:延江水": {
+  "old": "Yanjiang River",
+  "mod": "Wu River"
+ },
+ "river:湘水": {
+  "old": "Xiang River",
+  "mod": "Xiang River",
+  "note": "In 215 Sun Quan and Liu Bei divided Jing Province between them along the Xiang River."
+ },
+ "river:淮水": {
+  "old": "Huai River",
+  "mod": "Huai River",
+  "note": "The buffer zone between Wei and Wu; Wei set up military farms on a large scale south and north of the Huai, and the three rebellions in Huainan all took place at Shouchun on its southern bank."
+ },
+ "river:湄公河": {
+  "old": "Mekong",
+  "mod": "Mekong"
+ },
+ "river:闽江": {
+  "old": "Min River",
+  "mod": "Min River (Fujian)"
+ },
+ "river:嘉陵水": {
+  "old": "Jialing River",
+  "mod": "Jialing River",
+  "note": "Its upper course was called the Gudao River, and the Chencang Road followed its valley."
+ },
+ "river:龙川江": {
+  "old": "Longchuan River",
+  "mod": "Dong River"
+ },
+ "river:若水": {
+  "old": "Ruo River",
+  "mod": "Yalong River"
+ },
+ "river:右江": {
+  "old": "You River",
+  "mod": "You River"
+ },
+ "river:溱水": {
+  "old": "Zhen River",
+  "mod": "Bei River"
+ },
+ "river:乌苏里江": {
+  "old": "Ussuri",
+  "mod": "Ussuri"
+ },
+ "river:㶟水#2": {
+  "old": "Lei River",
+  "mod": "Yongding River"
+ },
+ "river:汉江": {
+  "old": "Han River",
+  "mod": "Han River (Korea)"
+ },
+ "river:河（黄河）": {
+  "old": "He (Yellow River)",
+  "mod": "Yellow River",
+  "note": "After Wang Jing's river works early in the Eastern Han, the Yellow River ran northeast from Xingyang past Puyang and Dong'e to the sea at Qiansheng, and stayed fairly stable for centuries. In the Guandu campaign it was the natural line across which the two armies faced each other; Baima, Yanjin and Liyang were all crossings on the river."
+ },
+ "river:马訾水": {
+  "old": "Mazi River",
+  "mod": "Yalu River"
+ },
+ "river:黑水": {
+  "old": "Heishui",
+  "mod": "Amur"
+ },
+ "river:沱江": {
+  "old": "Tuo River",
+  "mod": "Đà River (Black River), Vietnam"
+ },
+ "river:斡难河": {
+  "old": "Onon River",
+  "mod": "Onon River"
+ },
+ "river:黄山江": {
+  "old": "Hwangsan River",
+  "mod": "Nakdong River"
+ },
+ "river:左江": {
+  "old": "Zuo River",
+  "mod": "Zuo River"
+ },
+ "river:望建河": {
+  "old": "Wangjian River",
+  "mod": "Argun"
+ },
+ "river:渭水": {
+  "old": "Wei River",
+  "mod": "Wei River",
+  "note": "The lifeline of Guanzhong. In 211 Cao Cao crossed the Wei by night and built a sand fort; in 234 Zhuge Liang camped at the Wuzhang Plains and faced Sima Yi across the Wei."
+ },
+ "river:于阗河": {
+  "old": "Khotan River",
+  "mod": "Yurungkash River"
+ },
+ "river:泾水": {
+  "old": "Jing River",
+  "mod": "Jing River"
+ },
+ "river:沁水": {
+  "old": "Qin River",
+  "mod": "Qin River"
+ },
+ "river:拨换河": {
+  "old": "Bohuan River",
+  "mod": "Toshkan River"
+ },
+ "river:漳水": {
+  "old": "Zhang River",
+  "mod": "Zhang River",
+  "note": "It flowed past the north of Ye. In 204 Cao Cao diverted the Zhang to flood Ye."
+ },
+ "river:安侯水": {
+  "old": "Anhou River",
+  "mod": "Orkhon River"
+ },
+ "river:濡水": {
+  "old": "Nuan River",
+  "mod": "Luan River"
+ },
+ "river:潭水": {
+  "old": "Tan River",
+  "mod": "Liu River"
+ },
+ "river:融江": {
+  "old": "Rong River",
+  "mod": "Rong River"
+ },
+ "river:那河": {
+  "old": "Na River",
+  "mod": "Nen River"
+ },
+ "river:丹水": {
+  "old": "Dan River",
+  "mod": "Dan River"
+ },
+ "river:济水": {
+  "old": "Ji River",
+  "mod": "old Ji River (much of the lower Yellow River now follows its course)",
+  "note": "One of the Four Great Rivers; it left the Yellow River at Xingyang, flowed east past Dingtao and the Juye Marsh, and then northeast to the sea."
+ },
+ "river:洛水": {
+  "old": "Luo River",
+  "mod": "Luo River"
+ },
+ "river:伊水": {
+  "old": "Yi River",
+  "mod": "Yi River"
+ },
+ "river:洛水（北）": {
+  "old": "Northern Luo River",
+  "mod": "Beiluo River"
+ },
+ "river:汝水": {
+  "old": "Ru River",
+  "mod": "Ru River"
+ },
+ "river:颍水": {
+  "old": "Ying River",
+  "mod": "Ying River"
+ },
+ "river:泗水": {
+  "old": "Si River",
+  "mod": "Si River (the old Si)",
+  "note": "In 198 Cao Cao broke the banks of the Yi and Si to flood Xiapi."
+ },
+ "river:汶水": {
+  "old": "Wen River",
+  "mod": "Dawen River"
+ },
+ "river:滹沱水": {
+  "old": "Hutuo River",
+  "mod": "Hutuo River"
+ },
+ "river:易水": {
+  "old": "Yi River",
+  "mod": "South Juma River",
+  "note": "Gongsun Zan built Yijing beside the Yi River."
+ },
+ "river:淯水": {
+  "old": "Yu River",
+  "mod": "Bai River",
+  "note": "It flowed past Wan and Xinye into the Han River. In 197, when Zhang Xiu turned on Cao Cao at Wan, Cao Cao fell back to the Yu River."
+ },
+ "river:澧水": {
+  "old": "Li River",
+  "mod": "Li River (Hunan)"
+ },
+ "river:资水": {
+  "old": "Zi River",
+  "mod": "Zi River"
+ },
+ "river:浙江（渐江水）": {
+  "old": "Zhe River (Jianjiang River)",
+  "mod": "Qiantang River",
+  "note": "In 196 Sun Ce crossed the Zhe River and defeated Wang Lang."
+ },
+ "river:漓水": {
+  "old": "Li River",
+  "mod": "Li River (Guangxi)"
+ },
+ "river:湟水": {
+  "old": "Huangshui",
+  "mod": "Huangshui"
+ },
+ "river:洮水": {
+  "old": "Tao River",
+  "mod": "Tao River",
+  "note": "In 255 Jiang Wei routed Wang Jing, the Wei Inspector of Yong Province, at Taoxi."
+ },
+ "river:弱水": {
+  "old": "Ruoshui",
+  "mod": "Hei River (Ejin)"
+ },
+ "river:冥水": {
+  "old": "Ming River",
+  "mod": "Shule River"
+ },
+ "river:夷播海": {
+  "old": "Lake Balkhash",
+  "mod": "Lake Balkhash"
+ },
+ "river:北海": {
+  "old": "Lake Baikal",
+  "mod": "Lake Baikal"
+ },
+ "river:库苏古尔湖": {
+  "old": "Lake Khövsgöl",
+  "mod": "Lake Khövsgöl"
+ },
+ "river:湄沱湖": {
+  "old": "Lake Meituo",
+  "mod": "Lake Khanka"
+ },
+ "river:俱轮泊": {
+  "old": "Lake Julun",
+  "mod": "Lake Hulun"
+ },
+ "river:震泽（具区）": {
+  "old": "Zhenze (Juqu)",
+  "mod": "Lake Tai"
+ },
+ "river:腾格里海": {
+  "old": "Namtso",
+  "mod": "Namtso"
+ },
+ "river:敦薨浦": {
+  "old": "Dunhong Lake",
+  "mod": "Bosten Lake"
+ },
+ "river:彭蠡泽": {
+  "old": "Pengli Marsh",
+  "mod": "Poyang Lake"
+ },
+ "river:色林错": {
+  "old": "Siling Co",
+  "mod": "Siling Co"
+ },
+ "river:哈尔乌苏湖": {
+  "old": "Khar-Us Lake",
+  "mod": "Khar-Us Lake"
+ },
+ "river:柏海": {
+  "old": "Baihai",
+  "mod": "Ngoring Lake"
+ },
+ "river:柏海#2": {
+  "old": "Baihai",
+  "mod": "Gyaring Lake"
+ },
+ "river:阿耨达池": {
+  "old": "Anavatapta",
+  "mod": "Lake Manasarovar"
+ },
+ "river:捕鱼儿海": {
+  "old": "Lake Buir",
+  "mod": "Lake Buir"
+ },
+ "river:羊卓雍错": {
+  "old": "Yamdrok Tso",
+  "mod": "Yamdrok Tso"
+ },
+ "river:巢湖": {
+  "old": "Chao Lake",
+  "mod": "Chao Lake",
+  "note": "The Ruxu River flows southeast from Chao Lake into the Yangtze; Wu built Ruxu Fort and the Dongxing dyke at its mouth."
+ },
+ "river:洞庭": {
+  "old": "Dongting",
+  "mod": "Dongting Lake"
+ },
+ "river:艾比湖": {
+  "old": "Ebinur Lake",
+  "mod": "Ebinur Lake"
+ },
+ "river:热海": {
+  "old": "Issyk-Kul",
+  "mod": "Issyk-Kul"
+ },
+ "river:乌布苏湖": {
+  "old": "Uvs Lake",
+  "mod": "Uvs Lake"
+ },
+ "river:西海（仙海）": {
+  "old": "Xihai (Xianhai)",
+  "mod": "Qinghai Lake"
+ },
+ "river:蒲昌海（盐泽）": {
+  "old": "Puchanghai (Yanze)",
+  "mod": "Lop Nur"
+ },
+ "river:巨野泽（大野泽）": {
+  "old": "Juye Marsh (Daye Marsh)",
+  "mod": "north of Juye, Shandong (silted up)"
+ },
+ "river:居延泽": {
+  "old": "Juyan Marsh",
+  "mod": "Ejin Banner, Inner Mongolia (today's Juyan Lake)"
+ },
+ "river:滇池": {
+  "old": "Lake Dian",
+  "mod": "Lake Dian"
+ },
+ "river:洱海": {
+  "old": "Erhai Lake",
+  "mod": "Erhai Lake"
+ },
+ "river:白水陂": {
+  "old": "Baishuibei",
+  "mod": "west of Hongze District, Huai'an, Jiangsu",
+  "note": "One of the reservoirs Deng Ai built while setting up military farms north of the Huai in Wei's Zhengshi era."
+ },
+ "river:云梦泽": {
+  "old": "Yunmeng Marsh",
+  "mod": "Jianghan Plain, Hubei (silted up)",
+  "note": "A vast expanse of lakes and marshes between the Yangtze and the Han, already shrinking by the late Han. When Cao Cao retreated north along the Huarong Road after Red Cliffs, \"the road was deep in mud\": his route ran through here."
+ },
+ "river:大陆泽": {
+  "old": "Dalu Marsh",
+  "mod": "Julu and Renze District area, Xingtai, Hebei (silted up)"
+ },
+ "river:芍陂": {
+  "old": "Quebei",
+  "mod": "south of Shou County, Anhui (Anfeng Pond)",
+  "note": "Built by Sunshu Ao of Chu in the Spring and Autumn period and restored by Liu Fu, Inspector of Yang Province, in the late Han; Wei's military farms in Huainan depended on it for irrigation. In 241 the Wu general Quan Cong attacked north and breached Quebei."
+ },
+ "river:圃田泽": {
+  "old": "Putian Marsh",
+  "mod": "east of Zhengzhou, Henan (silted up)"
+ },
+ "river:涡水": {
+  "old": "Guo River",
+  "mod": "Guo River",
+  "note": "It flowed past Qiao, Cao Cao's home county; on his southern campaigns Cao Pi often went from Qiao down the Guo into the Huai."
+ },
+ "river:睢水": {
+  "old": "Sui River",
+  "mod": "Sui River (old course)"
+ },
+ "river:沂水": {
+  "old": "Yi River",
+  "mod": "Yi River",
+  "note": "In 198 Cao Cao broke the banks of the Yi and Si to flood Xiapi."
+ },
+ "river:濡须水": {
+  "old": "Ruxu River",
+  "mod": "Yuxi River",
+  "note": "The waterway leading east from Chao Lake to the Yangtze. Sun Wu set up Ruxu Fort and built the Dongxing dyke at its mouth; it was a key point north of the river that Wei and Wu fought over."
+ },
+ "river:肥水": {
+  "old": "Fei River",
+  "mod": "East Fei River",
+  "note": "The waterway between Hefei and Shouchun; Wei and Wu attacks and defences in Huainan mostly followed it."
+ },
+ "river:施水": {
+  "old": "Shi River",
+  "mod": "South Fei River"
+ },
+ "river:西汉水": {
+  "old": "Xihan River",
+  "mod": "Xihan River",
+  "note": "Mount Qi stands on the north bank of the Xihan River."
+ },
+ "river:白水": {
+  "old": "Bai River",
+  "mod": "Bailong River",
+  "note": "Tazhong and Yinping both lie in the Bai River basin, and Baishui Pass guards the point where its lower course leads into Shu."
+ },
+ "river:鲍丘水": {
+  "old": "Baoqiu River",
+  "mod": "Chaobai River"
+ },
+ "river:淇水": {
+  "old": "Qi River",
+  "mod": "Qi River",
+  "note": "In 204 Cao Cao sank timber piles at the mouth of the Qi to build a weir, diverting the Qi into the Baigou Canal."
+ },
+ "canal:汴渠（汳水）": {
+  "old": "Bian Canal (Bian River)",
+  "mod": "old course of the Bian River",
+  "note": "In 69, while taming the Yellow River, Wang Jing also restored the Bian Canal, which ran east from Xingyang past Junyi and Suiyang to join the Si at Pengcheng. It was the main waterway from Luoyang to Xu and Yang provinces; Guandu lay on its upper course."
+ },
+ "canal:蒗荡渠（鸿沟）": {
+  "old": "Langdang Canal (Honggou Canal)",
+  "mod": "along the Jialu and Shaying rivers",
+  "note": "The trunk of the Honggou canal system dug by the state of Wei in the Warring States period, linking the Yellow River and the Huai."
+ },
+ "canal:白沟": {
+  "old": "Baigou Canal",
+  "mod": "along the Wei River and the South Canal",
+  "note": "In 204, to attack Yuan Shang in the north, Cao Cao sank great timber piles at the point where the Qi entered the Yellow River to build a weir (Fangtou), diverting the Qi northeast into the Baigou Canal to open a supply route. The later Wei River (in Henan and Hebei) and the South Canal follow its line."
+ },
+ "canal:利漕渠": {
+  "old": "Licao Canal",
+  "mod": "now lost",
+  "note": "In 213 Cao Cao dug a canal to lead the Zhang east into the Baigou Canal, so that grain boats could sail from the Baigou Canal straight to Ye."
+ },
+ "canal:平虏渠": {
+  "old": "Pinglu Canal",
+  "mod": "now lost (roughly in today's Cangzhou, Hebei)",
+  "note": "In 206, to carry grain for his northern campaign against the Wuhuan, Cao Cao dug a canal from the Hutuo to the Gu River, called the Pinglu Canal."
+ },
+ "canal:泉州渠": {
+  "old": "Quanzhou Canal",
+  "mod": "now lost (roughly in today's Tianjin)",
+  "note": "Cao Cao also dug a canal from the mouth of the Ju River into the Lu River, called the Quanzhou Canal, to connect with sea transport."
+ },
+ "canal:新河": {
+  "old": "Xin River",
+  "mod": "now lost (roughly in today's Tangshan, Hebei)",
+  "note": "It ran east from the Quanzhou Canal to the Nuan River, so that grain could be shipped as far as Liaoxi."
+ },
+ "canal:破冈渎": {
+  "old": "Pogang Canal",
+  "mod": "now lost (between Jurong and Danyang, Jiangsu)",
+  "note": "In 245 Sun Quan sent Chen Xun with 30,000 military-farm troops to cut a waterway through Jurong, from Xiaoqi to the western city of Yunyang, so that grain boats between Jianye and Wu and Kuaiji no longer had to go round by the Yangtze."
+ },
+ "canal:邗沟": {
+  "old": "Hangou Canal",
+  "mod": "Liyun Canal",
+  "note": "Dug by Fuchai, King of Wu, in the Spring and Autumn period to link the Yangtze and the Huai."
+ },
+ "canal:吴故水道": {
+  "old": "Old Wu Waterway",
+  "mod": "Jiangnan Canal",
+  "note": "A waterway from Wu to Jingkou already existed in the Qin and Han; under Sun Wu it was the grain route between Jianye and Wu and Kuaiji."
+ },
+ "canal:漕渠": {
+  "old": "Cao Canal",
+  "mod": "now lost (Chang'an to Huayin)",
+  "note": "Dug under Emperor Wu of the Western Han, it led water from the Wei River east from Chang'an to Huayin."
+ },
+ "canal:灵渠": {
+  "old": "Lingqu Canal",
+  "mod": "Lingqu Canal",
+  "note": "Dug under the Qin to link the Xiang and Li rivers."
+ },
+ "range:秦岭（南山）": {
+  "old": "Qinling (Nanshan)",
+  "mod": "Qinling Mountains",
+  "note": "The natural barrier between Guanzhong and Hanzhong, crossed by the Ziwu, Tangluo, Baoye and Chencang roads. All five of Zhuge Liang's northern campaigns had to cross the Qinling, and the difficulty of moving grain over them was the greatest constraint on Shu Han's campaigns."
+ },
+ "range:巴山": {
+  "old": "Ba Mountains",
+  "mod": "Daba and Micang mountains",
+  "note": "The barrier between Hanzhong and Ba–Shu, crossed by the Micang and Jinniu roads."
+ },
+ "range:太行山": {
+  "old": "Taihang Mountains",
+  "mod": "Taihang Mountains",
+  "note": "The divide between Hebei and Bing Province. Zhang Yan's Black Mountain army, a Yellow Turban remnant said to number a million, was based in these mountains."
+ },
+ "range:吕梁山": {
+  "old": "Lüliang Mountains",
+  "mod": "Lüliang Mountains"
+ },
+ "range:中条山": {
+  "old": "Zhongtiao Mountains",
+  "mod": "Zhongtiao Mountains"
+ },
+ "range:恒山": {
+  "old": "Heng Mountains",
+  "mod": "Heng Mountains (Shanxi)"
+ },
+ "range:五台山": {
+  "old": "Mount Wutai",
+  "mod": "Mount Wutai"
+ },
+ "range:燕山": {
+  "old": "Yan Mountains",
+  "mod": "Yan Mountains"
+ },
+ "range:阴山": {
+  "old": "Yin Mountains",
+  "mod": "Yin Mountains"
+ },
+ "range:贺兰山": {
+  "old": "Helan Mountains",
+  "mod": "Helan Mountains"
+ },
+ "range:陇山": {
+  "old": "Long Mountains",
+  "mod": "Liupan and Long mountains",
+  "note": "The divide between Guanzhong and Longyou, its main routes guarded by the Long and Xiao passes."
+ },
+ "range:祁连山": {
+  "old": "Qilian Mountains",
+  "mod": "Qilian Mountains"
+ },
+ "range:阿尔金山": {
+  "old": "Altyn-Tagh",
+  "mod": "Altyn-Tagh"
+ },
+ "range:昆仑山": {
+  "old": "Kunlun Mountains",
+  "mod": "Kunlun Mountains"
+ },
+ "range:积石山": {
+  "old": "Jishi Mountains",
+  "mod": "Amne Machin"
+ },
+ "range:唐古拉山": {
+  "old": "Tanggula Mountains",
+  "mod": "Tanggula Mountains"
+ },
+ "range:冈底斯山": {
+  "old": "Gangdise Mountains",
+  "mod": "Gangdise and Nyenchen Tanglha ranges"
+ },
+ "range:雪山": {
+  "old": "Himalayas",
+  "mod": "Himalayas"
+ },
+ "range:葱岭": {
+  "old": "Pamirs",
+  "mod": "Pamirs"
+ },
+ "range:天山": {
+  "old": "Tian Shan",
+  "mod": "Tian Shan"
+ },
+ "range:金微山": {
+  "old": "Jinwei Mountains",
+  "mod": "Altai Mountains",
+  "note": "In 91 Geng Kui and Ren Shang routed the Northern Chanyu here."
+ },
+ "range:燕然山": {
+  "old": "Yanran Mountains",
+  "mod": "Khangai Mountains",
+  "note": "In 89, after defeating the Northern Xiongnu, Dou Xian climbed this mountain, and Ban Gu wrote the Inscription for the Feng Sacrifice on Mount Yanran."
+ },
+ "range:大兴安岭": {
+  "old": "Greater Khingan",
+  "mod": "Greater Khingan"
+ },
+ "range:不咸山": {
+  "old": "Buxian Mountains",
+  "mod": "Changbai Mountains"
+ },
+ "range:医巫闾山": {
+  "old": "Yiwulü Mountains",
+  "mod": "Yiwulü Mountains"
+ },
+ "range:泰山": {
+  "old": "Mount Tai",
+  "mod": "Mount Tai"
+ },
+ "range:华山": {
+  "old": "Mount Hua",
+  "mod": "Mount Hua"
+ },
+ "range:嵩高山": {
+  "old": "Mount Songgao",
+  "mod": "Mount Song"
+ },
+ "range:伏牛山": {
+  "old": "Funiu Mountains",
+  "mod": "Funiu Mountains",
+  "note": "The northern rim of the Nanyang Basin, its eastern outlets guarded by Luyang and She County."
+ },
+ "range:大别山": {
+  "old": "Dabie Mountains",
+  "mod": "Dabie Mountains",
+  "note": "The barrier between Wei and Wu in the Jiang–Huai region; Wei's Yiyang and Wu's Qichun faced each other across the mountains."
+ },
+ "range:巫山": {
+  "old": "Wu Mountains",
+  "mod": "Wu Mountains"
+ },
+ "range:武陵山": {
+  "old": "Wuling Mountains",
+  "mod": "Wuling Mountains"
+ },
+ "range:雪峰山": {
+  "old": "Xuefeng Mountains",
+  "mod": "Xuefeng Mountains"
+ },
+ "range:五岭": {
+  "old": "Five Ridges",
+  "mod": "Nanling Mountains"
+ },
+ "range:罗霄山": {
+  "old": "Luoxiao Mountains",
+  "mod": "Luoxiao Mountains"
+ },
+ "range:武夷山": {
+  "old": "Wuyi Mountains",
+  "mod": "Wuyi Mountains"
+ },
+ "range:仙霞岭": {
+  "old": "Xianxia Range",
+  "mod": "Xianxia Range"
+ },
+ "range:庐山": {
+  "old": "Mount Lu",
+  "mod": "Mount Lu"
+ },
+ "range:衡山": {
+  "old": "Mount Heng",
+  "mod": "Mount Heng (Hunan)"
+ },
+ "range:岷山": {
+  "old": "Min Mountains",
+  "mod": "Min Mountains"
+ },
+ "range:邛崃山": {
+  "old": "Qionglai Mountains",
+  "mod": "Qionglai Mountains"
+ },
+ "range:大雪山": {
+  "old": "Daxue Mountains",
+  "mod": "Daxue Mountains"
+ },
+ "range:点苍山": {
+  "old": "Diancang Mountains",
+  "mod": "Cang Mountains"
+ },
+ "range:哀牢山": {
+  "old": "Ailao Mountains",
+  "mod": "Ailao Mountains",
+  "note": "In 69 the Ailao kingdom submitted to the Eastern Han, which made its lands into Yongchang Commandery."
+ },
+ "range:北邙山": {
+  "old": "Beimang Mountains",
+  "mod": "Mang Mountains",
+  "note": "The loess ridge north of Luoyang, where many of the Eastern Han emperors were buried; there is a saying \"Be born in Suzhou or Hangzhou, be buried at Beimang\". In 189 Dong Zhuo met the Young Emperor at Beimang and brought him back."
+ },
+ "range:摩天岭": {
+  "old": "Motian Ridge",
+  "mod": "Motian Ridge",
+  "note": "The ridge between Wen County in Gansu and Qingchuan and Pingwu in Sichuan; the Yinping Road crossed it going south."
+ },
+ "desert:流沙": {
+  "old": "Flowing Sands",
+  "mod": "Taklamakan Desert"
+ },
+ "desert:大漠（瀚海）": {
+  "old": "Great Desert (Hanhai)",
+  "mod": "Gobi Desert"
+ },
+ "desert:毛乌素沙地": {
+  "old": "Mu Us Desert",
+  "mod": "Mu Us Desert"
+ },
+ "road:褒斜道": {
+  "old": "Baoye Road",
+  "mod": "Mei County – Baocheng, Hanzhong, Shaanxi",
+  "note": "A plank road built along the valleys of the Ye and Bao rivers, 470 li long, the main route from Guanzhong to Hanzhong. In 228 Zhuge Liang announced that he would come north this way, and in 234 he actually did, camping at the Wuzhang Plains."
+ },
+ "road:子午道": {
+  "old": "Ziwu Road",
+  "mod": "south of Xi'an – east of Hanzhong, Shaanxi",
+  "note": "It left Chang'an due south through the Ziwu Valley and crossed the Qinling to eastern Hanzhong: the shortest route and the most dangerous. In 228 Wei Yan asked to lead 5,000 picked troops this way to surprise Chang'an, but Zhuge Liang judged it too risky and refused; in 230 Cao Zhen also attacked Shu this way and turned back in the rain."
+ },
+ "road:傥骆道": {
+  "old": "Tangluo Road",
+  "mod": "Zhouzhi – Yang County, Shaanxi",
+  "note": "Its northern entrance, the Luo Valley, was southwest of Zhouzhi and its southern entrance, the Tang Valley, at Yang County; it too was extremely precipitous. Cao Shuang's attack on Shu in 244 and Zhong Hui's march into Hanzhong in 263 both used it."
+ },
+ "road:陈仓道": {
+  "old": "Chencang Road",
+  "mod": "Baoji – Feng County – Lüeyang – Mian County, Shaanxi",
+  "note": "Also called the Gudao Road. It went out through San Pass and south along the Gudao River, curving through eastern Wudu to Hanzhong: long but level. Cao Cao's campaign against Zhang Lu in 215 and Zhuge Liang's siege of Chencang in winter 228 both went this way."
+ },
+ "road:祁山道": {
+  "old": "Qishan Road",
+  "mod": "Mian County, Shaanxi – Li County – Tianshui, Gansu",
+  "note": "It went west from Hanzhong and north up the Xihan River valley to Mount Qi, then out to Tianshui. The road was fairly gentle and easy for moving grain, and it allowed the army to link up with the Qiang and Di of Longyou; Zhuge Liang took it on his first and fourth northern campaigns."
+ },
+ "road:金牛道": {
+  "old": "Jinniu Road",
+  "mod": "Mian County, Shaanxi – Guangyuan – Jiange – Chengdu, Sichuan",
+  "note": "The main route from Hanzhong through Jiange to Chengdu; legend says it was opened when King Hui of Qin tricked Shu with stone oxen that supposedly dropped gold. In 263 Zhong Hui's army marched south along it and was stopped at Jiange."
+ },
+ "road:米仓道": {
+  "old": "Micang Road",
+  "mod": "Hanzhong, Shaanxi – Bazhong, Sichuan",
+  "note": "The route from Hanzhong over the Micang Mountains south to Bazhong. In 215 Zhang Lu fled this way to Bazhong; Zhang He later pushed south to Dangqu and was beaten back by Zhang Fei."
+ },
+ "road:阴平道": {
+  "old": "Yinping Road",
+  "mod": "Wen County, Gansu – Pingwu – Jiangyou, Sichuan",
+  "note": "It ran south from Yinping over the Motian Ridge straight to Jiangyou and Mianzhu, mostly through uninhabited, dangerous country that was seldom travelled. In 263 Deng Ai went more than 700 li this way and his surprise attack succeeded."
+ },
+ "road:卢龙道": {
+  "old": "Lulong Road",
+  "mod": "Qianxi, Hebei – Chaoyang, Liaoning",
+  "note": "In summer 207 floods made the coast road impassable, so Cao Cao took Tian Chou's advice, went out through Lulong Fort and followed an old road disused for two hundred years, \"cutting through mountains and filling valleys for more than 500 li\", by way of Baitan and Pinggang straight to Liucheng, catching the Wuhuan off guard."
+ },
+ "capital:洛阳": {
+  "old": "Luoyang",
+  "mod": "east of Luoyang, Henan (Han–Wei Luoyang city site)",
+  "note": "Capital of the Eastern Han. In 190 Dong Zhuo took Emperor Xian west and burned the palaces; Emperor Xian came back to Luoyang briefly in 196 and was soon moved to Xu."
+ },
+ "capital:长安": {
+  "old": "Chang'an",
+  "mod": "northwest of Xi'an, Shaanxi (Han Chang'an city site)",
+  "note": "In 190 Dong Zhuo took Emperor Xian west to Chang'an; after Dong Zhuo's death Li Jue and Guo Si controlled the court in turn, until Emperor Xian went east in 195."
+ },
+ "capital:安邑": {
+  "old": "Anyi",
+  "mod": "northwest of Xia County, Shanxi (Yuwang City)",
+  "note": "Emperor Xian's court in flight on his way east. After crossing the Yellow River in winter 195 he stayed here, \"his robes in tatters, with only dates and chestnuts to eat\", returning to Luoyang in the 7th month of the next year."
+ },
+ "capital:许": {
+  "old": "Xu",
+  "mod": "Zhangpan Town, Jian'an District, Xuchang, Henan (site of the Han–Wei capital at Xu)",
+  "note": "In 196 Cao Cao brought Emperor Xian here and made it the capital until the abdication of 220; the histories call it the \"capital at Xu\"."
+ },
+ "capital:寿春": {
+  "old": "Shouchun",
+  "mod": "Shou County, Anhui",
+  "note": "In 197 Yuan Shu proclaimed himself emperor here with the dynastic name Zhong; in 199, abandoned by his followers and kin, he coughed blood and died on his way north."
+ },
+ "capital:邺": {
+  "old": "Ye",
+  "mod": "southwest of Linzhang, Hebei (Ye city site)",
+  "note": "In 213 Cao Cao, as Duke of Wei, made Ye the capital of the state of Wei and built the Three Terraces; after replacing the Han, Cao Pi moved the capital to Luoyang, but Ye remained one of the Five Capitals of Wei."
+ },
+ "capital:洛阳#2": {
+  "old": "Luoyang",
+  "mod": "east of Luoyang, Henan (Han–Wei Luoyang city site)",
+  "note": "In 220 Cao Pi replaced the Han, made Luoyang his capital and rebuilt the palaces; Emperor Ming of Wei built lavishly, raising the Zhaoyang Hall and the Taiji Hall."
+ },
+ "capital:成都": {
+  "old": "Chengdu",
+  "mod": "Chengdu, Sichuan",
+  "note": "Capital of Shu Han (221–263). Zhuge Liang used Shu brocade to fund the army and set up a Brocade Office southwest of the city, which is why Chengdu is also called the Brocade Office City."
+ },
+ "capital:武昌": {
+  "old": "Wuchang",
+  "mod": "Ezhou, Hubei",
+  "note": "In 221 Sun Quan moved here from Gong'an, and after proclaiming himself emperor in 229 moved east to Jianye; in 265 Sun Hao moved the capital here again for a year, when a children's rhyme ran \"Better drink Jianye water than eat Wuchang fish\"."
+ },
+ "capital:建业": {
+  "old": "Jianye",
+  "mod": "Nanjing, Jiangsu",
+  "note": "Capital of Wu (229–280, with a brief move to Wuchang). Sun Quan built Stone City and the Jianye Palace, and dug the Pogang Canal to reach Wu and Kuaiji."
+ },
+ "capital:襄平": {
+  "old": "Xiangping",
+  "mod": "Liaoyang, Liaoning",
+  "note": "In 237 Gongsun Yuan made himself King of Yan with Xiangping as his capital; the next year Sima Yi took it."
+ },
+ "capital:洛阳#3": {
+  "old": "Luoyang",
+  "mod": "east of Luoyang, Henan (Han–Wei Luoyang city site)",
+  "note": "Sima Yan accepted the abdication in 265 and kept Luoyang as his capital."
+ },
+ "battle:稽落山之战": {
+  "old": "Battle of Mount Jiluo",
+  "mod": "Ömnögovi area, Mongolia (location disputed)",
+  "yt": "89",
+  "sides": "Han and the Southern Xiongnu defeated the Northern Xiongnu",
+  "cmd": "Dou Xian and Geng Bing vs. the Northern Chanyu",
+  "note": "Dou Xian and Geng Bing led Han troops and Southern Xiongnu cavalry beyond the frontier, routed the Northern Chanyu and took the surrender of more than 200,000 people; Dou Xian climbed the Yanran Mountains and had Ban Gu compose an inscription carved in the rock to record his victory before returning."
+ },
+ "battle:金微山之战": {
+  "old": "Battle of the Jinwei Mountains",
+  "mod": "Altai Mountains (location disputed)",
+  "yt": "91",
+  "sides": "Han defeated the Northern Xiongnu",
+  "cmd": "Geng Kui and Ren Shang vs. the Northern Chanyu",
+  "note": "Geng Kui and Ren Shang went more than 5,000 li beyond the Juyan frontier and routed the Northern Chanyu in the Jinwei Mountains; the main body of the Northern Xiongnu moved west, and all the land north of the Gobi passed to the Xianbei."
+ },
+ "battle:焉耆之战": {
+  "old": "Battle of Karasahr",
+  "mod": "Yanqi, Xinjiang",
+  "yt": "94",
+  "sides": "Han (with troops from the states of the Western Regions) defeated Karasahr",
+  "cmd": "Ban Chao vs. Guang, King of Karasahr",
+  "note": "Ban Chao raised more than 70,000 troops from eight states including Kucha and Shanshan to attack Karasahr, beheaded the kings of Karasahr and Weili and sent their heads to the capital; the fifty-odd states of the Western Regions all sent hostages and submitted."
+ },
+ "battle:逢义山之战": {
+  "old": "Battle of Mount Fengyi",
+  "mod": "north of Guyuan, Ningxia (location disputed)",
+  "yt": "168",
+  "sides": "Han defeated the Eastern Qiang",
+  "cmd": "Duan Jiong vs. the Xianlian Qiang",
+  "note": "Duan Jiong broke the Xianlian Qiang at Mount Fengyi with three ranks of long spears flanked by strong crossbows. In the next two years he fought 180 battles large and small and pacified the Eastern Qiang completely, but at a cost of over four billion cash that left Liang Province gravely weakened."
+ },
+ "battle:三道出塞": {
+  "old": "Three-Pronged Campaign beyond the Frontier",
+  "mod": "beyond the frontier, central Inner Mongolia",
+  "yt": "177",
+  "sides": "The Xianbei defeated Han",
+  "cmd": "Tanshihuai vs. Xia Yu, Tian Yan and Zang Min",
+  "note": "Emperor Ling sent three generals, each with 10,000 horsemen, out through Gaoliu, Yunzhong and Yanmen. They pushed more than 2,000 li beyond the frontier, where Tanshihuai met each column separately; they lost their tallies, passes and baggage, each general escaped with a few dozen riders, and seven or eight in ten of their men died."
+ },
+ "battle:长社之战": {
+  "old": "Battle of Changshe",
+  "mod": "northeast of Changge, Henan",
+  "yt": "5th month, 184",
+  "sides": "Han defeated the Yellow Turbans",
+  "cmd": "Huangfu Song, Zhu Jun and Cao Cao vs. Bo Cai",
+  "note": "Bo Cai besieged Huangfu Song at Changshe, camping among the grass; Huangfu Song set fires on a windy night and, joined by the newly arrived Chief Commandant of Cavalry Cao Cao, attacked, beheading tens of thousands. The Yingchuan Yellow Turbans scattered."
+ },
+ "battle:宛城之围": {
+  "old": "Siege of Wancheng",
+  "mod": "Nanyang, Henan",
+  "yt": "6th–11th month, 184",
+  "sides": "Han defeated the Yellow Turbans",
+  "cmd": "Zhu Jun, Qin Jie and Sun Jian vs. Zhang Mancheng, Zhao Hong and Han Zhong",
+  "note": "Zhang Mancheng of the Nanyang Yellow Turbans killed the Administrator Chu Gong and held Wan for more than a hundred days. After Qin Jie beheaded Zhang Mancheng, Zhao Hong and then Han Zhong held the city; Zhu Jun besieged it for several months before it fell, with Sun Jian first over the wall."
+ },
+ "battle:广宗之战": {
+  "old": "Battle of Guangzong",
+  "mod": "east of Wei County, Hebei",
+  "yt": "10th month, 184",
+  "sides": "Han defeated the Yellow Turbans",
+  "cmd": "Huangfu Song vs. Zhang Liang",
+  "note": "Lu Zhi first besieged Guangzong but was falsely accused by eunuchs and imprisoned; Dong Zhuo replaced him and achieved nothing. When Huangfu Song arrived he made a night attack while the Yellow Turbans were off guard, beheaded Zhang Liang, took 30,000 heads, and 50,000 more drowned in the river. Zhang Jue had already died of illness; his coffin was opened and his corpse mutilated."
+ },
+ "battle:下曲阳之战": {
+  "old": "Battle of Xiaquyang",
+  "mod": "west of Jinzhou, Hebei",
+  "yt": "11th month, 184",
+  "sides": "Han defeated the Yellow Turbans",
+  "cmd": "Huangfu Song and Guo Dian vs. Zhang Bao",
+  "note": "Following up his victory, Huangfu Song attacked Xiaquyang, beheaded Zhang Bao, the \"General of Earth\", killed or captured more than 100,000 and piled their bodies into a mound south of the city. With this the main Yellow Turban force was put down."
+ },
+ "battle:美阳之战": {
+  "old": "Battle of Meiyang",
+  "mod": "northwest of Wugong, Shaanxi",
+  "yt": "11th month, 185",
+  "sides": "Han defeated the Liang Province rebels",
+  "cmd": "Zhang Wen and Dong Zhuo vs. Bian Zhang and Han Sui",
+  "note": "Bian Zhang and Han Sui led tens of thousands of Qiang and Hu horsemen into the Three Adjuncts, and the Excellency of Works Zhang Wen camped at Meiyang with the armies. One night a meteor lit up the camp; the rebels took it as an ill omen and prepared to withdraw, and Dong Zhuo seized the chance to defeat them. Sun Jian was also with Zhang Wen's army at this time."
+ },
+ "battle:陈仓之围": {
+  "old": "Siege of Chencang (188)",
+  "mod": "east of Chencang District, Baoji, Shaanxi",
+  "yt": "winter 188 – 2nd month, 189",
+  "sides": "Han defeated the Liang Province rebels",
+  "cmd": "Huangfu Song and Dong Zhuo vs. Wang Guo and Han Sui",
+  "note": "Wang Guo, Han Sui and others besieged Chencang for more than eighty days without taking it. Huangfu Song rejected Dong Zhuo's call for an immediate relief attack and waited until the besiegers were exhausted, then pursued and routed them. Wang Guo was deposed by Han Sui and the others, and the Liang Province rebels fell to quarrelling."
+ },
+ "battle:汴水之战": {
+  "old": "Battle of the Bian River",
+  "mod": "northeast of Xingyang, Henan",
+  "yt": "190",
+  "sides": "Dong Zhuo defeated Cao Cao",
+  "cmd": "Xu Rong vs. Cao Cao and Wei Zi",
+  "note": "While the eastern generals sat at Suanzao, Cao Cao alone led his troops west. At the Bian River near Xingyang he met Dong Zhuo's officer Xu Rong and fought all day, losing many men; Cao Cao was hit by a stray arrow and his horse was wounded, and he escaped only because Cao Hong gave him his own horse."
+ },
+ "battle:河阳津之战": {
+  "old": "Battle of Heyang Ford",
+  "mod": "south of Mengzhou, Henan",
+  "yt": "190",
+  "sides": "Dong Zhuo defeated Wang Kuang",
+  "cmd": "Dong Zhuo vs. Wang Kuang",
+  "note": "Wang Kuang camped at Heyang Ford intending to cross the Yellow River. Dong Zhuo pretended to cross at Pingyin while secretly sending picked troops across to the north at Xiaoping Ford to get behind him, and crushed Wang Kuang's army, almost to the last man."
+ },
+ "battle:梁东之战": {
+  "old": "Battle of Liangdong",
+  "mod": "east of Ruzhou, Henan",
+  "yt": "winter 190",
+  "sides": "Dong Zhuo defeated Sun Jian",
+  "cmd": "Xu Rong vs. Sun Jian",
+  "note": "Sun Jian advanced from Luyang to camp east of Liang County and was defeated by Xu Rong. His officer Zu Mao put on Sun Jian's red woollen headscarf to draw off the pursuers, so that Sun Jian escaped, gathered his scattered men and advanced again."
+ },
+ "battle:阳人之战": {
+  "old": "Battle of Yangren",
+  "mod": "west of Ruzhou, Henan",
+  "yt": "2nd month, 191",
+  "sides": "Sun Jian defeated Dong Zhuo",
+  "cmd": "Sun Jian vs. Hu Zhen and Lü Bu",
+  "note": "Dong Zhuo sent Hu Zhen and Lü Bu to attack Sun Jian at Yangren; the two generals were at odds, and their army panicked in the night. Sun Jian sallied out, routed them and beheaded their commander Hua Xiong. The Romance's story of Guan Yu \"slaying Hua Xiong while the wine was still warm\" is a novelist's invention."
+ },
+ "battle:襄阳之战": {
+  "old": "Battle of Xiangyang",
+  "mod": "Mount Xian, Xiangyang, Hubei",
+  "yt": "191 (or 192)",
+  "sides": "Liu Biao defeated Sun Jian",
+  "cmd": "Huang Zu vs. Sun Jian",
+  "note": "Yuan Shu sent Sun Jian south against Liu Biao. Sun Jian defeated Huang Zu between Fan and Deng and besieged Xiangyang, but while riding alone on Mount Xian he was shot dead by Huang Zu's soldiers, aged thirty-seven."
+ },
+ "battle:东光之战": {
+  "old": "Battle of Dongguang",
+  "mod": "Dongguang, Hebei",
+  "yt": "winter 191",
+  "sides": "Gongsun Zan defeated the Qing Province Yellow Turbans",
+  "cmd": "Gongsun Zan vs. the Qing Province Yellow Turbans",
+  "note": "Three hundred thousand Yellow Turbans of Qing and Xu provinces entered Bohai, hoping to join the Black Mountain army. Gongsun Zan met them south of Dongguang with 20,000 foot and horse, beheaded 30,000, and wiped out tens of thousands more in pursuit at the Yellow River, making his name feared."
+ },
+ "battle:界桥之战": {
+  "old": "Battle of Jieqiao",
+  "mod": "east of Wei County, Hebei",
+  "yt": "spring 192 (or winter 191)",
+  "sides": "Yuan Shao defeated Gongsun Zan",
+  "cmd": "Qu Yi and Yuan Shao vs. Gongsun Zan",
+  "note": "Gongsun Zan drew up 30,000 infantry in a square with 10,000 horsemen on the wings. Yuan Shao had Qu Yi lead 800 vanguard troops, with a thousand strong crossbows hidden under shields, who held their fire until the White Horse Volunteers were almost upon them and then loosed together, routing them and killing Gongsun Zan's Inspector of Ji Province, Yan Gang. South of Jieqiao Yuan Shao was briefly surrounded by Gongsun Zan's remaining cavalry; he threw his helmet to the ground and fought desperately."
+ },
+ "battle:寿张之战": {
+  "old": "Battle of Shouzhang",
+  "mod": "south of Dongping, Shandong",
+  "yt": "192",
+  "sides": "Cao Cao defeated the Qing Province Yellow Turbans",
+  "cmd": "Cao Cao and Bao Xin vs. the Qing Province Yellow Turbans",
+  "note": "Cao Cao and Bao Xin fought the Yellow Turbans east of Shouzhang, where Bao Xin died fighting hard. Cao Cao fought day and night with surprise troops and pursued the Yellow Turbans to Jibei; in winter he took the surrender of more than 300,000 fighters and picked the best of them as the \"Qing Province troops\", laying the foundation of his power."
+ },
+ "battle:长安之战": {
+  "old": "Battle of Chang'an",
+  "mod": "northwest of Xi'an, Shaanxi",
+  "yt": "6th month, 192",
+  "sides": "Li Jue and Guo Si defeated Lü Bu and Wang Yun",
+  "cmd": "Li Jue, Guo Si and Fan Chou vs. Lü Bu",
+  "note": "After Dong Zhuo's death Wang Yun refused to pardon his Liang Province followers; Jia Xu urged Li Jue and the others to \"lead the troops west\". Gathering men along the way until they numbered over 100,000, they besieged Chang'an for eight days and took it; Lü Bu was defeated and fled, Wang Yun was killed, and more than 10,000 officials and townspeople died."
+ },
+ "battle:匡亭之战": {
+  "old": "Battle of Kuangting",
+  "mod": "east of Fengqiu, Henan",
+  "yt": "spring 193",
+  "sides": "Cao Cao defeated Yuan Shu",
+  "cmd": "Cao Cao vs. Yuan Shu and Liu Xiang",
+  "note": "Yuan Shu led his troops into Chenliu and camped at Fengqiu, allying with Yufuluo of the Southern Xiongnu and remnants of the Black Mountains. Cao Cao routed his general Liu Xiang at Kuangting and pursued to Xiangyi and Ningling, and Yuan Shu fled all the way south to Jiujiang."
+ },
+ "battle:彭城之战": {
+  "old": "Battle of Pengcheng",
+  "mod": "Xuzhou, Jiangsu",
+  "yt": "autumn 193",
+  "sides": "Cao Cao defeated Tao Qian",
+  "cmd": "Cao Cao vs. Tao Qian",
+  "note": "On his eastern campaign Cao Cao took more than ten cities and routed Tao Qian at Pengcheng, killing tens of thousands, so that \"the Si River ceased to flow\"; Tao Qian fell back to hold Tan. Cao Cao's army massacred widely wherever it went, and many scholars and common people of Xu Province fled south to Jiangdong."
+ },
+ "battle:龙凑之战": {
+  "old": "Battle of Longcou",
+  "mod": "southeast of Pingyuan, Shandong (location disputed)",
+  "yt": "c. 192–193",
+  "sides": "Yuan Shao defeated Gongsun Zan",
+  "cmd": "Yuan Shao vs. Gongsun Zan",
+  "note": "Gongsun Zan attacked Yuan Shao to the south at Longcou and came back badly beaten; after this he no longer dared to advance south lightly and turned to consolidating You Province."
+ },
+ "battle:居庸之战": {
+  "old": "Battle of Juyong",
+  "mod": "Yanqing, Beijing",
+  "yt": "winter 193",
+  "sides": "Gongsun Zan defeated Liu Yu",
+  "cmd": "Gongsun Zan vs. Liu Yu",
+  "note": "Liu Yu attacked Gongsun Zan at Ji with 100,000 men but forbade them to burn homes or harm the innocent; a few hundred of Gongsun Zan's picked men set fires and scattered them instead. Liu Yu fled north to Juyong County and was captured, and was later executed on the charge of plotting with Yuan Shao to make himself emperor."
+ },
+ "battle:郯东之战": {
+  "old": "Battle east of Tan",
+  "mod": "east of Tancheng, Shandong",
+  "yt": "summer 194",
+  "sides": "Cao Cao defeated Tao Qian and Liu Bei",
+  "cmd": "Cao Cao vs. Cao Bao and Liu Bei",
+  "note": "On his second attack on Xu Province Cao Cao took the counties of Langya and Donghai and routed Tao Qian's officer Cao Bao and Liu Bei east of Tan. Tao Qian, terrified, was about to flee to Danyang when Lü Bu seized Yan Province, and Cao Cao hurried back."
+ },
+ "battle:濮阳之战": {
+  "old": "Battle of Puyang",
+  "mod": "southwest of Puyang, Henan",
+  "yt": "summer–autumn 194",
+  "sides": "Lü Bu defeated Cao Cao (stalemate)",
+  "cmd": "Cao Cao vs. Lü Bu and Chen Gong",
+  "note": "Cao Cao attacked Lü Bu at Puyang; after entering by the east gate he ran into an ambush with fire, burned the palm of his left hand, fell from his horse and was nearly captured. The two sides then faced each other for more than a hundred days, until a locust plague and famine made both withdraw."
+ },
+ "battle:定陶巨野之战": {
+  "old": "Battle of Dingtao and Juye",
+  "mod": "southwest of Juye, Shandong",
+  "yt": "195",
+  "sides": "Cao Cao defeated Lü Bu",
+  "cmd": "Cao Cao vs. Lü Bu and Chen Gong",
+  "note": "Cao Cao first beheaded Lü Bu's officers Xue Lan and Li Feng at Juye, then crushed Lü Bu and Chen Gong with an ambush at Dingtao. Lü Bu fled east to Liu Bei in Xu Province, and Cao Cao gradually recovered Yan Province."
+ },
+ "battle:雍丘之战": {
+  "old": "Battle of Yongqiu",
+  "mod": "Qi County, Henan",
+  "yt": "8th–12th month, 195",
+  "sides": "Cao Cao defeated Zhang Chao",
+  "cmd": "Cao Cao vs. Zhang Chao",
+  "note": "Zhang Miao's brother Zhang Chao held Yongqiu. Cao Cao besieged it for several months; in the 12th month the city fell, Zhang Chao killed himself, and Cao Cao wiped out the three branches of Zhang Miao's family. Zhang Miao himself was killed by his own men on his way to ask Yuan Shu for help."
+ },
+ "battle:曹阳之战": {
+  "old": "Battle of Caoyang",
+  "mod": "east of Lingbao, Henan",
+  "yt": "12th month, 195",
+  "sides": "Li Jue and Guo Si defeated Yang Feng and Dong Cheng",
+  "cmd": "Li Jue, Guo Si and Zhang Ji vs. Yang Feng and Dong Cheng",
+  "note": "When Emperor Xian had come east as far as Hongnong, Li Jue and Guo Si thought better of letting him go and pursued him; they routed his escort at Dongjian, killing countless officials and soldiers, and the palace women and imperial goods were all lost. Emperor Xian crossed the Yellow River by night and took up residence at Anyi."
+ },
+ "battle:牛渚之战": {
+  "old": "Battle of Niuzhu",
+  "mod": "Caishiji, Ma'anshan, Anhui",
+  "yt": "winter 194 – 195",
+  "sides": "Sun Ce defeated Liu Yao",
+  "cmd": "Sun Ce vs. Zhang Ying and Fan Neng",
+  "note": "Sun Ce set out east with a thousand-odd men borrowed from Yuan Shu; by the time he reached Liyang he had five or six thousand, and he crossed the Yangtze and took Liu Yao's camp at Niuzhu with all its stores of grain and equipment; in the course of the campaign he fought Taishi Ci hand to hand at Shenting. He went on to defeat Ze Rong and Xue Li, and Liu Yao abandoned Qu'e and fled to Yuzhang."
+ },
+ "battle:鲍丘之战": {
+  "old": "Battle of Baoqiu",
+  "mod": "Tongzhou area, Beijing (location disputed)",
+  "yt": "195",
+  "sides": "Yuan Shao and Liu He defeated Gongsun Zan",
+  "cmd": "Qu Yi, Xianyu Fu, Yan Rou and Liu He vs. Gongsun Zan",
+  "note": "Xianyu Fu, one of Liu Yu's former officers, made Yan Rou Major over the Wuhuan and brought in more than 7,000 Wuhuan and Xianbei horsemen. Joining Yuan Shao's general Qu Yi and Liu Yu's son Liu He, 100,000 strong, they routed Gongsun Zan at Baoqiu, beheading more than 20,000, and the commanderies of You Province all killed the officials Gongsun Zan had installed."
+ },
+ "battle:吕布袭下邳": {
+  "old": "Lü Bu's Seizure of Xiapi",
+  "mod": "northwest of Suining, Jiangsu",
+  "yt": "6th month, 196",
+  "sides": "Lü Bu defeated Liu Bei (Zhang Fei)",
+  "cmd": "Lü Bu vs. Zhang Fei",
+  "note": "While Liu Bei faced Yuan Shu at Xuyi and Huaiyin he left Zhang Fei to hold Xiapi. Zhang Fei quarrelled with Cao Bao, Chancellor of Xiapi, and killed him; in the confusion in the city Lü Bu made a night attack, took the city and captured Liu Bei's wife and children. Liu Bei could not get back in time, later submitted to Lü Bu and went back to camp at Xiaopei."
+ },
+ "battle:固陵之战": {
+  "old": "Battle of Guling",
+  "mod": "west of Xiaoshan District, Hangzhou, Zhejiang",
+  "yt": "196",
+  "sides": "Sun Ce defeated Wang Lang",
+  "cmd": "Sun Ce vs. Wang Lang",
+  "note": "Sun Ce crossed the Zhe River to attack Kuaiji, and Wang Lang held Guling against him. Following his uncle Sun Jing's plan, Sun Ce sent a detachment by night through Zhadu to surprise the Gaoqian camp; Wang Lang was routed, fled by sea south to Dongye, and surrendered the next year."
+ },
+ "battle:宛城之战": {
+  "old": "Battle of Wancheng (197)",
+  "mod": "Nanyang, Henan",
+  "yt": "1st month, 197",
+  "sides": "Zhang Xiu defeated Cao Cao",
+  "cmd": "Zhang Xiu and Jia Xu vs. Cao Cao",
+  "note": "Zhang Xiu surrendered to Cao Cao with all his men, but Cao Cao took Zhang Ji's widow into his household; Zhang Xiu, resentful, followed Jia Xu's plan and launched a surprise attack on Cao Cao's camp. Cao Cao's eldest son Cao Ang gave his father his horse and was killed, Dian Wei died holding the camp gate, and Cao Cao, hit in the right arm by a stray arrow, fled back to Wuyin."
+ },
+ "battle:蕲阳之战": {
+  "old": "Battle of Qiyang",
+  "mod": "southeast of Suzhou, Anhui",
+  "yt": "9th month, 197",
+  "sides": "Cao Cao defeated Yuan Shu",
+  "cmd": "Cao Cao vs. Qiao Rui, Li Feng, Liang Gang and Yue Jiu",
+  "note": "Yuan Shu was attacking Chen Kingdom when he heard Cao Cao was coming east; he abandoned his army and fled across the Huai, leaving Qiao Rui and three other generals to hold off Cao Cao at Qiyang, where all were killed. Yuan Shu was gravely weakened, and Huainan was then struck by drought and famine."
+ },
+ "battle:安众之战": {
+  "old": "Battle of Anzhong",
+  "mod": "northeast of Dengzhou, Henan",
+  "yt": "5th month, 198",
+  "sides": "Cao Cao defeated Zhang Xiu and Liu Biao",
+  "cmd": "Cao Cao vs. Zhang Xiu",
+  "note": "Cao Cao was besieging Zhang Xiu at Rang when he heard that Yuan Shao meant to strike at Xu, and withdrew. Zhang Xiu and Liu Biao combined to cut off his retreat at Anzhong; Cao Cao cut a path through the hills by night, hid troops there, and caught them front and rear, routing them."
+ },
+ "battle:下邳之战": {
+  "old": "Battle of Xiapi",
+  "mod": "northwest of Suining, Jiangsu",
+  "yt": "10th–12th month, 198",
+  "sides": "Cao Cao defeated Lü Bu",
+  "cmd": "Cao Cao and Liu Bei vs. Lü Bu, Chen Gong and Gao Shun",
+  "note": "Cao Cao massacred Pengcheng and besieged Lü Bu at Xiapi for three months, following the plans of Xun You and Guo Jia to breach the Yi and Si rivers and flood the city. Lü Bu's officers Hou Cheng, Song Xian and Wei Xu tied up Chen Gong and surrendered, and Lü Bu asked to surrender at the White Gate Tower; Cao Cao listened to Liu Bei's words, \"Has my lord not seen how Lü Bu served Ding Jianyang and Grand Preceptor Dong?\", and had him strangled."
+ },
+ "battle:易京之战": {
+  "old": "Battle of Yijing",
+  "mod": "northwest of Xiong County, Hebei",
+  "yt": "198 – 3rd month, 199",
+  "sides": "Yuan Shao defeated Gongsun Zan",
+  "cmd": "Yuan Shao vs. Gongsun Zan",
+  "note": "Yuan Shao besieged Yijing for a year. Gongsun Zan sent to Zhang Yan of the Black Mountains for help, arranging a fire signal, but the letter fell into Yuan Shao's hands. Yuan Shao dug tunnels under the towers and burned their pillars, the towers collapsed and the city fell; Gongsun Zan killed his wife and children and then burned himself to death."
+ },
+ "battle:射犬之战": {
+  "old": "Battle of Shequan",
+  "mod": "northeast of Qinyang, Henan",
+  "yt": "4th month, 199",
+  "sides": "Cao Cao defeated Sui Gu",
+  "cmd": "Shi Huan and Cao Ren vs. Sui Gu",
+  "note": "After Zhang Yang's death his officer Sui Gu planned to go over to Yuan Shao and camped at Shequan; Cao Cao sent Shi Huan and Cao Ren across the Yellow River to attack and behead him. Henei passed to Cao Cao, who then advanced to Liyang and Guandu."
+ },
+ "battle:皖城之战": {
+  "old": "Battle of Wancheng (199)",
+  "mod": "Qianshan, Anhui",
+  "yt": "winter 199",
+  "sides": "Sun Ce defeated Liu Xun",
+  "cmd": "Sun Ce and Zhou Yu vs. Liu Xun",
+  "note": "Feigning friendship, Sun Ce persuaded Liu Xun, Administrator of Lujiang, to attack Shangliao, then took the undefended Wancheng, gaining more than 30,000 of Yuan Shu's retainers and craftsmen; Sun Ce married the elder Qiao and Zhou Yu the younger."
+ },
+ "battle:沙羡之战": {
+  "old": "Battle of Shayi",
+  "mod": "Jiangxia District area, Wuhan, Hubei",
+  "yt": "12th month, 199",
+  "sides": "Sun Ce defeated Huang Zu",
+  "cmd": "Sun Ce vs. Huang Zu, Liu Hu and Han Xi",
+  "note": "Sun Ce attacked Huang Zu at Shayi to the west; Liu Biao sent his nephew Liu Hu and Han Xi of Nanyang with 5,000 long-spear troops to help. Sun Ce routed them, beheaded Han Xi and took 6,000 boats, and Huang Zu escaped alone."
+ },
+ "battle:小沛之战": {
+  "old": "Battle of Xiaopei",
+  "mod": "Pei County, Jiangsu",
+  "yt": "1st month, 200",
+  "sides": "Cao Cao defeated Liu Bei",
+  "cmd": "Cao Cao vs. Liu Bei",
+  "note": "After the plot of the Edict in the Girdle was discovered, Cao Cao marched in person against Liu Bei despite the threat from Yuan Shao. Liu Bei was defeated and fled north to Yuan Tan and Yuan Shao, and his wife and children were captured; Guan Yu, holding Xiapi, was captured and went over to Cao Cao for a time."
+ },
+ "battle:白马之战": {
+  "old": "Battle of Baima",
+  "mod": "east of Hua County, Henan",
+  "yt": "4th month, 200",
+  "sides": "Cao Cao defeated Yuan Shao",
+  "cmd": "Cao Cao, Guan Yu and Zhang Liao vs. Yan Liang",
+  "note": "Yuan Shao sent Yan Liang to attack Baima. On Xun You's advice Cao Cao feinted towards Yanjin and then turned back to strike Baima; Guan Yu, seeing Yan Liang's banner and canopy, galloped at him through ten thousand men, stabbed him and came back with his head. The Romance's \"passing five passes and slaying six generals\" is fiction."
+ },
+ "battle:延津之战": {
+  "old": "Battle of Yanjin",
+  "mod": "north of Yanjin, Henan",
+  "yt": "4th month, 200",
+  "sides": "Cao Cao defeated Yuan Shao",
+  "cmd": "Cao Cao vs. Wen Chou and Liu Bei",
+  "note": "Cao Cao moved his baggage from Baima west along the Yellow River; Yuan Shao's army pursued to south of Yanjin. Cao Cao left the baggage on the road as bait, and while the Yuan troops scrambled for it he attacked with fewer than 600 horsemen and killed Wen Chou. The loss of two famous generals in a row badly shook Yuan Shao's army."
+ },
+ "battle:官渡之战": {
+  "old": "Battle of Guandu",
+  "mod": "northeast of Zhongmou, Henan",
+  "yt": "8th–10th month, 200",
+  "sides": "Cao Cao defeated Yuan Shao",
+  "cmd": "Cao Cao vs. Yuan Shao",
+  "note": "Yuan Shao marched south with more than 100,000 men and faced Cao Cao at Guandu for months, the two sides building earth mounds and digging tunnels against each other. Cao Cao's food ran out and he almost withdrew to Xu, but Xun Yu urged him to hold on. Xu You defected from Yuan Shao and proposed the raid on Wuchao, and Yuan Shao's army collapsed. The battle laid the foundation for Cao Cao's unification of the north."
+ },
+ "battle:乌巢之战": {
+  "old": "Battle of Wuchao",
+  "mod": "west of Fengqiu, Henan (location disputed)",
+  "yt": "10th month, 200",
+  "sides": "Cao Cao defeated Yuan Shao",
+  "cmd": "Cao Cao vs. Chunyu Qiong",
+  "note": "Cao Cao personally led 5,000 foot and horse under Yuan Shao's banners, marching silently by night, and attacked the more than 10,000 carts of grain guarded by Chunyu Qiong, burning all of it. Yuan Shao's detachment sent against the main camp at Guandu failed to take it, Zhang He and Gao Lan surrendered, and the Yuan army fell apart."
+ },
+ "battle:仓亭之战": {
+  "old": "Battle of Cangting",
+  "mod": "north of Yanggu, Shandong",
+  "yt": "4th month, 201",
+  "sides": "Cao Cao defeated Yuan Shao",
+  "cmd": "Cao Cao vs. Yuan Shao",
+  "note": "Yuan Shao gathered his scattered troops at Cangting, and Cao Cao defeated him again; Yuan Shao fell ill and died in the 5th month of the next year. Cheng Yu's \"ambush on ten sides\" in the Romance is largely fiction."
+ },
+ "battle:汝南之战": {
+  "old": "Battle of Runan",
+  "mod": "Pingyu area, Henan",
+  "yt": "201",
+  "sides": "Cao Cao defeated Liu Bei",
+  "cmd": "Cao Cao vs. Liu Bei and Gong Du",
+  "note": "In Runan Liu Bei joined Gong Du and other Yellow Turban remnants to raid behind Xu, killing Cao Cao's general Cai Yang; Cao Cao marched south in person, and Liu Bei fled to Liu Biao in Jing Province. The Romance's \"Guan Yu slays Cai Yang\" is adapted from this."
+ },
+ "battle:博望之战": {
+  "old": "Battle of Bowang",
+  "mod": "southwest of Fangcheng, Henan",
+  "yt": "202",
+  "sides": "Liu Bei defeated Xiahou Dun and Yu Jin",
+  "cmd": "Liu Bei vs. Xiahou Dun, Yu Jin and Li Dian",
+  "note": "Liu Biao sent Liu Bei north as far as She, and Cao Cao sent Xiahou Dun, Yu Jin and others against him. One day Liu Bei burned his camp and pretended to flee; Xiahou Dun pursued into an ambush and was beaten, escaping only when Li Dian came to his rescue. The Romance credits the victory to Zhuge Liang in his first campaign, but at that time Zhuge Liang had not yet entered Liu Bei's service."
+ },
+ "battle:黎阳之战": {
+  "old": "Battle of Liyang",
+  "mod": "northeast of Xun County, Henan",
+  "yt": "9th month, 202 – 3rd month, 203",
+  "sides": "Cao Cao defeated Yuan Tan and Yuan Shang",
+  "cmd": "Cao Cao vs. Yuan Tan and Yuan Shang",
+  "note": "After Yuan Shao's death Cao Cao crossed north and attacked Yuan Tan and Yuan Shang at Liyang for half a year, and the two Yuans fell back to Ye; on Guo Jia's advice Cao Cao pulled back for a while to let the brothers fight each other."
+ },
+ "battle:邺城之战": {
+  "old": "Battle of Ye",
+  "mod": "southwest of Linzhang, Hebei",
+  "yt": "2nd–8th month, 204",
+  "sides": "Cao Cao defeated Yuan Shang (Shen Pei)",
+  "cmd": "Cao Cao vs. Shen Pei and Yuan Shang",
+  "note": "Cao Cao besieged Ye while Yuan Shang was attacking Yuan Tan, digging a trench forty li around and flooding the city with the Zhang River; more than half the people inside starved to death. Yuan Shang came back to relieve it and was crushed; in the 8th month Shen Pei's nephew opened a gate to Cao Cao's troops, and Shen Pei was captured and died unbowed."
+ },
+ "battle:南皮之战": {
+  "old": "Battle of Nanpi",
+  "mod": "northeast of Nanpi, Hebei",
+  "yt": "1st month, 205",
+  "sides": "Cao Cao defeated Yuan Tan",
+  "cmd": "Cao Cao vs. Yuan Tan",
+  "note": "Cao Cao attacked Yuan Tan at Nanpi. The first fighting went badly, so Cao Cao beat the war drums himself to drive his men on; the city fell, Yuan Tan was beheaded with his wife and children, and Ji Province was pacified."
+ },
+ "battle:壶关之战": {
+  "old": "Battle of Hu Pass",
+  "mod": "southeast of Changzhi, Shanxi",
+  "yt": "1st–3rd month, 206",
+  "sides": "Cao Cao defeated Gao Gan",
+  "cmd": "Cao Cao, Yue Jin and Li Dian vs. Gao Gan",
+  "note": "Gao Gan rebelled again and held Hu Pass; Cao Cao besieged it for three months before taking it. Gao Gan fled south towards Jing Province and was beheaded on the way by Wang Yan, Chief Commandant of Shangluo, and Bing Province was pacified."
+ },
+ "battle:白狼山之战": {
+  "old": "Battle of White Wolf Mountain",
+  "mod": "Kazuo area, Liaoning",
+  "yt": "8th month, 207",
+  "sides": "Cao Cao defeated the Wuhuan and the Yuan brothers",
+  "cmd": "Zhang Liao and Cao Cao vs. Tadun, Yuan Shang and Yuan Xi",
+  "note": "Cao Cao went out through Lulong Fort and marched more than 500 li through uninhabited country; at White Wolf Mountain his vanguard ran suddenly into tens of thousands of Wuhuan horsemen. Seeing from a height that the enemy's ranks were in disorder, Cao Cao sent Zhang Liao ahead to charge, killing Tadun and the named kings below him; more than 200,000 Hu and Han surrendered."
+ },
+ "battle:江夏之战": {
+  "old": "Battle of Jiangxia",
+  "mod": "Wuhan, Hubei",
+  "yt": "spring 208",
+  "sides": "Sun Quan defeated Huang Zu",
+  "cmd": "Sun Quan, Lü Meng, Ling Tong and Dong Xi vs. Huang Zu",
+  "note": "On Sun Quan's third campaign west against Jiangxia, Huang Zu blocked the mouth of the Mian with two covered assault ships; Dong Xi and Ling Tong led a hundred men ready to die, in double armour, who cut the great cables, Lü Meng beheaded Huang Zu's commander Chen Jiu, and the city fell. Huang Zu was beheaded by the horseman Feng Ze, and Sun Quan at last avenged his father."
+ },
+ "battle:长坂之战": {
+  "old": "Battle of Changban",
+  "mod": "northeast of Dangyang, Hubei",
+  "yt": "9th month, 208",
+  "sides": "Cao Cao defeated Liu Bei",
+  "cmd": "Cao Chun (Tiger and Leopard Cavalry) vs. Liu Bei, Zhang Fei and Zhao Yun",
+  "note": "Liu Bei was retreating south with more than 100,000 people and several thousand carts, covering only ten-odd li a day; Cao Cao personally led 5,000 elite cavalry over 300 li in a day and a night and caught him at Changban near Dangyang. Liu Bei abandoned his wife and children and fled with a few dozen horsemen; Zhang Fei held the river, broke the bridge and faced the enemy with glaring eyes and levelled spear, and Zhao Yun saved the infant Liu Shan in his arms and protected Lady Gan."
+ },
+ "battle:赤壁之战": {
+  "old": "Battle of Red Cliffs",
+  "mod": "northwest of Chibi, Hubei (location disputed)",
+  "yt": "winter 208",
+  "sides": "Sun Quan and Liu Bei defeated Cao Cao",
+  "cmd": "Zhou Yu, Cheng Pu and Liu Bei vs. Cao Cao",
+  "note": "Cao Cao, claiming 800,000 men (Zhou Yu estimated the troops from the north at no more than 150,000–160,000, plus 70,000–80,000 newly surrendered Jing Province troops), came down the Yangtze and met the Sun–Liu allies at Red Cliffs; beaten in the first clash, he withdrew to camp at Wulin on the north bank. Huang Gai proposed a fire attack: several dozen assault ships and warships were loaded with brushwood soaked in oil and sent in under a pretended surrender. With a strong southeast wind blowing, the fire spread to the camps on the north bank; Cao Cao's army was routed, then struck by an epidemic, and Cao Cao escaped on foot along the Huarong Road."
+ },
+ "battle:合肥之战": {
+  "old": "Battle of Hefei",
+  "mod": "Hefei, Anhui",
+  "yt": "12th month, 208",
+  "sides": "Cao Cao defeated Sun Quan",
+  "cmd": "Jiang Ji vs. Sun Quan",
+  "note": "After Red Cliffs Sun Quan led 100,000 men in person and besieged Hefei for more than a hundred days; Jiang Ji, Attendant Officer of Yang Province, spread word that 40,000 reinforcements were coming, and Sun Quan burned his camp and withdrew."
+ },
+ "battle:江陵之战": {
+  "old": "Battle of Jiangling (208)",
+  "mod": "Jingzhou, Hubei",
+  "yt": "12th month, 208 – 12th month, 209",
+  "sides": "Zhou Yu defeated Cao Ren",
+  "cmd": "Zhou Yu, Gan Ning and Liu Bei vs. Cao Ren",
+  "note": "Zhou Yu and Cheng Pu besieged Jiangling. Gan Ning, sent separately to take Yiling, was surrounded there, and Zhou Yu went to his rescue and broke the siege; directing the fighting in person, Zhou Yu was hit in the right side by a stray arrow but still rallied his troops. After more than a year Cao Ren abandoned the city and withdrew north, and Zhou Yu became Administrator of Nan Commandery."
+ },
+ "battle:潼关之战": {
+  "old": "Battle of Tong Pass",
+  "mod": "northeast of Tongguan, Shaanxi",
+  "yt": "7th–8th month, 211",
+  "sides": "Cao Cao defeated Ma Chao and Han Sui",
+  "cmd": "Cao Cao vs. Ma Chao and Han Sui",
+  "note": "Cao Cao reached Tong Pass and faced Ma Chao across it, while secretly sending Xu Huang and Zhu Ling west across the Yellow River at Puban Ford. As Cao Cao crossed with the rearguard, Ma Chao attacked with more than 10,000 horsemen; Xu Chu helped Cao Cao into a boat, and Ding Fei let loose oxen and horses to distract the enemy, so that he got across. The Romance's \"cutting his beard and throwing off his robe\" is embroidered from this."
+ },
+ "battle:渭南之战": {
+  "old": "Battle of Weinan",
+  "mod": "northwest of Huayin, Shaanxi",
+  "yt": "9th month, 211",
+  "sides": "Cao Cao defeated Ma Chao and Han Sui",
+  "cmd": "Cao Cao vs. Ma Chao and Han Sui",
+  "note": "Cao Cao crossed the Wei River by night and built a sand fort for his camp; Ma Chao attacked repeatedly but could not dislodge him, and asked for a division of territory in return for peace. Using Jia Xu's plan, Cao Cao chatted about old times with Han Sui in front of the lines and deliberately sent him a letter full of erasures, making Ma Chao suspect Han Sui. In the 9th month they met in a set battle: Cao Cao first sent light troops to provoke the enemy, then struck from both sides with his tiger cavalry, routing the coalition of the ten Guanzhong warlords."
+ },
+ "battle:濡须口之战": {
+  "old": "Battle of Ruxu (213)",
+  "mod": "northeast of Wuwei, Anhui",
+  "yt": "1st month, 213",
+  "sides": "Stalemate; Cao Cao withdrew",
+  "cmd": "Cao Cao vs. Sun Quan and Lü Meng",
+  "note": "Cao Cao, claiming 400,000 men, attacked Ruxu and took Sun Quan's camp west of the Yangtze. After facing each other for more than a month, seeing the good order of Sun Quan's ships, arms and troops, he sighed \"A son should be like Sun Zhongmou\" and led his army back north. Sun Quan had built Ruxu Fort beforehand on Lü Meng's advice, and it became Wu's key stronghold north of the Yangtze."
+ },
+ "battle:冀城之战": {
+  "old": "Battle of Jicheng",
+  "mod": "east of Gangu, Gansu",
+  "yt": "213–214",
+  "sides": "Ma Chao defeated Wei Kang; the next year Yang Fu and others drove Ma Chao out",
+  "cmd": "Ma Chao vs. Wei Kang, Yang Fu and Jiang Xu",
+  "note": "Ma Chao attacked Jicheng with Qiang and Hu troops; Wei Kang, Inspector of Liang Province, held out for eight months, surrendered when no relief came, and was killed by Ma Chao. That autumn the Army Adviser Yang Fu and Jiang Xu rose at Lucheng; they lured Ma Chao out of Jicheng, shut the gates behind him and killed his wife and children. Ma Chao attacked Licheng and killed Jiang Xu's mother; defeated by Xiahou Yuan in 214, he went south to Zhang Lu."
+ },
+ "battle:雒城之战": {
+  "old": "Battle of Luocheng",
+  "mod": "north of Guanghan, Sichuan",
+  "yt": "213 – summer 214",
+  "sides": "Liu Bei defeated Liu Zhang (Liu Xun)",
+  "cmd": "Liu Bei and Pang Tong vs. Liu Xun and Zhang Ren",
+  "note": "Liu Bei came south from Jiameng, beheaded Yang Huai and Gao Pei to take Fu, took the surrender of Li Yan at Mianzhu and besieged Luocheng. Liu Zhang's son Liu Xun held out for nearly a year; Pang Tong was killed by a stray arrow while leading an assault, and Zhang Ren was captured in a sortie and died refusing to surrender. The city fell in summer 214, and Liu Bei joined Zhuge Liang, Zhang Fei and Zhao Yun to besiege Chengdu."
+ },
+ "battle:皖城之战（214）": {
+  "old": "Battle of Wancheng (214)",
+  "mod": "Qianshan, Anhui",
+  "yt": "5th month, 214",
+  "sides": "Sun Quan defeated Cao Cao (Zhu Guang)",
+  "cmd": "Lü Meng and Gan Ning vs. Zhu Guang",
+  "note": "Cao Cao had made Zhu Guang Administrator of Lujiang, stationed at Wan, where he opened up rice fields on a large scale. Lü Meng urged Sun Quan to take it quickly; with Gan Ning commanding the assault and Lü Meng beating the war drums himself, the city fell between dawn and breakfast time, and Zhu Guang and tens of thousands of men and women were captured."
+ },
+ "battle:枹罕之战": {
+  "old": "Battle of Fuhan",
+  "mod": "northeast of Linxia, Gansu",
+  "yt": "10th month, 214",
+  "sides": "Cao Cao (Xiahou Yuan) defeated Song Jian",
+  "cmd": "Xiahou Yuan vs. Song Jian",
+  "note": "Xiahou Yuan besieged Fuhan for over a month; when it fell he beheaded Song Jian and his chancellor and the officials under him, ending thirty years of independent rule. He also sent Zhang He across the Yellow River into Lesser Huangzhong, and the Qiang of Hexi all submitted."
+ },
+ "battle:阳平关之战": {
+  "old": "Battle of Yangping Pass",
+  "mod": "west of Mian County, Shaanxi",
+  "yt": "7th month, 215",
+  "sides": "Cao Cao defeated Zhang Wei (Zhang Lu)",
+  "cmd": "Cao Cao vs. Zhang Wei and Yang Ang",
+  "note": "Cao Cao marched in person against Zhang Lu. Zhang Wei held Yangping Pass, building walls along the hills for more than ten li; Cao Cao could not take it and pretended to withdraw, and when Zhang Wei's guard relaxed Cao Cao's troops attacked by night (by another account they strayed into the enemy camp by mistake) and broke through. Zhang Lu sealed his treasuries and fled to Bazhong, surrendering in the 11th month; he was made General Who Guards the South and Marquis of Langzhong."
+ },
+ "battle:宕渠之战": {
+  "old": "Battle of Dangqu",
+  "mod": "northeast of Qu County, Sichuan",
+  "yt": "215",
+  "sides": "Zhang Fei defeated Zhang He",
+  "cmd": "Zhang Fei vs. Zhang He",
+  "note": "Zhang He came south into Baxi intending to move its people to Hanzhong, and advanced to Dangqu, Mengtou and Dangshi. Zhang Fei with more than 10,000 picked troops intercepted him by another road; Zhang He abandoned his horses, climbed into the hills and escaped back to Nanzheng by side paths with ten-odd of his men, and Baxi was secure."
+ },
+ "battle:逍遥津之战": {
+  "old": "Battle of Xiaoyao Ford",
+  "mod": "Hefei, Anhui",
+  "yt": "8th month, 215",
+  "sides": "Cao Cao (Zhang Liao) defeated Sun Quan",
+  "cmd": "Zhang Liao, Li Dian and Yue Jin vs. Sun Quan",
+  "note": "Sun Quan attacked Hefei with 100,000 men; there were only 7,000 in the city. Following Cao Cao's sealed instructions, Zhang Liao recruited 800 men ready to die, and at dawn, in armour and with halberd in hand, charged the enemy lines right up to Sun Quan's banner. Sun Quan besieged the city for more than ten days without success; as he withdrew, Zhang Liao caught him north of Xiaoyao Ford, and he escaped only thanks to Ling Tong's desperate fighting and his horse's leap across the broken bridge."
+ },
+ "battle:濡须之战（217）": {
+  "old": "Battle of Ruxu (217)",
+  "mod": "northeast of Wuwei, Anhui",
+  "yt": "1st–3rd month, 217",
+  "sides": "Stalemate; Sun Quan sued for peace",
+  "cmd": "Cao Cao vs. Sun Quan, Lü Meng and Gan Ning",
+  "note": "Cao Cao attacked Sun Quan again at Ruxu; Gan Ning led a hundred-odd men in a night raid on Cao Cao's camp and came back with several dozen heads. Unable to match Cao Cao's strength, Sun Quan sent envoys to offer submission and make peace, and Cao Cao withdrew, leaving Xiahou Dun, Cao Ren and Zhang Liao stationed at Juchao."
+ },
+ "battle:定军山之战": {
+  "old": "Battle of Mount Dingjun",
+  "mod": "south of Mian County, Shaanxi",
+  "yt": "1st month, 219",
+  "sides": "Liu Bei defeated Xiahou Yuan",
+  "cmd": "Huang Zhong and Fa Zheng vs. Xiahou Yuan",
+  "note": "Liu Bei crossed the Mian River south from Yangping Pass, advanced along the hills and camped at Mount Dingjun. Xiahou Yuan came to contest it; Fa Zheng urged attacking from the heights, and Huang Zhong drove forward amid the thunder of drums and gongs and cut down Xiahou Yuan in the fighting. The Cao army fell apart."
+ },
+ "battle:汉水之战": {
+  "old": "Battle of the Han River",
+  "mod": "east of Mian County, Shaanxi",
+  "yt": "3rd month, 219",
+  "sides": "Liu Bei defeated Cao Cao",
+  "cmd": "Zhao Yun and Huang Zhong vs. Cao Cao",
+  "note": "Cao Cao came to Hanzhong in person and moved grain below the northern hills. Huang Zhong went to seize it and was surrounded; Zhao Yun came to his support and was chased back to his camp. He opened the gates, lowered the flags and silenced the drums, and Cao Cao's troops, suspecting an ambush, fell back; then Zhao Yun beat the drums and shot at them with powerful crossbows, and the Cao troops trampled one another and many fell into the Han River and drowned. Liu Bei said Zhao Yun was \"courage through and through\" (according to the Separate Biography of Zhao Yun). In the 5th month Cao Cao pulled out of Hanzhong."
+ },
+ "battle:上庸之战": {
+  "old": "Battle of Shangyong",
+  "mod": "southwest of Zhushan, Hubei",
+  "yt": "5th–6th month, 219",
+  "sides": "Liu Bei defeated Shen Dan",
+  "cmd": "Meng Da and Liu Feng vs. Shen Dan",
+  "note": "Liu Bei sent Meng Da north from Zigui to attack Fangling, where he killed the Administrator Kuai Qi; he also sent his adopted son Liu Feng down the Mian from Hanzhong to take command over Meng Da. Shen Dan, Administrator of Shangyong, surrendered with all his people, and the Three Eastern Commanderies passed to Shu."
+ },
+ "battle:樊城之战": {
+  "old": "Battle of Fancheng (219)",
+  "mod": "Fancheng District, Xiangyang, Hubei",
+  "yt": "7th–10th month, 219",
+  "sides": "Cao Cao defeated Guan Yu",
+  "cmd": "Guan Yu vs. Cao Ren, Yu Jin, Pang De and Xu Huang",
+  "note": "Guan Yu led his army against Fancheng. In the 8th month there were great rains, the Han River rose several zhang above the plain, and all seven armies under Yu Jin were drowned; Yu Jin surrendered and Pang De, refusing to submit, was beheaded. Bandit bands across the Central Plains accepted seals and titles from Guan Yu from afar, and \"his might shook all China\"; Cao Cao even considered moving the capital away from Xu to avoid him. Later Xu Huang's relief army broke Guan Yu's siege lines, and with Wu troops striking his rear, Guan Yu lifted the siege and turned south."
+ },
+ "battle:白衣渡江": {
+  "old": "Crossing the River in White",
+  "mod": "Jingzhou, Hubei",
+  "yt": "intercalary 10th month, 219",
+  "sides": "Sun Quan defeated Guan Yu",
+  "cmd": "Lü Meng and Lu Xun vs. Mi Fang and Fu Shiren",
+  "note": "Lü Meng pleaded illness and returned to Jianye, and the little-known Lu Xun took over at Lukou to lull Guan Yu. Sun Quan then sent Lü Meng's picked troops hidden in the holds of boats, with the oarsmen dressed in white as merchants; travelling day and night, they captured all the sentries Guan Yu had posted along the river, and Mi Fang, Administrator of Nan Commandery, and Fu Shiren, commanding at Gong'an, surrendered without a fight. After entering Jiangling Lü Meng treated the families of Guan Yu and his officers and men well, and Guan Yu's army lost heart."
+ },
+ "battle:麦城之战": {
+  "old": "Battle of Maicheng",
+  "mod": "southeast of Dangyang, Hubei",
+  "yt": "12th month, 219",
+  "sides": "Sun Quan defeated Guan Yu",
+  "cmd": "Zhu Ran and Pan Zhang vs. Guan Yu",
+  "note": "As Guan Yu turned south, his officers and men learned that their families were being well treated by Wu, and many deserted. Guan Yu fell back to hold Maicheng; Sun Quan sent envoys to induce him to surrender, and Guan Yu pretended to agree and slipped away, but at Zhangxiang in Linju he was captured by Ma Zhong, an officer under Pan Zhang, and killed together with his son Guan Ping."
+ },
+ "battle:夷陵之战": {
+  "old": "Battle of Yiling",
+  "mod": "Xiaoting District, Yichang, Hubei",
+  "yt": "7th month, 221 – intercalary 6th month, 222",
+  "sides": "Sun Quan defeated Liu Bei",
+  "cmd": "Lu Xun vs. Liu Bei",
+  "note": "To avenge Guan Yu, Liu Bei led a great army in person down the Yangtze, his camps stretching for several hundred li from the Wu Gorge to Yiling. Lu Xun held his ground and did not come out for seven or eight months; when the Shu army was worn out and weary, he attacked with fire and took more than forty camps at a stroke. Feng Xi, Zhang Nan, Shamoke and others were killed, Du Lu, Liu Ning and others surrendered, and Liu Bei fled through the night back to Baidi City."
+ },
+ "battle:洞口之战": {
+  "old": "Battle of Dongkou",
+  "mod": "on the Yangtze southeast of He County, Anhui",
+  "yt": "9th month, 222 – 223",
+  "sides": "Sun Quan defeated Cao Xiu (stalemate)",
+  "cmd": "Cao Xiu, Zhang Liao and Zang Ba vs. Lü Fan, Xu Sheng and Quan Cong",
+  "note": "Cao Pi attacked Wu along three routes. On the eastern route Cao Xiu brought his army to Dongkou, where Lü Fan led the Wu fleet against him, but a storm sank or scattered the boats and Wu lost several thousand men. Cao Xiu sent Zang Ba on a night attack against Xuling, but he too was driven off by Quan Cong and Xu Sheng; blocked by the Yangtze, Cao Xiu achieved nothing and withdrew."
+ },
+ "battle:江陵之战（222）": {
+  "old": "Battle of Jiangling (222)",
+  "mod": "Jingzhou, Hubei",
+  "yt": "winter 222 – 3rd month, 223",
+  "sides": "Sun Quan defeated Cao Wei",
+  "cmd": "Zhu Ran vs. Cao Zhen, Xiahou Shang and Zhang He",
+  "note": "On the central Wei route Cao Zhen and Xiahou Shang besieged Jiangling. Many in the city were sick and only 5,000 could fight, but Zhu Ran held out for six months, repeatedly sallying out to defeat the Wei troops, and captured and executed Yao Tai, the magistrate of Jiangling, who had plotted to betray the city. The Wei army camped on an island in the river and built a pontoon bridge; Pan Zhang prepared reed rafts to burn it, and on hearing of this Xiahou Shang withdrew his troops. In the 3rd month of the next year the siege was lifted because of an epidemic."
+ },
+ "battle:濡须之战（223）": {
+  "old": "Battle of Ruxu (223)",
+  "mod": "northeast of Wuwei, Anhui",
+  "yt": "3rd month, 223",
+  "sides": "Sun Quan defeated Cao Ren",
+  "cmd": "Zhu Huan vs. Cao Ren and Chang Diao",
+  "note": "Cao Ren attacked Ruxu with tens of thousands of men, feinting one way and striking another. Zhu Huan had only 5,000 troops, but he sent some of them to meet Chang Diao on the island in the river, beheaded Chang Diao and others, and Cao Ren withdrew."
+ },
+ "battle:南中平定": {
+  "old": "Pacification of Nanzhong",
+  "mod": "Kunming area, Yunnan",
+  "yt": "spring–autumn 225",
+  "sides": "Shu Han defeated the Nanzhong chieftains",
+  "cmd": "Zhuge Liang, Li Hui and Ma Zhong vs. Gao Ding, Yong Kai and Meng Huo",
+  "note": "Zhuge Liang entered Nanzhong from Yuexi and beheaded Gao Ding; Li Hui came out from Pingyi into Yizhou Commandery, and Ma Zhong went into Zangke and put down Zhu Bao. After Yong Kai was killed by Gao Ding's followers, Meng Huo gathered Yong Kai's remaining followers. Zhuge Liang took Ma Su's advice that \"winning hearts comes first\"; by tradition he captured Meng Huo seven times and released him seven times, until Meng Huo truly submitted and Nanzhong was pacified. Zhuge Liang appointed its chieftains to office, so that the region stayed quiet without garrisons or shipments of grain."
+ },
+ "battle:石阳之战": {
+  "old": "Battle of Shiyang",
+  "mod": "west of Huangpi District, Wuhan, Hubei",
+  "yt": "8th month, 226",
+  "sides": "Cao Wei defeated Sun Quan",
+  "cmd": "Wen Pin vs. Sun Quan",
+  "note": "Just after Cao Pi's death, Sun Quan led 50,000 men in person to besiege Shiyang, seat of Jiangxia Commandery. The Administrator Wen Pin held out; after more than twenty days Sun Quan could not take it, and as he withdrew Wen Pin pursued him. At the same time Zhuge Jin attacked Xiangyang and was defeated by Sima Yi."
+ },
+ "battle:新城之战": {
+  "old": "Battle of Xincheng",
+  "mod": "southwest of Zhushan, Hubei (Shangyong)",
+  "yt": "12th month, 227 – 1st month, 228",
+  "sides": "Cao Wei defeated Meng Da",
+  "cmd": "Sima Yi vs. Meng Da",
+  "note": "Having received letters from Zhuge Liang, Meng Da plotted to take Xincheng over to Shu, believing that Sima Yi would first have to report to the court and that the round trip would take a month. Sima Yi wrote to reassure Meng Da while marching at double speed, reached the city walls in eight days, and after sixteen days of siege took the city and beheaded Meng Da."
+ },
+ "battle:街亭之战": {
+  "old": "Battle of Jieting",
+  "mod": "northeast of Qin'an, Gansu (Longcheng Town)",
+  "yt": "spring 228",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Zhang He vs. Ma Su",
+  "note": "On his first northern campaign Zhuge Liang came out by Mount Qi; the three commanderies of Tianshui, Nan'an and Anding rebelled against Wei and went over to him, and Guanzhong was shaken. Against general advice Zhuge Liang put Ma Su in charge of the vanguard; Ma Su disobeyed Zhuge Liang's orders, left the water supply and camped on a hill, and Zhang He cut off his water and routed him. Zhuge Liang withdrew to Hanzhong with more than a thousand households from Xi County, executed Ma Su to atone to the army, and demoted himself three grades. The Romance's \"Empty Fort Strategy\" is fiction, as Pei Songzhi pointed out long ago."
+ },
+ "battle:箕谷之战": {
+  "old": "Battle of Jigu",
+  "mod": "north of Baocheng, Hanzhong, Shaanxi",
+  "yt": "spring 228",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Cao Zhen vs. Zhao Yun and Deng Zhi",
+  "note": "Zhuge Liang announced that he would take Mei by the Xie Valley road and sent Zhao Yun and Deng Zhi as a decoy to hold Jigu, pinning down the main army of the Wei General-in-Chief Cao Zhen. Facing a much stronger enemy, Zhao Yun was beaten at Jigu, but he gathered his men and held firm, burning more than a hundred li of plank road north of Chiya, and avoided a serious defeat."
+ },
+ "battle:石亭之战": {
+  "old": "Battle of Shiting",
+  "mod": "northeast of Qianshan, Anhui",
+  "yt": "8th month, 228",
+  "sides": "Sun Quan defeated Cao Wei",
+  "cmd": "Lu Xun, Zhu Huan and Quan Cong vs. Cao Xiu",
+  "note": "Zhou Fang, the Wu Administrator of Poyang, cut off his hair and feigned surrender, luring the Wei Grand Marshal Cao Xiu deep towards Wancheng with 100,000 men. Lu Xun, with Zhu Huan and Quan Cong, attacked from three sides and routed him at Shiting, killing or capturing more than 10,000 and taking 10,000 carts and almost all his supplies and equipment. Cao Xiu escaped thanks to Jia Kui's relief army, but soon fell ill and died."
+ },
+ "battle:陈仓之战": {
+  "old": "Battle of Chencang",
+  "mod": "east of Chencang District, Baoji, Shaanxi",
+  "yt": "12th month, 228",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Hao Zhao vs. Zhuge Liang",
+  "note": "On his second northern campaign Zhuge Liang came out through San Pass and besieged Chencang. The commander Hao Zhao had only a thousand-odd men. Zhuge Liang attacked in turn with scaling ladders, battering rams, siege towers and tunnels, and Hao Zhao countered each with fire arrows, millstones and a second wall built inside; after more than twenty days of fighting day and night Zhuge Liang ran out of food and withdrew, and the Wei general Wang Shuang, who pursued him, was beheaded."
+ },
+ "battle:建威之战": {
+  "old": "Battle of Jianwei",
+  "mod": "Xihe area, Gansu",
+  "yt": "spring 229",
+  "sides": "Shu Han defeated Cao Wei",
+  "cmd": "Zhuge Liang and Chen Shi vs. Guo Huai",
+  "note": "On his third northern campaign Zhuge Liang sent Chen Shi to attack Wudu and Yinping. Guo Huai, Inspector of Yong Province, came to their relief; Zhuge Liang advanced to Jianwei in person, Guo Huai withdrew, and the two commanderies passed to Shu."
+ },
+ "battle:子午之役": {
+  "old": "Ziwu Campaign",
+  "mod": "Ziwu Road, Qinling Mountains, Shaanxi",
+  "yt": "8th–9th month, 230",
+  "sides": "Inconclusive; the Wei army withdrew",
+  "cmd": "Cao Zhen and Sima Yi vs. Zhuge Liang",
+  "note": "Wei attacked Shu by several routes: the Grand Marshal Cao Zhen by the Ziwu Road, the General-in-Chief Sima Yi up the Han River from Xicheng, and another column by the Xie Valley. Zhuge Liang waited at Chenggu and Chiban. It rained for more than thirty days, the plank roads were cut, and the Wei armies turned back halfway."
+ },
+ "battle:祁山之战": {
+  "old": "Battle of Mount Qi",
+  "mod": "east of Li County, Gansu",
+  "yt": "2nd–6th month, 231",
+  "sides": "Minor Shu Han success; withdrew when supplies ran out",
+  "cmd": "Zhuge Liang vs. Sima Yi and Zhang He",
+  "note": "On his fourth northern campaign Zhuge Liang brought up grain with \"wooden oxen\", besieged Mount Qi and sent troops to harvest the wheat of Shanggui. Sima Yi kept behind his walls and refused battle, until, mocked by his officers for \"fearing Shu like a tiger\", he came out and was beaten by the Shu army. In the 6th month, when Li Yan failed to keep up the grain supply, Zhuge Liang withdrew; Zhang He, pursuing him, was shot and killed on the Mumen Road."
+ },
+ "battle:五丈原之战": {
+  "old": "Battle of Wuzhang Plains",
+  "mod": "south of Qishan, Shaanxi",
+  "yt": "2nd–8th month, 234",
+  "sides": "Stalemate; Shu Han withdrew",
+  "cmd": "Zhuge Liang vs. Sima Yi",
+  "note": "On his fifth northern campaign Zhuge Liang led 100,000 men out through the Xie Valley and camped at the Wuzhang Plains, setting troops to farming as a basis for a long stay. Sima Yi built fortifications with the river at his back and held firm; even when Zhuge Liang sent him a woman's headdress and clothes to provoke him, he did not come out to fight. After more than a hundred days of stalemate, Zhuge Liang died of illness in camp in the 8th month. The Chief Clerk Yang Yi brought the army home in good order; Jiang Wei had the banners turned about and the drums beaten, and Sima Yi dared not press them. People said, \"A dead Zhuge put a living Zhongda to flight.\""
+ },
+ "battle:合肥新城之战（234）": {
+  "old": "Battle of Hefei New City (234)",
+  "mod": "northwest of Hefei, Anhui",
+  "yt": "5th–7th month, 234",
+  "sides": "Cao Wei defeated Sun Quan",
+  "cmd": "Man Chong vs. Sun Quan",
+  "note": "As agreed with Zhuge Liang, Sun Quan attacked Wei along three routes and besieged Hefei New City in person with 100,000 men. Man Chong recruited several dozen bold men who made torches of pine branches soaked in hemp oil and, with the wind behind them, burned the siege engines; they also shot and killed Sun Quan's nephew Sun Tai. Hearing that Emperor Ming of Wei was marching in person, Sun Quan withdrew."
+ },
+ "battle:辽隧之战": {
+  "old": "Battle of Liaosui",
+  "mod": "northwest of Haicheng, Liaoning",
+  "yt": "7th month, 237",
+  "sides": "Gongsun Yuan defeated Cao Wei",
+  "cmd": "Guanqiu Jian vs. Gongsun Yuan",
+  "note": "Emperor Ming of Wei wanted to summon Gongsun Yuan to court and sent Guanqiu Jian, Inspector of You Province, with an army to the southern border of Liaodong. Gongsun Yuan met him at Liaosui; ten days of rain made the Liao River flood, and Guanqiu Jian was beaten and withdrew. Gongsun Yuan then made himself King of Yan."
+ },
+ "battle:襄平之战": {
+  "old": "Battle of Xiangping",
+  "mod": "Liaoyang, Liaoning",
+  "yt": "6th–8th month, 238",
+  "sides": "Cao Wei defeated Gongsun Yuan",
+  "cmd": "Sima Yi vs. Gongsun Yuan",
+  "note": "Sima Yi set his timetable as \"a hundred days to go, a hundred days to return, a hundred days of fighting, and sixty days of rest\". Feinting at Liaosui, he made straight for Xiangping and encircled it after the rains, building earth mounds and digging tunnels and attacking day and night; food ran out in the city and people ate one another. In the 8th month the city fell; Gongsun Yuan and his son were beheaded trying to break out, Sima Yi massacred the city and piled the bodies into a mound, and the four commanderies of Liaodong were pacified."
+ },
+ "battle:芍陂之战": {
+  "old": "Battle of Quebei",
+  "mod": "south of Shou County, Anhui (Anfeng Pond)",
+  "yt": "4th–5th month, 241",
+  "sides": "Cao Wei defeated Sun Wu",
+  "cmd": "Wang Ling and Sun Li vs. Quan Cong",
+  "note": "Wu attacked north along four routes. The General of the Guard Quan Cong attacked Huainan, breached Quebei and burned the granaries at Ancheng; the Wei General Who Attacks the East Wang Ling and Sun Li, Inspector of Yang Province, fought hard for several days, Quan Cong withdrew, and the Wu general Qin Huang and others were killed."
+ },
+ "battle:樊城之战（241）": {
+  "old": "Battle of Fancheng (241)",
+  "mod": "Fancheng District, Xiangyang, Hubei",
+  "yt": "4th–6th month, 241",
+  "sides": "Cao Wei defeated Sun Wu",
+  "cmd": "Sima Yi vs. Zhu Ran",
+  "note": "The Wu General of Chariots and Cavalry Zhu Ran besieged Fancheng. The Grand Tutor Sima Yi asked to lead the relief himself and sent light cavalry to provoke battle; Zhu Ran lifted the siege overnight, and the Wei army pursued him to Sanzhoukou, killing or capturing more than 10,000."
+ },
+ "battle:兴势之战": {
+  "old": "Battle of Xingshi",
+  "mod": "north of Yang County, Shaanxi",
+  "yt": "3rd–5th month, 244",
+  "sides": "Shu Han defeated Cao Wei",
+  "cmd": "Wang Ping and Fei Yi vs. Cao Shuang and Xiahou Xuan",
+  "note": "To make a name for himself, the General-in-Chief Cao Shuang led more than 100,000 foot and horse through the Luo Valley into Hanzhong. Shu had fewer than 30,000 troops in Hanzhong, but Wang Ping first seized the heights of Mount Xingshi and the General-in-Chief Fei Yi followed with reinforcements; the Wei army could not advance, and since supplies from Guanzhong and the Di and Qiang could not keep up and its oxen, horses, mules and donkeys nearly all died, it retreated in disarray, leaving the region west of the passes drained."
+ },
+ "battle:丸都之战": {
+  "old": "Battle of Hwando",
+  "mod": "Ji'an, Jilin",
+  "yt": "244–245",
+  "sides": "Cao Wei defeated Goguryeo",
+  "cmd": "Guanqiu Jian vs. Wigung, King of Goguryeo",
+  "note": "Guanqiu Jian led 10,000 foot and horse out from Xuantu, routed King Wigung of Goguryeo on the Biryu River, took his capital Hwando and carved an inscription to record his victory (fragments of the \"Stele of Guanqiu Jian's Victory\" survive). The next year he campaigned again; Wigung fled far away to Okjeo, and the Wei army pursued him to the southern border of the Sushen."
+ },
+ "battle:麴城之战": {
+  "old": "Battle of Qucheng",
+  "mod": "Min County–Lintan area, Gansu (location disputed)",
+  "yt": "autumn 249",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Guo Huai, Chen Tai and Deng Ai vs. Jiang Wei and Gou An",
+  "note": "Jiang Wei came out into Longxi and built two forts by Mount Qu, leaving his Gate Generals Gou An and Li Xin to hold them while he joined the Qiang and Hu to press the commanderies. Chen Tai cut their supply route and the stream outside the forts; when Jiang Wei came to the rescue, Guo Huai made for Mount Niutou to cut off his retreat, Jiang Wei withdrew, and Gou An and the others surrendered the forts to Wei."
+ },
+ "battle:江陵之战（250）": {
+  "old": "Battle of Jiangling (250)",
+  "mod": "Jingzhou, Hubei",
+  "yt": "winter 250",
+  "sides": "Cao Wei defeated Sun Wu",
+  "cmd": "Wang Chang vs. Shi Ji",
+  "note": "Taking advantage of the unrest in Wu after the dispute between the two palaces, the Wei General Who Attacks the South Wang Chang attacked Jiangling, crossing the water on bridges of bamboo cables. He lured Shi Ji out to fight and routed him, beheading his officers Zhongli Mao and Xu Min."
+ },
+ "battle:东兴之战": {
+  "old": "Battle of Dongxing",
+  "mod": "southwest of Hanshan, Anhui",
+  "yt": "12th month, 252",
+  "sides": "Sun Wu defeated Cao Wei",
+  "cmd": "Zhuge Ke and Ding Feng vs. Hu Zun and Zhuge Dan",
+  "note": "Zhuge Ke rebuilt the great Dongxing dyke on the Ruxu River, with a fort on each side against the hills. The Wei generals Hu Zun and Zhuge Dan, with 70,000 men, built pontoon bridges to attack the dyke. It was deep winter and snowing heavily, and the Wei troops were drinking and feasting; Ding Feng led 3,000 men who took off their armour, kept only their helmets, and charged up the dyke with short weapons. The Wei army panicked and scrambled for the crossing, the pontoon bridges broke, and tens of thousands were drowned or killed."
+ },
+ "battle:合肥新城之战（253）": {
+  "old": "Battle of Hefei New City (253)",
+  "mod": "northwest of Hefei, Anhui",
+  "yt": "5th–7th month, 253",
+  "sides": "Cao Wei defeated Sun Wu",
+  "cmd": "Zhang Te, Guanqiu Jian and Wen Qin vs. Zhuge Ke",
+  "note": "After his victory at Dongxing, Zhuge Ke ignored all advice, raised 200,000 men from the provinces and commanderies and besieged Hefei New City. Its Gate General Zhang Te held out for more than ninety days; when the city was about to fall he pretended to ask for terms, used the night to repair the defences, and then refused to surrender. In the summer heat plague broke out in the Wu army and more than half died; Zhuge Ke retreated in disarray and was executed by Sun Jun in the 10th month."
+ },
+ "battle:乐嘉之战": {
+  "old": "Battle of Lejia",
+  "mod": "Shangshui area, Henan",
+  "yt": "1st–intercalary 1st month, 255",
+  "sides": "Cao Wei defeated Guanqiu Jian and Wen Qin",
+  "cmd": "Sima Shi and Deng Ai vs. Wen Qin and Wen Yang",
+  "note": "Guanqiu Jian and Wen Qin rose at Shouchun in the name of punishing Sima Shi and advanced to hold Xiang County. Sima Shi took the field in person despite an eye ailment and kept behind his walls. Wen Qin and his son made a night attack on Lejia; the eighteen-year-old Wen Yang led bold men in a noisy assault on the camp, and in his alarm Sima Shi's diseased eye burst from its socket; he bit through his quilt to bear the pain. Wen Qin was beaten and fled south to Wu, and Guanqiu Jian was killed while on the run; Sima Shi died of illness soon after at Xuchang."
+ },
+ "battle:洮西之战": {
+  "old": "Battle of Taoxi",
+  "mod": "west of Lintao, Gansu",
+  "yt": "8th month, 255",
+  "sides": "Shu Han defeated Cao Wei",
+  "cmd": "Jiang Wei and Xiahou Ba vs. Wang Jing",
+  "note": "Jiang Wei and Xiahou Ba came out by Didao. Wang Jing, Inspector of Yong Province, met them at Taoxi and was crushed, losing tens of thousands of men, and fell back to hold the city of Didao. When Chen Tai and Deng Ai came to the rescue, Jiang Wei withdrew to Zhongti. This was the greatest victory of Jiang Wei's northern campaigns."
+ },
+ "battle:段谷之战": {
+  "old": "Battle of Duangu",
+  "mod": "southwest of Tianshui, Gansu (location disputed)",
+  "yt": "7th month, 256",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Deng Ai vs. Jiang Wei",
+  "note": "Jiang Wei arranged to meet the General-in-Chief Who Guards the West Hu Ji at Shanggui, but Hu Ji did not arrive in time. Jiang Wei was crushed by Deng Ai at Duangu; his army scattered and many died. The people of Shu blamed him for it, and he petitioned to demote himself to General of the Rear."
+ },
+ "battle:寿春之战": {
+  "old": "Battle of Shouchun",
+  "mod": "Shou County, Anhui",
+  "yt": "5th month, 257 – 2nd month, 258",
+  "sides": "Cao Wei defeated Zhuge Dan and Sun Wu",
+  "cmd": "Sima Zhao vs. Zhuge Dan, Wen Qin and Quan Yi",
+  "note": "Zhuge Dan rebelled at Shouchun, and Wu sent Wen Qin, Quan Yi and others to help him. Sima Zhao took the emperor and the Empress Dowager with him on campaign; an army of 260,000 surrounded the city on all sides and built long siege lines, and he used double agents to lure Quan Yi and others into surrendering. When food ran out in the city, Zhuge Dan killed Wen Qin. The city fell in the 2nd month of 258; Zhuge Dan was beheaded trying to break out, and several hundred of his men submitted to execution without resistance, all saying \"To die for Lord Zhuge, we have no regrets.\""
+ },
+ "battle:阳安关之战": {
+  "old": "Battle of Yang'an Pass",
+  "mod": "west of Mian County, Shaanxi",
+  "yt": "autumn 263",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Hu Lie (Zhong Hui's army) vs. Fu Qian and Jiang Shu",
+  "note": "Zhong Hui sent the Army Protector Hu Lie ahead to attack the pass (Yang'an Pass). The Shu commander Jiang Shu opened the gates and surrendered, his deputy Fu Qian died fighting, and Zhong Hui drove straight into Hanzhong, capturing large stores of grain."
+ },
+ "battle:剑阁之战": {
+  "old": "Battle of Jiange",
+  "mod": "north of Jiange, Sichuan",
+  "yt": "autumn–winter 263",
+  "sides": "Shu Han (Jiang Wei) held out",
+  "cmd": "Jiang Wei, Liao Hua and Zhang Yi vs. Zhong Hui",
+  "note": "Hearing that Hanzhong was lost, Jiang Wei broke away from Tazhong, shaking off Deng Ai and Zhuge Xu, joined forces with Liao Hua, Zhang Yi and Dong Jue and fell back to hold Jiange. Camped in the narrows, they held off Zhong Hui's army of more than 100,000; with supplies hard to bring up, Zhong Hui even considered withdrawing."
+ },
+ "battle:绵竹之战": {
+  "old": "Battle of Mianzhu",
+  "mod": "north of Deyang, Sichuan",
+  "yt": "11th month, 263",
+  "sides": "Cao Wei defeated Shu Han",
+  "cmd": "Deng Ai vs. Zhuge Zhan, Zhuge Shang and Huang Chong",
+  "note": "Deng Ai came out at Jiangyou, and the Shu General of the Guard Zhuge Zhan fell back from Fu to hold Mianzhu. Deng Ai tried to tempt him with the title King of Langya, and Zhuge Zhan angrily beheaded the envoy. Deng Ai sent his son Deng Zhong and Shi Zuan to attack on the two wings; they were beaten at first, and when Deng Ai threatened to behead them they attacked again and routed the Shu army. Zhuge Zhan and his son, Huang Chong, Zhang Zun and others all died fighting, and the way to Chengdu lay open."
+ },
+ "battle:万斛堆之战": {
+  "old": "Battle of Wanhudui",
+  "mod": "Jingyuan area, Gansu (location disputed)",
+  "yt": "6th month, 270",
+  "sides": "The Xianbei defeated Jin",
+  "cmd": "Tufa Shujineng vs. Hu Lie",
+  "note": "Tufa Shujineng of the Hexi Xianbei rose against Jin. Hu Lie, Inspector of Qin Province, led an army against him and was surrounded at Wanhudui, defeated and killed. Shujineng went on raiding year after year, and in 279 even took Liang Province for a time."
+ },
+ "battle:交趾之战": {
+  "old": "Battle of Jiaozhi",
+  "mod": "Bắc Ninh area, Vietnam",
+  "yt": "268–271",
+  "sides": "Sun Wu defeated Jin",
+  "cmd": "Tao Huang, Yu Si and Xue Xu vs. Yang Ji and Mao Jiong",
+  "note": "From 268 Wu repeatedly sent large armies to contest Jiao Province. In 271 Tao Huang and others besieged Jiaozhi; when food ran out in the city, Yang Ji, the Administrator appointed by Jin, the general Mao Jiong and others surrendered; Jiuzhen and Rinan followed and returned to Wu, and Tao Huang was made Inspector of Jiao Province."
+ },
+ "battle:西陵之战": {
+  "old": "Battle of Xiling",
+  "mod": "Yichang, Hubei",
+  "yt": "8th–12th month, 272",
+  "sides": "Sun Wu defeated Jin and Bu Chan",
+  "cmd": "Lu Kang vs. Bu Chan, Yang Zhao and Yang Hu",
+  "note": "Bu Chan, the Wu commander at Xiling, surrendered his city to Jin. Lu Kang had his troops build strong siege lines around Xiling, both to stop Bu Chan breaking out and to hold off Jin relief, and broke the dams near Jiangling to hinder Yang Hu's water transport. In the 12th month he drove off Yang Zhao, Inspector of Jing Province, Yang Hu also withdrew, and Lu Kang took Xiling and executed Bu Chan and several dozen fellow conspirators."
+ },
+ "battle:武威之战": {
+  "old": "Battle of Wuwei",
+  "mod": "Wuwei, Gansu",
+  "yt": "12th month, 279",
+  "sides": "Jin defeated the Xianbei",
+  "cmd": "Ma Long vs. Tufa Shujineng",
+  "note": "Ma Long, Army Protector Who Punishes the Caitiffs, recruited 3,500 brave men for a western campaign. Following the Eight-Formation Diagram he built carts with side screens: in open country they formed a camp ringed with deer-horn abatis, and on narrow roads wooden shelters were mounted on the carts. Fighting his way across a thousand li, he beheaded Shujineng and pacified Liang Province."
+ },
+ "battle:西陵荆门之战": {
+  "old": "Battle of Xiling and Jingmen",
+  "mod": "the Yangtze from Yichang to Yidu, Hubei",
+  "yt": "2nd month, 280",
+  "sides": "Jin defeated Sun Wu",
+  "cmd": "Wang Jun and Tang Bin vs. Liu Xian, Lu Yan and Lu Jing",
+  "note": "Wu had stretched iron chains across the narrows of the Yangtze and sunk iron spikes more than a zhang long in the river. Wang Jun first sent dozens of great rafts carrying armoured straw men downstream to carry off the spikes, then made torches more than ten zhang long and dozens of arm-spans round, soaked in hemp oil, to melt the chains, so that his tower ships sailed down unhindered and took Xiling, Jingmen, Yidao and Lexiang in succession."
+ },
+ "battle:江陵之战（280）": {
+  "old": "Battle of Jiangling (280)",
+  "mod": "Jingzhou, Hubei",
+  "yt": "2nd month, 280",
+  "sides": "Jin defeated Sun Wu",
+  "cmd": "Du Yu vs. Wu Yan",
+  "note": "Du Yu, General-in-Chief Who Guards the South, attacked Jiangling; he sent a surprise force across to the south bank by night to spread word that the main army had arrived, and the Wu commander Sun Xin was captured. In the 2nd month he took Jiangling and beheaded the Wu commander Wu Yan, and the provinces and commanderies south of the Yuan and Xiang went over at the news. Du Yu said, \"Our arms are now in full force; it is like splitting bamboo,\" and urged pressing on straight to Jianye."
+ },
+ "battle:版桥之战": {
+  "old": "Battle of Banqiao",
+  "mod": "area northeast of He County, Anhui (location disputed)",
+  "yt": "3rd month, 280",
+  "sides": "Jin defeated Sun Wu",
+  "cmd": "Wang Hun and Zhang Qiao vs. Zhang Ti, Shen Ying and Sun Zhen",
+  "note": "The Wu Chancellor Zhang Ti, with Shen Ying, Administrator of Danyang, and 30,000 men, crossed the Yangtze to meet Wang Hun. He first forced Zhang Qiao to surrender, then attacked Wang Hun's main body; Shen Ying's picked Danyang troops charged three times without breaking the Jin line, then fell into disorder and broke. Zhang Ti refused Zhuge Jing's urging to flee and died fighting, and the main Wu army fell apart."
+ },
+ "pass:函谷关": {
+  "old": "Hangu Pass",
+  "mod": "east of Xin'an, Henan (Han Hangu Pass site)",
+  "note": "Under Emperor Wu of Han it was moved east from Hongnong to Xin'an, as the western gateway to Luoyang; the old pass is at today's Lingbao."
+ },
+ "pass:潼关": {
+  "old": "Tong Pass",
+  "mod": "northeast of Tongguan, Shaanxi",
+  "note": "At the end of the Eastern Han a pass was set up at the bend of the Yellow River, and the line between \"west of the passes\" and \"east of the passes\" moved west to here. In 211 Cao Cao faced Ma Chao and Han Sui here."
+ },
+ "pass:武关": {
+  "old": "Wu Pass",
+  "mod": "southeast of Danfeng, Shaanxi",
+  "note": "The southeastern gateway of Guanzhong, leading to Nanyang and Jing–Xiang."
+ },
+ "pass:散关": {
+  "old": "San Pass",
+  "mod": "south of Baoji, Shaanxi",
+  "note": "Northern entrance of the Chencang Road (Gudao Road). Cao Cao went this way against Zhang Lu in 215, and Zhuge Liang came out this way to besiege Chencang in winter 228."
+ },
+ "pass:陇关": {
+  "old": "Long Pass",
+  "mod": "west of Long County, Shaanxi",
+  "note": "The pass at the eastern foot of the Long Mountains, on the main road from Guanzhong to Longyou."
+ },
+ "pass:萧关": {
+  "old": "Xiao Pass",
+  "mod": "southeast of Guyuan, Ningxia",
+  "note": "The gateway from Guanzhong to Anding and Beidi."
+ },
+ "pass:阳平关": {
+  "old": "Yangping Pass",
+  "mod": "west of Mian County, Shaanxi (the Han-era Yangping Pass)",
+  "note": "The western gateway of Hanzhong, also called Yang'an Pass. Cao Cao broke Zhang Wei here in 215, Liu Bei faced Xiahou Yuan here from 217 to 219, and in 263 Zhong Hui sent Hu Lie to take the pass."
+ },
+ "pass:白水关": {
+  "old": "Baishui Pass",
+  "mod": "northeast of Qingchuan, Sichuan (location disputed)",
+  "note": "The key pass on the northern edge of Yi Province, held for Liu Zhang by Yang Huai and Gao Pei; in 212 Liu Bei beheaded the two commanders, took the pass and marched south."
+ },
+ "pass:剑阁": {
+  "old": "Jiange",
+  "mod": "north of Jiange, Sichuan (Jianmen Pass)",
+  "note": "Where the cliffs of Mount Dajian break, Zhuge Liang cut into the rock to build a suspended plank road, posting a Gallery Commandant to guard it. In 263 Jiang Wei held it against Zhong Hui's great army."
+ },
+ "pass:江油": {
+  "old": "Jiangyou",
+  "mod": "southeast of Pingwu, Sichuan (Nanba Town)",
+  "note": "The southern end of the Yinping Road. In 263 Deng Ai's surprise force reached here, and the commander holding it, Ma Miao, surrendered."
+ },
+ "pass:沓中": {
+  "old": "Tazhong",
+  "mod": "northwest of Zhouqu, Gansu (location disputed)",
+  "note": "From 262 Jiang Wei set up military farms here to stay out of trouble at court; in 263 he was pinned down by Deng Ai and could not return in time to relieve Hanzhong."
+ },
+ "pass:祁山": {
+  "old": "Mount Qi",
+  "mod": "east of Li County, Gansu (Qishan Fort)",
+  "note": "A lone peak on the north bank of the Xihan River, guarding the main route from Longyou to Hanzhong. Zhuge Liang came out by Mount Qi on his first and fourth northern campaigns; the Romance stretches this into \"six sorties from Mount Qi\"."
+ },
+ "pass:虎牢关": {
+  "old": "Hulao Pass",
+  "mod": "Sishui Town, Xingyang, Henan",
+  "note": "That is, Chenggao Pass, the eastern gateway of Luoyang; Xuanmen Pass to its west was one of the Eight Passes of Luoyang in the late Han. The Romance sets \"the three heroes fight Lü Bu\" here, but in the histories the coalition against Dong Zhuo never fought Lü Bu here."
+ },
+ "pass:伊阙关": {
+  "old": "Yique Pass",
+  "mod": "Longmen, Luoyang, Henan",
+  "note": "The southern gateway of Luoyang, one of the Eight Passes of Luoyang in the late Han."
+ },
+ "pass:轘辕关": {
+  "old": "Huanyuan Pass",
+  "mod": "southeast of Yanshi District, Luoyang, Henan",
+  "note": "The route southeast from Luoyang past Mount Songgao to Yingchuan, one of the Eight Passes of Luoyang in the late Han."
+ },
+ "pass:孟津": {
+  "old": "Mengjin",
+  "mod": "northeast of Mengjin District, Luoyang, Henan",
+  "note": "The Yellow River crossing north of Luoyang, including Xiaoping Ford, one of the Eight Passes of Luoyang in the late Han. In 189 Zhang Rang and the other eunuchs abducted the Young Emperor and fled here, then drowned themselves in the river."
+ },
+ "pass:壶关": {
+  "old": "Hu Pass",
+  "mod": "southeast of Changzhi, Shanxi",
+  "note": "The western end of a defile through the Taihang Mountains and the eastern gateway of Shangdang. In 206 Gao Gan held it against Cao Cao."
+ },
+ "pass:井陉": {
+  "old": "Jingxing",
+  "mod": "west of Luquan District, Shijiazhuang, Hebei (Tumen Pass)",
+  "note": "One of the Eight Defiles of the Taihang, the main route from Hebei to Bing Province."
+ },
+ "pass:句注": {
+  "old": "Gouzhu",
+  "mod": "northwest of Dai County, Shanxi (Yanmen Pass area)",
+  "note": "The northern gate of Bing Province, also called the Western Defile."
+ },
+ "pass:居庸关": {
+  "old": "Juyong Pass",
+  "mod": "northwest of Changping, Beijing",
+  "note": "A key pass in the western Yan Mountains."
+ },
+ "pass:卢龙塞": {
+  "old": "Lulong Fort",
+  "mod": "north of Qianxi, Hebei (Xifengkou area)",
+  "note": "A pass in the eastern Yan Mountains, from which one could go beyond the frontier straight to Liucheng. In 207 Cao Cao followed Tian Chou's plan and made his surprise attack on the Wuhuan this way."
+ },
+ "pass:玉门关": {
+  "old": "Yumen Pass",
+  "mod": "northwest of Dunhuang, Gansu (Xiaofangpan Fort)",
+  "note": "The Han pass on the Northern Route of the Western Regions."
+ },
+ "pass:阳关": {
+  "old": "Yang Pass",
+  "mod": "southwest of Dunhuang, Gansu",
+  "note": "The Han pass on the Southern Route of the Western Regions."
+ },
+ "pass:濡须坞": {
+  "old": "Ruxu Fort",
+  "mod": "northeast of Wuwei, Anhui (Mount Ruxu)",
+  "note": "In 212, on Lü Meng's advice, Sun Quan built this fort astride the mouth of the Ruxu River, shaped like a crescent moon; afterwards Cao Cao and Cao Ren attacked it again and again without taking it, and it was Wu's foremost stronghold north of the Yangtze."
+ },
+ "pass:合肥新城": {
+  "old": "Hefei New City",
+  "mod": "northwest of Hefei, Anhui",
+  "note": "In 230 Man Chong, judging that the old city was too close to the water and exposed to the Wu fleet, built a new city thirty li to its northwest; the great Wu sieges of 234 and 253 both failed to take it."
+ },
+ "pass:牛渚": {
+  "old": "Niuzhu",
+  "mod": "Caishiji, Ma'anshan, Anhui",
+  "note": "One of the most important crossings on the lower Yangtze; Sun Ce crossed the river here in 194–195."
+ },
+ "pass:荆门·虎牙": {
+  "old": "Jingmen and Huya",
+  "mod": "between Yidu and Yichang, Hubei",
+  "note": "The gateway of the Yangtze as it leaves the Three Gorges, with Mount Jingmen on the south bank and Mount Huya on the north. Wu stretched iron chains across the river here, which Wang Jun burned through in 280."
+ },
+ "event:燕然勒铭": {
+  "old": "Inscription on the Yanran Mountains",
+  "mod": "Delgerkhangai, Dundgovi Province, Mongolia (cliff inscription)",
+  "yt": "89",
+  "note": "After routing the Northern Xiongnu, Dou Xian climbed the Yanran Mountains and had the Army Protector of the Centre Ban Gu compose an inscription carved in the rock, \"performing the feng rite on the mountain and cutting the stone to proclaim supreme virtue\". In 2017 a joint Chinese–Mongolian survey team found and deciphered this cliff inscription in Dundgovi Province, Mongolia."
+ },
+ "event:蔡伦造纸": {
+  "old": "Cai Lun's papermaking",
+  "mod": "Luoyang, Henan",
+  "yt": "105",
+  "note": "Cai Lun, Regular Palace Attendant and Director of the Imperial Workshops, made paper from tree bark, hemp ends, rags and old fishing nets and presented it in 105; \"from then on everyone used it, and the whole realm called it Marquis Cai's paper\"."
+ },
+ "event:张衡地动仪": {
+  "old": "Zhang Heng's seismoscope",
+  "mod": "Luoyang, Henan",
+  "yt": "132",
+  "note": "Zhang Heng, Grand Astrologer, made a seismoscope cast in fine bronze, shaped like a wine vessel, with a dragon's mouth holding a ball in each of the eight directions; in 138 it detected an earthquake in Longxi."
+ },
+ "event:党锢之祸": {
+  "old": "Partisan Prohibitions",
+  "mod": "Luoyang, Henan",
+  "yt": "166 and 169",
+  "note": "Under Emperors Huan and Ling the eunuchs twice launched great purges: more than a hundred men, including Li Ying, Du Mi and Fan Pang, died in prison, and six or seven hundred partisans across the country were barred from office, turning the scholar class against the court. The partisans were only pardoned when the Yellow Turbans rose in 184."
+ },
+ "event:熹平石经": {
+  "old": "Xiping Stone Classics",
+  "mod": "Yanshi, Luoyang, Henan (Imperial Academy site, Han–Wei Luoyang city)",
+  "yt": "175–183",
+  "note": "Cai Yong and others petitioned to fix the texts of the Confucian classics, which were carved in clerical script on forty-six stelae set up outside the gate of the Imperial Academy in Luoyang; more than a thousand carriages a day came to view and copy them."
+ },
+ "event:黄巾起事": {
+  "old": "Yellow Turban Uprising",
+  "mod": "Ningjin and Pingxiang area, Hebei",
+  "yt": "2nd month, 184",
+  "note": "Zhang Jue called himself the \"General of Heaven\" and his brothers Zhang Bao and Zhang Liang the Generals \"of Earth\" and \"of Man\". Under the slogan \"The Blue Heaven is dead, the Yellow Heaven shall rise; in the year jiazi the world will have great fortune\", the thirty-six divisions rose on the same day, burning government offices and plundering towns, and within a month the whole realm responded."
+ },
+ "event:十常侍之乱": {
+  "old": "Upheaval of the Ten Attendants",
+  "mod": "Luoyang, Henan",
+  "yt": "8th month, 189",
+  "note": "He Jin entered the palace to ask for the eunuchs to be executed and was beheaded in front of the Jiade Hall by Zhang Rang, Duan Gui and others. Yuan Shao and Yuan Shu led troops into the palace and killed every eunuch, more than 2,000 in all; Zhang Rang and the others abducted the Young Emperor and the King of Chenliu and fled by night to Xiaoping Ford, where they drowned themselves in the river. Dong Zhuo met the emperor at Beimang with his army and so took control of the court."
+ },
+ "event:酸枣会盟": {
+  "old": "Alliance at Suanzao",
+  "mod": "southwest of Yanjin, Henan",
+  "yt": "1st month, 190",
+  "note": "The armies east of the passes made Yuan Shao leader of the alliance. Zang Hong mounted the altar, smeared his lips with blood and swore the oath, his words so stirring that all who heard were roused. But the armies feared Dong Zhuo's strength and feasted every day without trying to advance; Cao Cao rebuked them to no effect, and in the end they ran out of food and dispersed."
+ },
+ "event:焚洛阳迁长安": {
+  "old": "Luoyang burned, court moved to Chang'an",
+  "mod": "Luoyang, Henan",
+  "yt": "2nd month, 190",
+  "note": "Dong Zhuo forced Emperor Xian to move west to Chang'an and drove several million people of Luoyang along with him; harried by foot and horse, they trampled one another and the road was strewn with corpses. He also set fire to the palaces, temples, offices and homes, so that every building within two hundred li was destroyed, and dug up the imperial tombs and the graves of high officials for their treasures."
+ },
+ "event:孙坚入洛": {
+  "old": "Sun Jian enters Luoyang",
+  "mod": "Luoyang, Henan",
+  "yt": "4th month, 191",
+  "note": "Sun Jian defeated Dong Zhuo's army and entered Luoyang; he cleaned the Han ancestral temples, offered the full sacrifice and repaired the tombs that had been dug up. The Book of Wu says Sun Jian found the Han imperial seal in the Zhenguan well south of the city, but this story is doubtful."
+ },
+ "event:王允诛董卓": {
+  "old": "Wang Yun kills Dong Zhuo",
+  "mod": "northwest of Xi'an, Shaanxi (Han Chang'an city site)",
+  "yt": "4th month, 192",
+  "note": "The Minister over the Masses Wang Yun plotted with Dong Zhuo's adopted son Lü Bu. When the officials gathered to celebrate Emperor Xian's recovery from illness, Lü Bu killed Dong Zhuo with his own hands at the northern side gate of the Weiyang Palace, and the officials and people of Chang'an celebrated. Dong Zhuo's corpse was set alight and its fat ran over the ground; the 20,000–30,000 jin of gold and 80,000–90,000 jin of silver stored in Mei Fort were all confiscated."
+ },
+ "event:献帝东归": {
+  "old": "Emperor Xian's return east",
+  "mod": "northwest of Xia County, Shanxi",
+  "yt": "7th month, 195 – 7th month, 196",
+  "note": "Li Jue and Guo Si fought each other and Chang'an lay in ruins. In the 7th month of 195 Emperor Xian set out east, pursued all the way by Li Jue and Guo Si, and almost all his officials were killed or wounded. He reached Luoyang in the 7th month of 196 to find the palaces burned to the ground; the officials pushed through brambles to shelter among the ruined walls, and those below the rank of Gentleman of the Secretariat went out themselves to gather wild grain."
+ },
+ "event:迁都许县": {
+  "old": "Capital moved to Xu",
+  "mod": "Xuchang, Henan",
+  "yt": "8th month, 196",
+  "note": "Taking Mao Jie's advice to \"serve the Son of Heaven to command those who do not submit\" and Xun Yu's to \"serve the sovereign to follow the people's hopes\", Cao Cao went to Luoyang to receive Emperor Xian and moved him to Xu. He made himself Excellency of Works and acting General of Chariots and Cavalry, the officials all took orders from him, and he gained the political initiative."
+ },
+ "event:许下屯田": {
+  "old": "Military farms at Xu",
+  "mod": "Xuchang, Henan",
+  "yt": "196",
+  "note": "On the advice of Zao Zhi and Han Hao, Cao Cao recruited people to farm around Xu as military farms, harvesting a million hu of grain in the first year. Farm officials were later set up in every province and commandery, so that \"campaigns in all directions needed no grain transport\", laying the material foundation for unifying the north."
+ },
+ "event:袁术称帝": {
+  "old": "Yuan Shu proclaims himself emperor",
+  "mod": "Shou County, Anhui",
+  "yt": "spring 197",
+  "note": "Taking the prophecy \"He who replaces the Han shall be the high one on the road\" to refer to himself, Yuan Shu proclaimed himself emperor at Shouchun with the dynastic name Zhong, appointed ministers and sacrificed at the southern and northern altars. He lived in debauched luxury, with several hundred palace women all dressed in fine silk, while his soldiers froze and starved and the people between the Yangtze and the Huai ate one another until almost none were left."
+ },
+ "event:煮酒论英雄": {
+  "old": "Heroes discussed over warm wine",
+  "mod": "Xuchang, Henan",
+  "yt": "199",
+  "note": "While Liu Bei was serving Cao Cao, Cao Cao said to him casually, \"The only heroes in the realm today are you and I; the likes of Benchu don't count\". Liu Bei, who was eating, dropped his spoon and chopsticks in alarm. Soon afterwards he left Xu, using the mission to intercept Yuan Shu. The scene of \"green plums and warmed wine\" was added by the Romance."
+ },
+ "event:衣带诏": {
+  "old": "Edict in the Girdle",
+  "mod": "Xuchang, Henan",
+  "yt": "1st month, 200",
+  "note": "The General of Chariots and Cavalry Dong Cheng claimed to have received a secret edict from Emperor Xian hidden in a girdle, and plotted with Liu Bei, Chong Ji, Wu Zilan, Wang Fu and others to kill Cao Cao. The plot was discovered; Dong Cheng and the others were executed along with the three branches of their families, and even the pregnant Consort Dong was killed. Liu Bei had already left to take charge of Xu Province and escaped."
+ },
+ "event:孙策遇刺": {
+  "old": "Sun Ce attacked by assassins",
+  "mod": "Zhenjiang, Jiangsu",
+  "yt": "4th month, 200",
+  "note": "Sun Ce planned to strike at Xu while the Guandu campaign was under way, but while out hunting he was attacked by retainers of Xu Gong, the former Administrator of Wu Commandery. Mortally wounded, he entrusted his brother Sun Quan to Zhang Zhao, telling Sun Quan, \"In raising the worthy and employing the able so that each gives his all to protect Jiangdong, I am not your equal\". He was only twenty-six."
+ },
+ "event:伤寒杂病论": {
+  "old": "Treatise on Cold Damage and Miscellaneous Diseases",
+  "mod": "Nanyang area, Henan",
+  "yt": "c. 200–210",
+  "note": "Zhang Zhongjing of Nanyang, moved by the death within ten years of two-thirds of his clan of more than two hundred people, seven in ten of them from cold-damage disorders, \"diligently sought the ancient teachings and gathered prescriptions widely\" and wrote the Treatise on Cold Damage and Miscellaneous Diseases in sixteen juan. It established the principle of treatment based on pattern differentiation, and later ages honoured him as the \"Sage of Medicine\"."
+ },
+ "event:隆中对": {
+  "old": "Longzhong Plan",
+  "mod": "west of Xiangyang, Hubei",
+  "yt": "207",
+  "note": "When Liu Bei called on Zhuge Liang three times at Longzhong, Zhuge Liang analysed the state of the realm for him: concede the timing of Heaven to Cao Cao in the north and the advantage of terrain to Sun Quan in the east; take Jing and Yi provinces first, make peace with the Rong tribes to the west and pacify the Yi and Yue to the south, ally with Sun Quan abroad and put government in order at home; then, when the realm changes, attack north along two routes, and hegemony can be won."
+ },
+ "event:华容道": {
+  "old": "Huarong Road",
+  "mod": "southwest of Qianjiang, Hubei (location disputed)",
+  "yt": "winter 208",
+  "note": "After the defeat at Red Cliffs Cao Cao led the remnants of his army north on foot along the Huarong Road. The road was deep in mud and impassable, and a strong wind was blowing, so he ordered his weaker soldiers to carry grass to fill in the road so that the cavalry could pass; the weak soldiers were trampled into the mud by men and horses, and many died. The Romance's story of Guan Yu releasing Cao Cao at Huarong out of loyalty is fiction."
+ },
+ "event:刘备取荆南": {
+  "old": "Liu Bei takes southern Jing Province",
+  "mod": "Changsha, Hunan",
+  "yt": "209",
+  "note": "After Red Cliffs Liu Bei marched south against Wuling, Changsha, Guiyang and Lingling; the four Administrators, Jin Xuan, Han Xuan, Zhao Fan and Liu Du, all surrendered, and Huang Zhong joined Liu Bei at this time. In the Romance, Zhao Yun's capture of Guiyang, Guan Yu's duel with Huang Zhong and similar episodes are mostly fiction."
+ },
+ "event:铜雀台": {
+  "old": "Bronze Sparrow Terrace",
+  "mod": "southwest of Linzhang, Hebei (Ye city site)",
+  "yt": "210",
+  "note": "Cao Cao built the Bronze Sparrow Terrace northwest of Ye, which with the Golden Tiger and Ice Well terraces formed the Three Terraces; in the same year he issued his Edict Seeking the Worthy, calling for men \"chosen for talent alone\". Cao Cao and his sons gathered at Ye with the Seven Masters of the Jian'an era and others, \"passionate and spirited, bold and open in their talent\", forming the literature of the Jian'an era."
+ },
+ "event:孙权徙治秣陵": {
+  "old": "Sun Quan moves his seat to Moling",
+  "mod": "Nanjing, Jiangsu",
+  "yt": "211–212",
+  "note": "On Zhang Hong's advice Sun Quan moved his seat from Jingkou to Moling; in 212 he built Stone City on Mount Qingliang and renamed Moling as Jianye, meaning \"establishing the great enterprise of emperors and kings\". After proclaiming himself emperor in 229 he made it his capital."
+ },
+ "event:曹操称魏公": {
+  "old": "Cao Cao made Duke of Wei",
+  "mod": "southwest of Linzhang, Hebei (Ye city site)",
+  "yt": "5th month, 213",
+  "note": "Emperor Xian enfeoffed Cao Cao as Duke of Wei with the Nine Bestowments, making ten commanderies of Ji Province into the state of Wei with Ye as its capital and a full government from Chancellor down. In 216 he was raised to King of Wei, and the next year he was granted the emperor's banners; the stage was set for the Cao family to replace the Han."
+ },
+ "event:单刀会": {
+  "old": "Single Blade Meeting",
+  "mod": "Yiyang, Hunan",
+  "yt": "215",
+  "note": "When Sun Quan could not get Jing Province back, he sent Lü Meng to seize Changsha, Lingling and Guiyang, and Lu Su camped at Yiyang to hold off Guan Yu. Lu Su invited Guan Yu to a meeting: each side kept its troops a hundred paces away, and the generals met \"each with a single blade\", while Lu Su took Guan Yu to task. The Romance has Guan Yu going to the meeting alone with his blade and leaving at his ease, reversing host and guest."
+ },
+ "event:湘水划界": {
+  "old": "Xiang River boundary",
+  "mod": "middle Xiang River, Hunan",
+  "yt": "215",
+  "note": "Hearing that Cao Cao had entered Hanzhong, Liu Bei feared losing Yi Province and made peace with Sun Quan, dividing Jing Province along the Xiang River: Changsha, Jiangxia and Guiyang in the east went to Sun Quan, and Nan Commandery, Lingling and Wuling in the west to Liu Bei."
+ },
+ "event:南匈奴分五部": {
+  "old": "Southern Xiongnu split into Five Divisions",
+  "mod": "Fenyang area, Shanxi",
+  "yt": "216",
+  "note": "Cao Cao kept the Southern Chanyu Huchuquan at Ye and sent the Worthy King of the Right Qubei to oversee his people, dividing them into five divisions, Left, Right, South, North and Centre, each led by one of their nobles and supervised by a Han Chinese Major, and settling them across the commanderies of Bing Province. At the end of the Western Jin Liu Yuan raised his rebellion with the Five Divisions of the Xiongnu."
+ },
+ "event:曹丕受禅": {
+  "old": "Cao Pi accepts the abdication",
+  "mod": "Fancheng Town, Linying, Henan (Abdication Terrace)",
+  "yt": "10th month, 220",
+  "note": "Emperor Xian of Han abdicated to Cao Pi, King of Wei, who built the Abdication Terrace at Fanyang Pavilion, took the throne and changed the era to Huangchu. Emperor Xian was made Duke of Shanyang and lived until 234. The Abdication Terrace and two stelae, the Record of the Abdication and the Memorial of the Ministers and Generals Urging the Title, survive at Linying in Henan."
+ },
+ "event:九品中正制": {
+  "old": "Nine-rank system",
+  "mod": "Xuchang, Henan",
+  "yt": "220",
+  "note": "Cao Pi, King of Wei, adopted the proposal of Chen Qun of the Secretariat to appoint Rectifiers in each province and commandery, who graded the gentry into nine ranks by family background, talent and virtue for the Ministry of Personnel to select officials. It lasted nearly four hundred years and gradually became a tool by which great families monopolised office."
+ },
+ "event:刘备称帝": {
+  "old": "Liu Bei proclaims himself emperor",
+  "mod": "Chengdu, Sichuan",
+  "yt": "4th month, 221",
+  "note": "On rumours that Emperor Xian had been murdered, Liu Bei took the imperial throne south of Mount Wudan in Chengdu, with the dynastic name Han and the era name Zhangwu, and made Zhuge Liang Chancellor. Because he held the land of Shu, historians call his state \"Shu Han\" or \"Shu\"."
+ },
+ "event:孙权受封吴王": {
+  "old": "Sun Quan made King of Wu",
+  "mod": "Ezhou, Hubei",
+  "yt": "8th month, 221",
+  "note": "Sun Quan moved his capital from Gong'an to E County and renamed it Wuchang. In the 8th month he sent envoys to declare himself a vassal of Wei, and Cao Pi made him King of Wu with the Nine Bestowments. Sun Quan used this to secure his northern front and concentrate on holding off Liu Bei in the west; after his victory at Yiling he broke with Wei."
+ },
+ "event:白帝托孤": {
+  "old": "The heir entrusted at Baidi",
+  "mod": "east of Fengjie, Chongqing (Baidi City)",
+  "yt": "4th month, 223",
+  "note": "Gravely ill, Liu Bei summoned Zhuge Liang from Chengdu and entrusted his affairs to him: \"Your talent is ten times that of Cao Pi; you will surely bring peace to the state and accomplish the great task. If my heir can be helped, help him; if he is unfit, you may take the throne yourself.\" Zhuge Liang wept and swore to serve with all his strength and unswerving loyalty until death."
+ },
+ "event:吴蜀复盟": {
+  "old": "Wu–Shu alliance restored",
+  "mod": "Ezhou, Hubei",
+  "yt": "winter 223",
+  "note": "Zhuge Liang sent Deng Zhi of the Secretariat as envoy to Sun Quan. Deng Zhi argued that Wu and Shu depended on each other like lips and teeth, and Sun Quan broke off relations with Wei and allied with Shu alone; the two states never fought each other again."
+ },
+ "event:曹丕临江": {
+  "old": "Cao Pi at the Yangtze",
+  "mod": "Yangzhou, Jiangsu",
+  "yt": "10th month, 225",
+  "note": "Cao Pi personally led more than 100,000 men in a fleet to the old city of Guangling and reviewed his troops on the Yangtze, his banners stretching for several hundred li. It was so cold that the waterways were frozen and the ships could not get into the river; seeing the surging waves, Cao Pi sighed \"Alas! Heaven surely set this here to divide north from south\" and led his army back north."
+ },
+ "event:出师表": {
+  "old": "Memorial on Dispatching the Troops",
+  "mod": "Mian County, Shaanxi (Mianyang)",
+  "yt": "3rd month, 227",
+  "note": "As Zhuge Liang led the armies north to Hanzhong, he submitted a memorial before setting out, recalling the late emperor's three visits and his charge on his deathbed, urging Liu Shan to keep worthy men close and flatterers away, and declaring that he would \"lead the three armies north to pacify the Central Plains, exert my poor abilities to the full, remove the treacherous and evil, restore the house of Han and return to the old capital\". He was then based at Mianyang for nearly eight years."
+ },
+ "event:孙权称帝": {
+  "old": "Sun Quan proclaims himself emperor",
+  "mod": "Ezhou, Hubei",
+  "yt": "4th month, 229",
+  "note": "Sun Quan took the imperial throne in the southern suburbs of Wuchang, changed the era to Huanglong, and in the 9th month moved his capital to Jianye. Shu Han allied with Wu on the basis of \"honouring both emperors\", agreeing to divide the realm once Wei was destroyed."
+ },
+ "event:卫温航海夷洲": {
+  "old": "Wei Wen's voyage to Yizhou",
+  "mod": "Taizhou, Zhejiang",
+  "yt": "230",
+  "note": "Sun Quan sent the generals Wei Wen and Zhuge Zhi with 10,000 armoured troops across the sea in search of Yizhou and Danzhou; they brought back several thousand people from Yizhou, but eight or nine in ten of the soldiers died of disease, and the two generals were imprisoned and executed for disobeying orders and achieving nothing. Yizhou is generally thought to be today's Taiwan."
+ },
+ "event:倭女王遣使": {
+  "old": "Envoys of the Wa queen",
+  "mod": "Sariwon area, North Hwanghae, North Korea",
+  "yt": "239 (or 238)",
+  "note": "Himiko, queen of Wa, sent the official Nashime and others through Daifang Commandery to Luoyang with tribute; Emperor Ming of Wei named Himiko \"King of Wa, Friend of Wei\", granted her a gold seal with a purple ribbon and gave her a hundred bronze mirrors. The section on the Wa in the Account of the Eastern Peoples in the Records of the Three Kingdoms is one of the most important sources for early Japanese history."
+ },
+ "event:正始玄学": {
+  "old": "Zhengshi Xuanxue",
+  "mod": "Luoyang, Henan",
+  "yt": "240–249",
+  "note": "He Yan, Wang Bi and others interpreted the Book of Changes and the Analects through the teachings of Laozi and Zhuangzi, exalting \"non-being\" and opening the Wei–Jin fashion for pure conversation and Xuanxue (\"Dark Learning\"). Wang Bi died at twenty-four, leaving commentaries on the Laozi and the Book of Changes. After the Incident at the Gaoping Tombs He Yan was killed, and the scholarly fashion shifted to the Bamboo Grove."
+ },
+ "event:高平陵之变": {
+  "old": "Incident at the Gaoping Tombs",
+  "mod": "south of Luoyang, Henan (northern foot of Mount Wan'an)",
+  "yt": "1st month, 249",
+  "note": "While the General-in-Chief Cao Shuang and his brothers accompanied the young emperor Cao Fang to pay respects at Emperor Ming's Gaoping Tomb, the Grand Tutor Sima Yi, on the authority of the Empress Dowager, shut the gates of Luoyang, posted troops at the pontoon bridge on the Luo River and petitioned for the dismissal of Cao Shuang and his brothers. Cao Shuang rejected Huan Fan's advice to take the emperor to Xuchang, returned to Luoyang and gave up his command; a few days later he was executed for treason and the three branches of his family wiped out, and He Yan, Ding Mi, Deng Yang and others were drawn in."
+ },
+ "event:竹林之游": {
+  "old": "Gatherings in the Bamboo Grove",
+  "mod": "Xiuwu area, Henan (Shanyang County)",
+  "yt": "c. 250–262",
+  "note": "Ji Kang, Ruan Ji, Shan Tao, Xiang Xiu, Liu Ling, Wang Rong and Ruan Xian often gathered in a bamboo grove in Shanyang County to drink freely and without restraint, and were known as the \"Seven Sages of the Bamboo Grove\"; under the Sima dictatorship many of them used unconventional behaviour to stay out of danger. Around 262 Ji Kang was put to death by Sima Zhao, playing the tune Guangling San before his execution."
+ },
+ "event:曹髦之死": {
+  "old": "Death of Cao Mao",
+  "mod": "Luoyang, Henan",
+  "yt": "5th month, 260",
+  "note": "The Wei emperor Cao Mao, unable to bear Sima Zhao's domination, exclaimed angrily, \"Sima Zhao's heart is known to every passer-by\", and personally led several hundred palace servants against him. Cheng Ji, a Retainer of the Heir, on the orders of the Army Protector of the Centre Jia Chong, stabbed him to death beneath his carriage. He was twenty."
+ },
+ "event:邓艾偷渡阴平": {
+  "old": "Deng Ai's covert march through Yinping",
+  "mod": "between Qingchuan, Sichuan and Wen County, Gansu (Motian Ridge)",
+  "yt": "10th month, 263",
+  "note": "Deng Ai took the Yinping Road through more than 700 li of uninhabited country, cutting through mountains and building bridges and galleries. The mountains were high and the valleys deep, and food was running out; Deng Ai wrapped himself in felt and rolled down the slopes, while his officers and men climbed along trees and cliffs in single file. They surprised Jiangyou, and the commander holding it, Ma Miao, surrendered."
+ },
+ "event:刘禅出降": {
+  "old": "Liu Shan surrenders",
+  "mod": "Chengdu, Sichuan",
+  "yt": "11th month, 263",
+  "note": "When Deng Ai's army reached Chengdu, the Grandee of the Palace Qiao Zhou argued strongly for surrender. Liu Shan bound himself, brought his own coffin and surrendered at Deng Ai's camp gate, and Shu Han fell; Liu Chen, King of Beidi, wept at the temple of Emperor Zhaolie and killed himself. Liu Shan was moved to Luoyang and made Duke of Anle, leaving the saying \"I am happy here and do not miss Shu\"."
+ },
+ "event:钟会之乱": {
+  "old": "Zhong Hui's revolt",
+  "mod": "Chengdu, Sichuan",
+  "yt": "1st month, 264",
+  "note": "Zhong Hui falsely accused Deng Ai of rebellion and had him taken back in a cage cart, then plotted with the surrendered general Jiang Wei to hold Shu for himself, intending to kill all the generals who had come from the north. The plot leaked, the generals' men mutinied, and Zhong Hui and Jiang Wei were both killed; Deng Ai was also killed while being escorted away."
+ },
+ "event:晋代魏": {
+  "old": "Jin replaces Wei",
+  "mod": "Luoyang, Henan",
+  "yt": "12th month, 265",
+  "note": "After Sima Zhao's death his son Sima Yan succeeded him as King of Jin; four months later Cao Huan, Emperor Yuan of Wei, abdicated, and Sima Yan took the throne in the southern suburbs of Luoyang, naming his state Jin and changing the era to Taishi. Early Jin made twenty-seven members of the imperial clan kings, sowing the seeds of the later War of the Eight Kings."
+ },
+ "event:裴秀制图": {
+  "old": "Pei Xiu's maps",
+  "mod": "Luoyang, Henan",
+  "yt": "c. 268–271",
+  "note": "Pei Xiu, the Western Jin Excellency of Works, directed the compilation of the Regional Maps of the Tribute of Yu in eighteen sheets. In its preface he set out six principles of mapmaking: graduated scale, rectangular grid, measured distances, levelling of heights, measurement of angles, and straightening of curves; these laid the foundations of traditional Chinese cartography."
+ },
+ "event:王濬造楼船": {
+  "old": "Wang Jun builds tower ships",
+  "mod": "Chengdu, Sichuan",
+  "yt": "272–279",
+  "note": "Emperor Wu of Jin secretly ordered Wang Jun, Inspector of Yi Province, to build a great fleet in Shu. The largest, made of lashed hulls, were 120 paces square and could carry more than 2,000 men, with towers and gates on four sides and room for horses to gallop on deck. Wood shavings from the shipyards floated down the Yangtze; Wu Yan, the Wu Administrator of Jianping, collected them and reported them to the court, but Sun Hao paid no attention."
+ },
+ "event:孙皓降晋": {
+  "old": "Sun Hao surrenders to Jin",
+  "mod": "Nanjing, Jiangsu (Stone City)",
+  "yt": "3rd month, 280",
+  "note": "Wang Jun's tower ships sailed straight to Stone City, and Sun Hao, ruler of Wu, came out to surrender in a plain carriage drawn by a white horse, stripped to the waist with his hands tied, holding a jade disc in his mouth and leading a sheep; Wu was no more. This ended nearly a century of division that had begun with the Yellow Turbans in 184, and Jin gained Wu's four provinces, forty-three commanderies and 523,000 households."
+ },
+ "people:南匈奴": {
+  "old": "Southern Xiongnu",
+  "note": "They submitted to the Han in 48; the Chanyu's court was at Meiji in Xihe."
+ },
+ "people:匈奴五部": {
+  "old": "Five Divisions of the Xiongnu",
+  "note": "In 216 Cao Cao divided the Southern Xiongnu into five divisions settled across the commanderies of Bing Province."
+ },
+ "people:乌桓": {
+  "old": "Wuhuan",
+  "note": "Under the Eastern Han they moved into the frontier commanderies of Shanggu, Yuyang, Youbeiping, Liaoxi and Liaodong, and a Colonel Protector of the Wuhuan was stationed at Ningcheng in Shanggu."
+ },
+ "people:轲比能部": {
+  "old": "Kebineng's tribe",
+  "note": "A minor Xianbei group that became the strongest in the late Han and Three Kingdoms, raiding You and Bing provinces repeatedly; in 235 Wang Xiong, the Wei Inspector of You Province, had Kebineng assassinated."
+ },
+ "people:拓跋鲜卑": {
+  "old": "Tuoba Xianbei",
+  "note": "In 258 Tuoba Liwei moved to Shengle in Dingxiang; his descendants founded the Northern Wei."
+ },
+ "people:慕容鲜卑": {
+  "old": "Murong Xianbei",
+  "note": "Mohuba won merit following Sima Yi against Gongsun Yuan, was made King Who Leads in Righteousness, and settled north of Jicheng."
+ },
+ "people:秃发鲜卑": {
+  "old": "Tufa Xianbei",
+  "note": "They lived in Hexi. From 270 to 279 Tufa Shujineng rebelled against Jin and threw Liang Province into turmoil."
+ },
+ "people:小月氏（湟中胡）": {
+  "old": "Lesser Yuezhi (Huangzhong Hu)",
+  "note": "Remnants of the Yuezhi who stayed behind in Huangzhong when the Yuezhi moved west; under the Eastern Han they were called the Huangzhong Auxiliary Hu, and in 184 they joined the Liang Province rebellion."
+ },
+ "people:氐": {
+  "old": "Di",
+  "note": "They lived around Wudu and Yinping; in the late Han there were Di kings such as Qianwan and A Gui, and both Wei and Shu sought their support."
+ },
+ "people:賨人（板楯蛮）": {
+  "old": "Cong people (Banshun tribes)",
+  "note": "They lived around Dangqu in Ba Commandery and were famed as brave, fierce fighters."
+ },
+ "people:南中夷（叟、濮）": {
+  "old": "Nanzhong peoples (Sou and Pu)",
+  "note": "The peoples of the seven commanderies of Nanzhong; after his southern campaign Zhuge Liang formed their best fighters into the \"Flying Army\"."
+ },
+ "people:武陵蛮（五溪蛮）": {
+  "old": "Wuling tribes (Wuxi tribes)",
+  "note": "At the Battle of Yiling in 222 Shamoke, chief of the Wuxi tribes, led his people to help Liu Bei and was killed."
+ },
+ "people:山越": {
+  "old": "Shanyue",
+  "note": "Descendants of the Yue scattered through the hills of Danyang, Kuaiji and Yuzhang. Sun Wu campaigned against them many times; Zhuge Ke subdued the Shanyue of Danyang in 234–237 and gained 40,000 armoured troops."
+ },
+ "people:乌浒·俚": {
+  "old": "Wuhu and Li",
+  "note": "Native peoples of the Yulin and Hepu area of Jiao Province."
+ },
+ "people:黎（儋耳·珠崖）": {
+  "old": "Li (Dan'er and Zhuya)",
+  "note": "Hainan Island had been outside the commandery system since Emperor Yuan of the Western Han abolished Zhuya Commandery; in 242 Wu sent Nie You and Lu Kai to conquer it and re-established Zhuya Commandery."
+ },
+ "people:夷洲": {
+  "old": "Yizhou",
+  "note": "Generally thought to be today's Taiwan. In 230 Sun Quan sent Wei Wen and Zhuge Zhi across the sea, and they reached it."
+ },
+ "people:倭": {
+  "old": "Wa",
+  "note": "The Account of the Eastern Peoples in the Records of the Three Kingdoms says the Wa once had more than a hundred states, of which thirty now had dealings through envoys and interpreters; the queen Himiko had her capital in the state of Yamatai."
+ },
+ "people:马韩": {
+  "old": "Mahan"
+ },
+ "people:辰韩": {
+  "old": "Jinhan"
+ },
+ "people:弁韩": {
+  "old": "Byeonhan"
+ },
+ "people:濊": {
+  "old": "Ye"
+ },
+ "people:沃沮": {
+  "old": "Okjeo",
+  "note": "In 245 Guanqiu Jian pursued the king of Goguryeo as far as here."
+ },
+ "people:挹娄": {
+  "old": "Yilou",
+  "note": "That is, the ancient Sushen."
+ },
+ "people:丁零": {
+  "old": "Dingling"
+ },
+ "people:坚昆": {
+  "old": "Jiankun"
+ },
+ "people:乌孙": {
+  "old": "Wusun",
+  "note": "Its capital was Chigu City; a great state of the Western Regions in Han times."
+ },
+ "battle:下辨之战": {
+  "old": "Battle of Xiabian",
+  "mod": "west of Cheng County, Gansu",
+  "yt": "3rd month, 218",
+  "sides": "Cao Cao (Cao Hong) defeated Liu Bei (Wu Lan)",
+  "cmd": "Cao Hong and Cao Xiu vs. Wu Lan and Zhang Fei",
+  "note": "Liu Bei sent Zhang Fei, Ma Chao and Wu Lan to camp at Xiabian, and Zhang Fei let it be known that he would cut off the enemy's retreat. Cao Xiu saw through this and urged Cao Hong to strike Wu Lan at once; they routed him and beheaded his officer Ren Kui. Zhang Fei and Ma Chao withdrew, and Wu Lan fled to Yinping, where the Di killed him."
+ }
+}

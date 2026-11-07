@@ -1,6 +1,8 @@
 # 汉末三国形势图
 
-黄巾起事至三国归晋（184—280）的交互历史地图，以东汉永元六年（94）的鼎盛疆域作序章。36 个时间节点的诸侯与政权疆域，207 个郡国城邑的古今地名对照，117 场战役、50 个事件、27 处关隘、12 处都城行在，外加州界、蜀道栈道、曹魏孙吴运河三个时代专属图层。
+[![中文](https://img.shields.io/badge/lang-%E4%B8%AD%E6%96%87-red.svg)](README.md) [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+
+黄巾起事至三国归晋（184—280）的交互历史地图，中英双语，以东汉永元六年（94）的鼎盛疆域作序章。36 个时间节点的诸侯与政权疆域，207 个郡国城邑的古今地名对照，117 场战役、50 个事件、27 处关隘、12 处都城行在，外加州界、蜀道栈道、曹魏孙吴运河三个时代专属图层。
 
 ---
 
@@ -8,7 +10,9 @@
 
 双击 **`docs/index.html`**，用任意现代浏览器（Chrome、Edge、Safari、Firefox）打开即可。
 
-这个文件约 1.4 MB，数据、样式、脚本全部内嵌：不联网、不需要服务器、不依赖任何外部库。
+这个文件约 1.7 MB，数据、样式、脚本全部内嵌：不联网、不需要服务器、不依赖任何外部库。
+
+- 语言：地图右上角「中 | EN」切换（年表、对照表视图里在内容区右上角），选择会记在浏览器里；网址末尾加 `#en` 直接打开英文版。英文界面里地图只标英文，悬停说明、索引、年表、对照表在英文名后附注汉字原名；检索中英文都可以，英文不必打变音符号。
 
 ---
 
@@ -18,14 +22,14 @@ https://jackyijun.github.io/hanmosanguo-map/
 
 ---
 
-## 三、本地重新构建
+## 三、本地构建
 
 改了史料内容（`content/`）或参数（`src/config.py`）之后才需要重新构建。需要 **Python 3.9 或更新版本**。
 
 **macOS / Linux**
 
 ```bash
-cd sanguo-map
+cd hanmosanguo-map
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -35,7 +39,7 @@ python run.py --open
 **Windows（PowerShell）**
 
 ```powershell
-cd sanguo-map
+cd hanmosanguo-map
 py -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -49,6 +53,8 @@ python run.py --open
 | `python run.py` | 检查底图 → 计算疆域 → 拼装 HTML |
 | `python run.py --html` | 只重新拼装 HTML（只改了 `src/template.html` 时用，不到 1 秒） |
 | `python run.py --open` | 构建完后在浏览器中打开 |
+| `python run.py --html --draft` | 英文有缺译或过期时也照常生成（缺译处临时显示中文）；不加 `--draft` 时会报错停下 |
+| `python tools/i18n.py status` | 英文版状态：缺译、过期、未登记指纹各多少条（详见第七节） |
 | `python run.py --preview 190,229` | 额外画出这几个节点的疆域草图到 `build/preview.png`，便于检查归属是否填错 |
 | `python tools/preview.py 190 108,123,29,42` | 只画草图，可指定经纬范围（西,东,南,北） |
 
@@ -63,9 +69,11 @@ python run.py --open
 ## 四、目录结构
 
 ```
-sanguo-map/
+hanmosanguo-map/
 ├── run.py                 一键构建入口
 ├── requirements.txt
+├── README.md              说明（中文）
+├── README.en.md           说明（英文）
 ├── docs/
 │   ├── index.html         ★ 成品，单文件（GitHub Pages 从这里发布）
 │   └── .nojekyll          让 GitHub Pages 原样发布
@@ -73,19 +81,22 @@ sanguo-map/
 │   ├── seeds.py           320 个归属点：东汉郡国治所、城邑、只参与分区的辅助点、部族分区点
 │   ├── units.py           53 个政权、诸侯、部族与弃地：名称、配色、介绍
 │   ├── nodes.py           36 个时间节点：年号、标题、概述，以及当年哪些郡国换了主人
-│   └── items.py           都城、战役、关隘、事件、诸族、山脉与水系改名、运河、古道栈道
+│   ├── items.py           都城、战役、关隘、事件、诸族、山脉与水系改名、运河、古道栈道
+│   └── en/                ★ 英文版：与上面各文件一一对应的译文（JSON）、zh.lock.json 中文指纹、GLOSSARY.md 译名体例
 ├── src/
 │   ├── config.py          ★ 全部路径与可调参数（栅格、代价、平滑……）
 │   ├── fetch_data.py      检查底图，缺 ETOPO20 时下载
 │   ├── terrain.py         疆域算法：代价栅格、多源最短路、平滑、覆盖拼接
 │   ├── build.py           按节点算归属与疆域，输出 build/geo.json、data.json、colors.json
-│   ├── assemble.py        把数据注入模板，输出 docs/index.html
+│   ├── assemble.py        并入英文、检查缺译，把数据注入模板，输出 docs/index.html
+│   ├── i18n.py            英文版：列出需要翻译的条目、检查缺译与过期、把译文并入数据
 │   └── template.html      前端：页面结构、样式、交互脚本
 ├── geodata/
 │   ├── base.json          底图：陆地、湖泊、河流、今省界、今国界、荒漠、山脉脊线（已编码）
 │   └── etopo20/           ETOPO20 地形（1/3° 分辨率），算地形起伏用
 ├── tools/
-│   └── preview.py         matplotlib 疆域草图
+│   ├── preview.py         matplotlib 疆域草图
+│   └── i18n.py            英文版维护：status / todo / lock / table
 └── build/                 中间产物（可随时删除）
 ```
 
@@ -130,7 +141,8 @@ geodata/ (底图) ───┼─► build.py + terrain.py ─► build/*.json �
 - 着色可在“诸侯”（实际控制）与“政权”（名义所属）间切换；公孙氏、士燮、张鲁、黑山加斜线表示名义臣属、实则自立。
 - 弃地（北边羌胡杂居的诸郡、213 年曹操徙民后的江淮之间）和部族一样用淡色虚线，不算政权。
 - 时代专属图层：州界（220 年前东汉十三州，三国按魏蜀吴各自的州，晋按太康十九州）、古道栈道（八条蜀道与卢龙道）、运河（按开凿年份出现）。
-- 模板里有 4 个占位符：`__GEO__`、`__DATA__`、`__UCSS_LIGHT__`、`__UCSS_DARK__`，由 `assemble.py` 替换。
+- 语言：全部文字按当前语言取值（`LZ(中, 英)` 与 `iF(条目, 字段)` 等几个取值函数），切换时重绘地图、索引、年表与对照表。英文注记用画布实测宽度参与避让，疆域里放不下的长名自动折成两行。
+- 模板里有 4 个占位符：`__GEO__`、`__DATA__`、`__UCSS_LIGHT__`、`__UCSS_DARK__`，由 `assemble.py` 替换。`assemble.py` 先用 `src/i18n.py` 检查英文是否齐全、是否过期（不齐全就报错停下，`--draft` 除外），再把英文并入数据（单位 `ne`/`se`/`notee`，郡国城邑 `ne`/`nme`/`jne`/`mode`/`notee`，条目 `e`，节点 `erae`/`era2e`/`te`/`de`/`labe`，州名 `GEO.zhoue`），最后替换占位符。
 
 ---
 
@@ -153,9 +165,37 @@ geodata/ (底图) ───┼─► build.py + terrain.py ─► build/*.json �
 
 改完运行 `python run.py --preview 年份` 看草图，确认无误再看网页。
 
+**新增或改动了任何中文**（点、条目、单位、节点说明……）：同时补写或改写 `content/en/` 里的英文，否则严格构建会报缺译或过期，见第七节。
+
 ---
 
-## 七、调参
+## 七、英文版
+
+中文是源文本，英文按同样的键写在 `content/en/` 里：
+
+| 文件 | 内容 | 键 |
+|---|---|---|
+| `units.json` | 政权、诸侯、部族：全称 `n`、地图短名 `s`（可省）、说明 `note` | 单位键（如 `曹`） |
+| `labels.json` | 节点里的当年别名（如「魏王曹操」） | 中文别名 |
+| `seeds.json` | 郡国城邑：今地 `mod`、按语 `note`、各时期名称 `n`、所治郡名 `jn` | 点的 ID |
+| `items.json` | 条目：`old` `mod` `note` `yt` `sides` `cmd` | `类别:古名`（如 `battle:官渡之战`）；同名的加 `#2`、`#3` |
+| `snaps.json` | 时间节点：年号 `era`、蜀吴年号 `era2`、标题 `t`、概述 `d` | 年份 |
+| `misc.json` | 今省名 `prov`、州名 `zhou` | 中文名 |
+
+`zh.lock.json` 记着每条英文写成时对应中文的指纹（sha1 前 10 位）。中文改了而英文没改，构建就报“过期”。译名与写法的规矩见 `content/en/GLOSSARY.md`（拼音、外国地名、农历月份、战役胜负的写法等）。
+
+**改了中文之后**：
+
+1. `python tools/i18n.py status` 看有几条缺译、过期；
+2. `python tools/i18n.py todo` 列出这些条目的中文，到对应 JSON 里补写或改写英文；
+3. `python tools/i18n.py lock` 记下新的中文指纹；
+4. `python run.py --html` 重新拼装（严格模式，缺译会报错）。
+
+`python tools/i18n.py table` 导出全部中英对照到 `build/i18n-review.tsv`，便于审校。
+
+---
+
+## 八、调参
 
 所有可调参数都在 `src/config.py`：
 
@@ -172,9 +212,10 @@ geodata/ (底图) ───┼─► build.py + terrain.py ─► build/*.json �
 
 ---
 
-## 八、资料与可靠程度
+## 九、资料与可靠程度
 
 - **疆域归属**：依据《后汉书》《三国志》《资治通鉴》《晋书》与谭其骧《中国历史地图集》第二、三册的大意推定，由 AI 协助编写，未逐条核对原文。大的格局和关键年份比较可靠；某郡某年的具体归属、边缘地区（西域、漠北、南中、辽东以东）的范围较粗略。
 - **边界线**：完全是推算的示意线，只表示“这一带属于这一方”，不代表史书里有这样一条界线。
 - **演义与正史**：《三国演义》的虚构情节（温酒斩华雄、三英战吕布、过五关、空城计、华容道义释等）不列为战役，只在相关条目按语里注明出入。
 - **底图**：陆地、湖泊、河流、今国界来自 Natural Earth 1:10m（公有领域）；今省界与山脉脊线为手绘简化，沿用自《唐宋之际形势图》；地形为 NOAA ETOPO20（经 matplotlib/basemap 仓库分发）。
+- **英文版**：据中文翻译，名称体例见 `content/en/GLOSSARY.md`；月份是农历月序，不换算公历。
